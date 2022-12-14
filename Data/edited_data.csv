@@ -1,0 +1,1372 @@
+,Country,League,Season,Date,Time,Home,Away,HG,AG,Res,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA,home_conference,away_conference
+0,USA,MLS,2012,2012-03-10,23:00,Colorado Rapids,Columbus Crew,2,0,H,2.06,3.4,4.11,2.13,3.4,4.11,2.01,3.19,3.65,Western,Eastern
+1,USA,MLS,2012,2012-03-10,23:00,Vancouver Whitecaps,CF Montreal,2,0,H,2.04,3.44,4.11,2.04,3.44,4.11,1.97,3.27,3.7,Western,Eastern
+2,USA,MLS,2012,2012-03-11,00:30,DC United,Sporting Kansas City,0,1,A,2.57,3.31,3.04,2.6,3.6,3.04,2.46,3.11,2.81,Eastern,Eastern
+3,USA,MLS,2012,2012-03-11,03:30,Los Angeles Galaxy,Real Salt Lake,1,3,A,1.88,3.57,4.88,1.89,3.57,5.0,1.81,3.33,4.31,Western,Western
+4,USA,MLS,2012,2012-03-11,03:30,San Jose Earthquakes,New England Revolution,1,0,H,1.83,3.65,4.95,1.91,3.68,5.0,1.82,3.36,4.23,Western,Eastern
+5,USA,MLS,2012,2012-03-11,19:00,FC Dallas,New York Red Bulls,2,1,H,2.19,3.48,3.61,2.29,3.48,3.61,2.2,3.18,3.17,Western,Eastern
+6,USA,MLS,2012,2012-03-11,23:00,Chivas USA,Houston Dynamo,0,1,A,2.54,3.32,3.07,2.6,3.32,3.07,2.46,3.08,2.85,Eastern,Eastern
+7,USA,MLS,2012,2012-03-13,01:30,Portland Timbers,Philadelphia Union,3,1,H,2.14,3.29,4.01,2.2,3.3,4.01,2.12,3.16,3.4,Western,Eastern
+8,USA,MLS,2012,2012-03-17,18:00,CF Montreal,Chicago Fire,1,1,D,2.71,3.23,2.91,2.8,3.23,2.91,2.63,3.07,2.63,Eastern,Eastern
+9,USA,MLS,2012,2012-03-17,21:00,San Jose Earthquakes,Houston Dynamo,0,1,A,2.54,3.75,2.78,2.6,3.75,3.1,2.39,3.19,2.82,Western,Eastern
+10,USA,MLS,2012,2012-03-18,00:30,FC Dallas,Portland Timbers,1,1,D,2.33,3.14,3.65,2.36,3.4,4.3,2.06,3.17,3.64,Western,Western
+11,USA,MLS,2012,2012-03-18,00:30,Sporting Kansas City,New England Revolution,3,0,H,1.51,4.42,7.64,1.55,4.42,7.64,1.51,3.74,6.68,Eastern,Eastern
+12,USA,MLS,2012,2012-03-18,02:00,Real Salt Lake,New York Red Bulls,2,0,H,2.04,3.51,4.05,2.06,3.51,4.2,1.93,3.28,3.84,Western,Eastern
+13,USA,MLS,2012,2012-03-18,02:00,Seattle Sounders,Toronto FC,3,1,H,1.63,3.9,6.6,1.67,3.9,7.0,1.58,3.59,5.9,Western,Eastern
+14,USA,MLS,2012,2012-03-18,02:30,Chivas USA,Vancouver Whitecaps,0,1,A,2.15,3.55,3.69,2.45,3.55,3.69,2.22,3.17,3.17,Eastern,Western
+15,USA,MLS,2012,2012-03-18,20:00,Philadelphia Union,Colorado Rapids,1,2,A,2.44,3.16,3.39,2.44,3.25,3.5,2.23,3.12,3.22,Eastern,Western
+16,USA,MLS,2012,2012-03-18,23:00,Los Angeles Galaxy,DC United,3,1,H,1.63,3.96,6.47,1.65,4.0,6.75,1.56,3.69,5.95,Western,Eastern
+17,USA,MLS,2012,2012-03-24,02:00,Seattle Sounders,Houston Dynamo,2,0,H,1.99,3.51,4.29,2.0,3.51,4.59,1.87,3.34,4.05,Western,Eastern
+18,USA,MLS,2012,2012-03-24,17:00,Toronto FC,San Jose Earthquakes,0,3,A,2.46,3.15,3.36,2.46,3.2,3.36,2.35,3.08,3.02,Eastern,Western
+19,USA,MLS,2012,2012-03-24,20:00,Columbus Crew,CF Montreal,2,0,H,1.69,3.79,6.01,1.71,3.79,6.01,1.65,3.48,5.28,Eastern,Eastern
+20,USA,MLS,2012,2012-03-24,20:00,New England Revolution,Portland Timbers,1,0,H,3.21,3.34,2.44,3.21,3.34,2.62,2.84,3.13,2.44,Eastern,Western
+21,USA,MLS,2012,2012-03-25,00:30,Chicago Fire,Philadelphia Union,1,0,H,1.9,3.58,4.63,1.95,3.58,4.63,1.88,3.36,3.98,Eastern,Eastern
+22,USA,MLS,2012,2012-03-25,02:00,Real Salt Lake,Chivas USA,0,1,A,1.54,4.05,8.09,1.54,4.2,8.18,1.48,3.91,6.91,Western,Eastern
+23,USA,MLS,2012,2012-03-25,04:00,Vancouver Whitecaps,DC United,0,0,D,2.14,3.47,3.8,2.37,3.47,3.8,2.15,3.22,3.28,Western,Eastern
+24,USA,MLS,2012,2012-03-25,21:00,New York Red Bulls,Colorado Rapids,4,1,H,1.78,3.77,5.16,1.91,3.77,5.16,1.8,3.45,4.28,Eastern,Western
+25,USA,MLS,2012,2012-03-26,00:00,Sporting Kansas City,FC Dallas,2,1,H,1.87,3.62,4.8,1.95,3.62,4.8,1.89,3.28,4.06,Eastern,Western
+26,USA,MLS,2012,2012-03-31,00:30,DC United,FC Dallas,4,1,H,2.57,3.36,3.01,2.57,3.36,3.3,2.36,3.19,2.9,Eastern,Western
+27,USA,MLS,2012,2012-03-31,19:00,Toronto FC,Columbus Crew,0,1,A,2.87,3.23,2.76,2.9,3.25,2.8,2.63,3.14,2.6,Eastern,Eastern
+28,USA,MLS,2012,2012-03-31,21:00,New York Red Bulls,CF Montreal,5,2,H,1.49,4.38,8.27,1.53,4.38,8.27,1.48,3.87,6.95,Eastern,Eastern
+29,USA,MLS,2012,2012-03-31,21:00,Philadelphia Union,Vancouver Whitecaps,0,0,D,2.09,3.34,4.13,2.1,3.35,4.13,2.01,3.24,3.62,Eastern,Western
+30,USA,MLS,2012,2012-04-01,03:00,Portland Timbers,Real Salt Lake,2,3,A,2.85,3.08,2.89,2.85,3.25,2.95,2.54,3.07,2.76,Western,Western
+31,USA,MLS,2012,2012-04-01,03:00,Seattle Sounders,San Jose Earthquakes,0,1,A,2.02,3.51,4.13,2.02,3.6,5.0,1.82,3.39,4.3,Western,Western
+32,USA,MLS,2012,2012-04-01,04:00,Los Angeles Galaxy,New England Revolution,1,3,A,1.49,4.46,7.98,1.49,4.5,9.0,1.42,4.16,7.45,Western,Eastern
+33,USA,MLS,2012,2012-04-02,00:00,Colorado Rapids,Chicago Fire,2,0,H,2.02,3.46,4.18,2.1,3.46,4.33,2.0,3.25,3.67,Western,Eastern
+34,USA,MLS,2012,2012-04-02,02:00,Chivas USA,Sporting Kansas City,0,1,A,3.17,3.33,2.47,3.2,3.35,2.5,2.87,3.19,2.37,Eastern,Eastern
+35,USA,MLS,2012,2012-04-05,02:00,Real Salt Lake,CF Montreal,1,0,H,1.4,5.14,9.0,1.4,5.14,9.1,1.38,4.45,7.69,Western,Eastern
+36,USA,MLS,2012,2012-04-06,01:30,FC Dallas,New England Revolution,1,0,H,2.1,3.3,4.0,2.11,3.8,5.0,1.87,3.33,4.08,Western,Eastern
+37,USA,MLS,2012,2012-04-07,17:00,CF Montreal,Toronto FC,2,1,H,2.2,3.35,3.7,2.29,3.35,3.8,2.17,3.21,3.24,Eastern,Eastern
+38,USA,MLS,2012,2012-04-07,20:00,Columbus Crew,New York Red Bulls,1,4,A,2.78,3.19,2.86,2.78,3.25,3.2,2.48,3.14,2.78,Eastern,Eastern
+39,USA,MLS,2012,2012-04-07,21:00,Sporting Kansas City,Los Angeles Galaxy,1,0,H,2.0,3.45,4.28,2.1,3.5,4.28,1.98,3.31,3.62,Eastern,Western
+40,USA,MLS,2012,2012-04-08,00:00,San Jose Earthquakes,Vancouver Whitecaps,3,1,H,1.83,3.55,5.17,2.0,3.59,5.17,1.86,3.31,4.16,Western,Western
+41,USA,MLS,2012,2012-04-08,00:30,DC United,Seattle Sounders,0,0,D,2.41,3.5,3.13,2.6,3.5,3.13,2.44,3.18,2.81,Eastern,Western
+42,USA,MLS,2012,2012-04-08,02:00,Real Salt Lake,Colorado Rapids,2,0,H,1.89,3.55,4.74,1.92,3.7,5.75,1.78,3.38,4.48,Western,Western
+43,USA,MLS,2012,2012-04-08,03:30,Portland Timbers,Chivas USA,1,2,A,1.84,3.58,5.08,1.9,3.58,5.2,1.82,3.33,4.34,Western,Eastern
+44,USA,MLS,2012,2012-04-14,20:30,Philadelphia Union,Columbus Crew,1,0,H,2.12,3.38,3.97,2.29,3.38,3.97,2.17,3.2,3.26,Eastern,Eastern
+45,USA,MLS,2012,2012-04-14,21:00,New England Revolution,DC United,1,2,A,2.76,3.29,2.82,2.77,3.29,3.0,2.44,3.16,2.82,Eastern,Eastern
+46,USA,MLS,2012,2012-04-14,21:00,Seattle Sounders,Colorado Rapids,1,0,H,1.92,3.53,4.66,1.93,3.53,4.67,1.83,3.3,4.28,Western,Western
+47,USA,MLS,2012,2012-04-14,21:30,Toronto FC,Chivas USA,0,1,A,2.45,3.29,3.25,2.46,3.3,3.25,2.36,3.16,2.92,Eastern,Eastern
+48,USA,MLS,2012,2012-04-15,00:00,New York Red Bulls,San Jose Earthquakes,2,2,D,1.91,3.65,4.5,1.91,3.65,4.75,1.78,3.46,4.33,Eastern,Western
+49,USA,MLS,2012,2012-04-15,01:30,FC Dallas,CF Montreal,2,1,H,1.74,3.7,5.67,1.8,3.8,6.0,1.62,3.62,5.32,Western,Eastern
+50,USA,MLS,2012,2012-04-15,01:30,Sporting Kansas City,Real Salt Lake,1,0,H,2.04,3.49,4.08,2.1,3.49,4.09,1.98,3.23,3.7,Eastern,Western
+51,USA,MLS,2012,2012-04-15,03:30,Los Angeles Galaxy,Portland Timbers,3,1,H,1.72,3.85,5.55,1.72,3.86,6.0,1.62,3.61,5.33,Western,Western
+52,USA,MLS,2012,2012-04-16,00:00,Chicago Fire,Houston Dynamo,1,1,D,2.43,3.34,3.23,2.43,3.34,3.5,2.23,3.12,3.17,Eastern,Eastern
+53,USA,MLS,2012,2012-04-19,00:30,DC United,CF Montreal,1,1,D,1.59,4.13,6.75,1.62,4.25,6.82,1.58,3.75,5.62,Eastern,Eastern
+54,USA,MLS,2012,2012-04-19,03:00,Vancouver Whitecaps,Sporting Kansas City,1,3,A,3.74,3.5,2.13,3.74,3.5,2.35,3.25,3.19,2.18,Western,Eastern
+55,USA,MLS,2012,2012-04-21,20:30,Toronto FC,Chicago Fire,2,3,A,2.76,3.09,2.99,2.84,3.2,2.99,2.56,3.06,2.77,Eastern,Eastern
+56,USA,MLS,2012,2012-04-22,00:30,Columbus Crew,Houston Dynamo,2,2,D,2.82,3.34,2.73,2.82,3.34,3.0,2.55,3.11,2.72,Eastern,Eastern
+57,USA,MLS,2012,2012-04-22,02:00,Colorado Rapids,Los Angeles Galaxy,1,2,A,2.66,3.53,2.77,2.69,3.53,2.8,2.5,3.18,2.72,Western,Western
+58,USA,MLS,2012,2012-04-22,03:00,Vancouver Whitecaps,FC Dallas,1,0,H,2.47,3.38,3.13,2.52,3.38,3.13,2.4,3.15,2.88,Western,Western
+59,USA,MLS,2012,2012-04-22,03:30,Chivas USA,Philadelphia Union,0,1,A,1.88,3.69,4.59,2.25,3.69,4.59,1.97,3.32,3.71,Eastern,Eastern
+60,USA,MLS,2012,2012-04-22,03:30,Portland Timbers,Sporting Kansas City,1,0,H,2.97,3.61,2.46,3.0,3.61,2.65,2.79,3.21,2.42,Western,Eastern
+61,USA,MLS,2012,2012-04-22,03:30,San Jose Earthquakes,Real Salt Lake,3,1,H,2.67,3.3,2.92,2.67,3.3,3.1,2.41,3.13,2.88,Western,Western
+62,USA,MLS,2012,2012-04-22,23:00,DC United,New York Red Bulls,4,1,H,2.62,3.65,2.73,2.8,3.65,2.75,2.56,3.28,2.59,Eastern,Eastern
+63,USA,MLS,2012,2012-04-26,01:30,FC Dallas,Real Salt Lake,1,1,D,2.65,3.2,3.02,2.65,3.3,3.1,2.38,3.14,2.92,Western,Western
+64,USA,MLS,2012,2012-04-28,19:00,CF Montreal,Portland Timbers,2,0,H,2.35,3.27,3.45,2.5,3.27,3.51,2.31,3.13,3.06,Eastern,Western
+65,USA,MLS,2012,2012-04-28,20:30,New York Red Bulls,New England Revolution,1,0,H,1.98,3.47,4.4,2.0,3.55,4.75,1.85,3.4,4.09,Eastern,Eastern
+66,USA,MLS,2012,2012-04-29,00:00,Philadelphia Union,San Jose Earthquakes,1,2,A,3.03,3.27,2.6,3.03,3.27,2.85,2.65,3.1,2.62,Eastern,Western
+67,USA,MLS,2012,2012-04-29,00:30,Columbus Crew,Vancouver Whitecaps,0,1,A,2.11,3.36,4.01,2.2,3.4,4.01,2.1,3.2,3.43,Eastern,Western
+68,USA,MLS,2012,2012-04-29,00:30,DC United,Houston Dynamo,3,2,H,2.37,3.33,3.38,2.37,3.6,3.4,2.24,3.2,3.11,Eastern,Eastern
+69,USA,MLS,2012,2012-04-29,01:30,Chicago Fire,Seattle Sounders,1,2,A,2.68,3.35,2.85,2.68,3.35,3.0,2.48,3.13,2.78,Eastern,Western
+70,USA,MLS,2012,2012-04-29,02:00,Colorado Rapids,Chivas USA,4,0,H,1.95,3.38,4.7,2.0,3.55,4.7,1.92,3.28,3.89,Western,Eastern
+71,USA,MLS,2012,2012-04-29,02:00,Real Salt Lake,Toronto FC,3,2,H,1.42,4.91,8.85,1.44,4.91,8.85,1.41,4.21,7.65,Western,Eastern
+72,USA,MLS,2012,2012-04-29,03:30,Los Angeles Galaxy,FC Dallas,1,1,D,1.7,4.01,5.49,1.7,4.01,6.02,1.62,3.63,5.32,Western,Western
+73,USA,MLS,2012,2012-05-03,01:00,New England Revolution,Colorado Rapids,2,1,H,2.24,3.53,3.43,2.36,3.53,3.45,2.24,3.27,3.03,Eastern,Western
+74,USA,MLS,2012,2012-05-03,03:00,Seattle Sounders,Los Angeles Galaxy,2,0,H,1.78,3.72,5.33,2.1,3.72,5.33,1.88,3.42,3.98,Western,Western
+75,USA,MLS,2012,2012-05-03,03:30,San Jose Earthquakes,DC United,5,3,H,1.85,3.76,4.71,1.95,3.76,4.97,1.82,3.45,4.15,Western,Eastern
+76,USA,MLS,2012,2012-05-05,04:00,Chivas USA,Chicago Fire,1,2,A,2.59,3.55,2.84,2.7,3.55,3.0,2.42,3.17,2.82,Eastern,Eastern
+77,USA,MLS,2012,2012-05-05,21:00,Toronto FC,DC United,0,2,A,2.63,3.33,2.94,2.85,3.33,2.94,2.63,3.2,2.58,Eastern,Eastern
+78,USA,MLS,2012,2012-05-05,21:30,Seattle Sounders,Philadelphia Union,1,0,H,1.58,4.08,6.91,1.62,4.08,6.97,1.56,3.73,5.87,Western,Eastern
+79,USA,MLS,2012,2012-05-06,00:00,Vancouver Whitecaps,San Jose Earthquakes,2,1,H,2.97,3.41,2.56,3.04,3.41,2.75,2.67,3.17,2.53,Western,Western
+80,USA,MLS,2012,2012-05-06,01:00,Los Angeles Galaxy,New York Red Bulls,0,1,A,1.68,4.01,5.62,1.8,4.01,5.62,1.69,3.58,4.72,Western,Eastern
+81,USA,MLS,2012,2012-05-06,01:30,Sporting Kansas City,CF Montreal,0,2,A,1.38,4.9,11.15,1.45,4.9,11.15,1.38,4.24,8.48,Eastern,Eastern
+82,USA,MLS,2012,2012-05-06,02:00,Real Salt Lake,New England Revolution,2,1,H,1.53,4.44,7.06,1.56,4.44,7.25,1.51,3.93,6.09,Western,Eastern
+83,USA,MLS,2012,2012-05-06,03:30,Portland Timbers,Columbus Crew,0,0,D,2.08,3.42,4.04,2.08,3.44,4.04,2.0,3.27,3.59,Western,Eastern
+84,USA,MLS,2012,2012-05-07,00:00,FC Dallas,Colorado Rapids,0,2,A,2.25,3.31,3.63,2.25,3.35,3.9,2.05,3.23,3.52,Western,Western
+85,USA,MLS,2012,2012-05-10,00:00,New York Red Bulls,Houston Dynamo,1,0,H,2.34,3.39,3.36,2.36,3.39,3.8,2.15,3.24,3.27,Eastern,Eastern
+86,USA,MLS,2012,2012-05-10,01:30,Chicago Fire,Real Salt Lake,0,0,D,2.06,3.71,3.75,2.4,3.71,3.75,2.14,3.34,3.2,Eastern,Western
+87,USA,MLS,2012,2012-05-10,01:30,FC Dallas,Seattle Sounders,0,2,A,3.02,3.22,2.64,3.1,3.27,2.69,2.88,3.15,2.41,Western,Western
+88,USA,MLS,2012,2012-05-12,21:00,CF Montreal,Los Angeles Galaxy,1,1,D,2.98,3.57,2.47,3.17,3.62,2.47,2.92,3.26,2.32,Eastern,Western
+89,USA,MLS,2012,2012-05-12,21:30,Houston Dynamo,DC United,1,0,H,1.88,3.7,4.59,1.91,3.7,4.59,1.86,3.44,3.95,Eastern,Eastern
+90,USA,MLS,2012,2012-05-13,00:30,Columbus Crew,FC Dallas,2,1,H,2.18,3.56,3.56,2.29,3.56,3.56,2.2,3.23,3.18,Eastern,Western
+91,USA,MLS,2012,2012-05-13,00:30,New England Revolution,Vancouver Whitecaps,4,1,H,2.18,3.56,3.56,2.25,3.56,3.56,2.18,3.22,3.22,Eastern,Western
+92,USA,MLS,2012,2012-05-13,01:30,Chicago Fire,Sporting Kansas City,2,1,H,3.07,3.34,2.52,3.09,3.34,2.75,2.72,3.15,2.53,Eastern,Eastern
+93,USA,MLS,2012,2012-05-13,03:00,Seattle Sounders,Real Salt Lake,0,1,A,1.94,3.62,4.37,2.0,3.65,4.5,1.91,3.34,3.88,Western,Western
+94,USA,MLS,2012,2012-05-13,17:30,Philadelphia Union,New York Red Bulls,2,3,A,2.68,3.24,2.95,2.72,3.24,2.95,2.52,3.12,2.74,Eastern,Eastern
+95,USA,MLS,2012,2012-05-14,00:00,San Jose Earthquakes,Chivas USA,1,1,D,1.67,3.89,6.16,1.7,4.09,6.16,1.62,3.68,5.27,Western,Eastern
+96,USA,MLS,2012,2012-05-16,01:30,Houston Dynamo,Portland Timbers,0,0,D,1.74,3.7,5.75,1.74,3.85,6.5,1.61,3.59,5.45,Eastern,Western
+97,USA,MLS,2012,2012-05-17,00:30,DC United,Colorado Rapids,2,0,H,2.12,3.48,3.82,2.15,3.48,3.82,2.04,3.27,3.47,Eastern,Western
+98,USA,MLS,2012,2012-05-19,22:00,Vancouver Whitecaps,Seattle Sounders,2,2,D,3.18,3.44,2.41,3.18,3.44,2.41,2.96,3.16,2.35,Western,Western
+99,USA,MLS,2012,2012-05-20,00:30,DC United,Toronto FC,3,1,H,1.64,4.28,5.7,1.64,4.28,6.0,1.58,3.84,5.39,Eastern,Eastern
+100,USA,MLS,2012,2012-05-20,00:30,CF Montreal,New York Red Bulls,1,2,A,2.46,3.45,3.08,2.8,3.45,3.08,2.5,3.18,2.74,Eastern,Eastern
+101,USA,MLS,2012,2012-05-20,00:30,New England Revolution,Houston Dynamo,2,2,D,2.46,3.48,3.06,2.5,3.48,3.18,2.42,3.18,2.83,Eastern,Eastern
+102,USA,MLS,2012,2012-05-20,01:30,FC Dallas,Philadelphia Union,1,1,D,2.06,3.48,4.03,2.1,3.5,4.33,1.93,3.3,3.86,Western,Eastern
+103,USA,MLS,2012,2012-05-20,02:00,Colorado Rapids,Sporting Kansas City,2,2,D,3.1,3.36,2.5,3.1,3.36,2.7,2.77,3.15,2.49,Western,Eastern
+104,USA,MLS,2012,2012-05-20,03:30,Chivas USA,Los Angeles Galaxy,1,0,H,3.98,3.55,2.04,4.33,3.55,2.06,3.71,3.25,1.97,Eastern,Western
+105,USA,MLS,2012,2012-05-20,03:30,San Jose Earthquakes,Columbus Crew,1,1,D,1.6,4.11,6.62,1.65,4.11,6.62,1.59,3.72,5.53,Western,Eastern
+106,USA,MLS,2012,2012-05-21,00:00,Portland Timbers,Chicago Fire,2,1,H,2.25,3.38,3.57,2.29,3.4,3.59,2.21,3.2,3.15,Western,Eastern
+107,USA,MLS,2012,2012-05-24,00:00,New York Red Bulls,Chivas USA,1,1,D,1.63,3.97,6.45,1.64,4.08,6.48,1.57,3.64,5.86,Eastern,Eastern
+108,USA,MLS,2012,2012-05-24,01:30,Chicago Fire,FC Dallas,2,1,H,2.04,3.33,4.32,2.04,3.33,4.34,1.95,3.23,3.85,Eastern,Western
+109,USA,MLS,2012,2012-05-24,03:00,Seattle Sounders,Columbus Crew,0,2,A,1.63,3.75,7.15,1.63,3.85,7.5,1.53,3.66,6.51,Western,Eastern
+110,USA,MLS,2012,2012-05-24,03:30,Los Angeles Galaxy,San Jose Earthquakes,2,3,A,2.56,3.29,3.07,2.58,3.33,3.6,2.29,3.14,3.11,Western,Western
+111,USA,MLS,2012,2012-05-26,19:30,Houston Dynamo,Los Angeles Galaxy,2,1,H,2.18,3.39,3.75,2.2,3.39,3.89,2.11,3.19,3.41,Eastern,Western
+112,USA,MLS,2012,2012-05-26,21:30,Toronto FC,Philadelphia Union,1,0,H,2.0,3.44,4.22,2.2,3.52,4.26,1.98,3.28,3.68,Eastern,Eastern
+113,USA,MLS,2012,2012-05-27,00:00,Columbus Crew,Chicago Fire,2,1,H,2.46,3.26,3.25,2.46,3.37,3.25,2.33,3.16,2.97,Eastern,Eastern
+114,USA,MLS,2012,2012-05-27,00:30,DC United,New England Revolution,3,2,H,1.84,3.7,4.84,1.85,3.7,4.91,1.8,3.42,4.29,Eastern,Eastern
+115,USA,MLS,2012,2012-05-27,02:00,Colorado Rapids,CF Montreal,3,2,H,1.76,3.75,5.41,1.83,3.75,5.41,1.74,3.43,4.62,Western,Eastern
+116,USA,MLS,2012,2012-05-27,02:00,Real Salt Lake,FC Dallas,3,2,H,1.7,3.77,6.0,1.7,3.77,6.25,1.62,3.48,5.59,Western,Western
+117,USA,MLS,2012,2012-05-27,03:00,Portland Timbers,Vancouver Whitecaps,1,1,D,2.21,3.27,3.81,2.22,3.31,3.81,2.06,3.21,3.51,Western,Western
+118,USA,MLS,2012,2012-05-27,03:30,Chivas USA,Seattle Sounders,1,1,D,3.17,3.33,2.48,3.22,3.5,2.48,2.96,3.15,2.34,Eastern,Western
+119,USA,MLS,2012,2012-05-27,21:30,Sporting Kansas City,San Jose Earthquakes,2,1,H,1.83,3.63,5.01,1.83,3.67,5.05,1.75,3.44,4.56,Eastern,Western
+120,USA,MLS,2012,2012-06-03,00:30,New England Revolution,Chicago Fire,2,0,H,2.16,3.35,3.81,2.29,3.36,3.81,2.13,3.25,3.27,Eastern,Eastern
+121,USA,MLS,2012,2012-06-11,00:00,Vancouver Whitecaps,Houston Dynamo,3,1,H,2.47,3.35,3.15,2.5,3.36,3.15,2.36,3.17,2.92,Western,Eastern
+122,USA,MLS,2012,2012-06-17,00:00,Philadelphia Union,DC United,0,1,A,2.66,3.48,2.8,2.75,3.48,2.8,2.59,3.19,2.6,Eastern,Eastern
+123,USA,MLS,2012,2012-06-17,00:00,Vancouver Whitecaps,Colorado Rapids,1,0,H,1.99,3.58,4.2,2.15,3.58,4.2,1.97,3.29,3.65,Western,Western
+124,USA,MLS,2012,2012-06-17,00:30,Houston Dynamo,FC Dallas,2,1,H,1.7,3.8,5.84,1.8,3.8,5.84,1.72,3.45,4.74,Eastern,Western
+125,USA,MLS,2012,2012-06-17,00:30,CF Montreal,Seattle Sounders,4,1,H,3.07,3.41,2.49,3.07,3.42,2.54,2.79,3.16,2.43,Eastern,Western
+126,USA,MLS,2012,2012-06-17,00:30,New England Revolution,Columbus Crew,0,0,D,2.25,3.45,3.49,2.25,3.47,3.7,2.1,3.27,3.32,Eastern,Eastern
+127,USA,MLS,2012,2012-06-17,01:30,Sporting Kansas City,Toronto FC,2,0,H,1.6,4.17,6.46,1.6,4.34,8.0,1.46,4.02,6.76,Eastern,Eastern
+128,USA,MLS,2012,2012-06-17,03:30,Chivas USA,Real Salt Lake,0,3,A,3.02,3.36,2.56,3.3,3.4,2.56,2.92,3.15,2.36,Eastern,Western
+129,USA,MLS,2012,2012-06-17,22:00,Chicago Fire,New York Red Bulls,3,1,H,2.34,3.54,3.22,2.4,3.55,3.22,2.3,3.23,2.97,Eastern,Eastern
+130,USA,MLS,2012,2012-06-18,00:00,Los Angeles Galaxy,Portland Timbers,1,0,H,1.7,3.84,5.82,1.76,3.84,5.82,1.68,3.53,4.81,Western,Western
+131,USA,MLS,2012,2012-06-21,02:00,Houston Dynamo,Toronto FC,3,3,D,1.61,4.09,6.4,1.61,4.5,7.0,1.52,3.94,5.97,Eastern,Eastern
+132,USA,MLS,2012,2012-06-21,02:00,Real Salt Lake,Los Angeles Galaxy,2,3,A,1.91,3.62,4.54,1.91,3.65,4.63,1.8,3.46,4.23,Western,Western
+133,USA,MLS,2012,2012-06-21,02:30,Colorado Rapids,San Jose Earthquakes,1,2,A,2.24,3.49,3.45,2.4,3.8,3.45,2.24,3.24,3.06,Western,Western
+134,USA,MLS,2012,2012-06-21,03:00,Seattle Sounders,Sporting Kansas City,1,1,D,2.2,3.39,3.68,2.25,3.46,3.68,2.14,3.23,3.28,Western,Eastern
+135,USA,MLS,2012,2012-06-21,03:30,Chivas USA,CF Montreal,2,1,H,2.34,3.31,3.44,2.34,3.31,3.6,2.15,3.17,3.32,Eastern,Eastern
+136,USA,MLS,2012,2012-06-21,04:00,Vancouver Whitecaps,New York Red Bulls,1,1,D,2.21,3.5,3.57,2.29,3.5,3.57,2.18,3.24,3.18,Western,Eastern
+137,USA,MLS,2012,2012-06-23,22:30,Toronto FC,New England Revolution,2,2,D,2.21,3.46,3.57,2.29,3.8,3.57,2.2,3.26,3.13,Eastern,Eastern
+138,USA,MLS,2012,2012-06-24,00:00,Philadelphia Union,Sporting Kansas City,4,0,H,3.41,3.47,2.27,3.41,3.47,2.38,3.03,3.21,2.26,Eastern,Eastern
+139,USA,MLS,2012,2012-06-24,00:30,CF Montreal,Houston Dynamo,4,2,H,2.48,3.45,3.06,2.48,3.49,3.2,2.33,3.23,2.92,Eastern,Eastern
+140,USA,MLS,2012,2012-06-24,01:30,Chicago Fire,Columbus Crew,2,1,H,1.94,3.44,4.67,1.94,3.63,4.69,1.89,3.3,4.04,Eastern,Eastern
+141,USA,MLS,2012,2012-06-24,02:00,FC Dallas,Chivas USA,0,0,D,1.85,3.66,4.79,2.08,3.7,4.88,1.85,3.36,4.17,Western,Eastern
+142,USA,MLS,2012,2012-06-24,02:00,Real Salt Lake,San Jose Earthquakes,1,2,A,2.06,3.38,4.15,2.06,3.5,4.33,1.92,3.32,3.88,Western,Western
+143,USA,MLS,2012,2012-06-24,03:30,Los Angeles Galaxy,Vancouver Whitecaps,3,0,H,1.76,3.67,5.53,1.76,3.75,6.05,1.65,3.55,5.18,Western,Western
+144,USA,MLS,2012,2012-06-24,22:00,Portland Timbers,Seattle Sounders,2,1,H,2.7,3.33,2.86,2.8,3.33,2.86,2.64,3.14,2.61,Western,Western
+145,USA,MLS,2012,2012-06-25,00:00,New York Red Bulls,DC United,3,2,H,2.14,3.7,3.53,2.16,3.7,4.0,1.97,3.35,3.62,Eastern,Eastern
+146,USA,MLS,2012,2012-06-28,00:30,CF Montreal,Toronto FC,0,3,A,1.85,3.68,4.84,1.85,3.7,4.84,1.79,3.48,4.26,Eastern,Eastern
+147,USA,MLS,2012,2012-06-30,01:00,Sporting Kansas City,Chicago Fire,0,1,A,1.88,3.66,4.59,1.89,3.67,5.0,1.76,3.46,4.44,Eastern,Eastern
+148,USA,MLS,2012,2012-07-01,00:00,Toronto FC,New York Red Bulls,1,1,D,2.87,3.55,2.57,3.1,3.55,2.58,2.8,3.24,2.38,Eastern,Eastern
+149,USA,MLS,2012,2012-07-01,00:30,DC United,CF Montreal,3,0,H,1.63,4.26,5.88,1.67,4.3,5.88,1.58,3.86,5.24,Eastern,Eastern
+150,USA,MLS,2012,2012-07-01,00:30,New England Revolution,Seattle Sounders,2,2,D,2.23,3.32,3.68,2.4,3.36,3.68,3.16,3.15,3.13,Eastern,Western
+151,USA,MLS,2012,2012-07-01,01:30,Houston Dynamo,Philadelphia Union,2,1,H,1.87,3.56,4.88,1.87,3.56,5.2,1.76,3.4,4.53,Eastern,Eastern
+152,USA,MLS,2012,2012-07-01,02:00,Colorado Rapids,Portland Timbers,3,0,H,1.78,3.72,5.25,1.8,3.72,5.28,1.72,3.43,4.74,Western,Western
+153,USA,MLS,2012,2012-07-01,02:00,Columbus Crew,Real Salt Lake,2,0,H,2.47,3.29,3.2,2.54,3.29,3.2,2.4,3.17,2.91,Eastern,Western
+154,USA,MLS,2012,2012-07-01,03:00,San Jose Earthquakes,Los Angeles Galaxy,4,3,H,2.29,3.57,3.27,2.4,3.57,3.28,2.27,3.27,2.98,Western,Western
+155,USA,MLS,2012,2012-07-04,01:30,Houston Dynamo,Chicago Fire,0,0,D,2.17,3.49,3.64,2.2,3.58,3.73,2.08,3.3,3.37,Eastern,Eastern
+156,USA,MLS,2012,2012-07-04,03:30,Portland Timbers,San Jose Earthquakes,2,1,H,3.1,3.5,2.43,3.1,3.5,2.44,2.86,3.25,2.35,Western,Western
+157,USA,MLS,2012,2012-07-05,00:00,CF Montreal,Sporting Kansas City,1,3,A,3.06,3.39,2.5,3.17,3.5,2.5,2.84,3.24,2.38,Eastern,Eastern
+158,USA,MLS,2012,2012-07-05,02:00,FC Dallas,Toronto FC,1,1,D,1.99,3.6,4.13,2.02,3.61,4.75,1.86,3.37,4.1,Western,Eastern
+159,USA,MLS,2012,2012-07-05,02:30,Colorado Rapids,Vancouver Whitecaps,0,1,A,1.71,3.84,5.7,1.91,3.84,5.7,1.76,3.48,4.49,Western,Western
+160,USA,MLS,2012,2012-07-05,03:00,Real Salt Lake,Seattle Sounders,0,0,D,2.04,3.59,3.95,2.06,3.59,4.2,1.94,3.37,3.72,Western,Western
+161,USA,MLS,2012,2012-07-05,03:30,Los Angeles Galaxy,Philadelphia Union,1,2,A,1.73,3.83,5.51,1.73,3.85,7.0,1.57,3.7,5.75,Western,Eastern
+162,USA,MLS,2012,2012-07-08,01:00,Sporting Kansas City,Houston Dynamo,0,0,D,1.74,3.99,5.17,1.75,3.99,5.3,1.7,3.51,4.73,Eastern,Eastern
+163,USA,MLS,2012,2012-07-08,02:00,FC Dallas,San Jose Earthquakes,0,0,D,2.79,3.35,2.75,2.79,3.35,2.75,2.6,3.13,2.62,Western,Western
+164,USA,MLS,2012,2012-07-08,02:00,Real Salt Lake,Portland Timbers,3,0,H,1.58,4.01,7.23,1.6,4.04,7.8,1.53,3.73,6.29,Western,Western
+165,USA,MLS,2012,2012-07-08,03:30,Chivas USA,Vancouver Whitecaps,0,0,D,2.6,3.3,3.0,2.64,3.3,3.3,2.35,3.12,3.0,Eastern,Western
+166,USA,MLS,2012,2012-07-08,04:00,Seattle Sounders,Colorado Rapids,2,1,H,1.86,3.67,4.75,1.86,3.67,5.15,1.75,3.42,4.61,Western,Western
+167,USA,MLS,2012,2012-07-08,20:00,Chicago Fire,Los Angeles Galaxy,0,2,A,2.27,3.41,3.48,2.4,3.41,3.54,2.22,3.23,3.13,Eastern,Western
+168,USA,MLS,2012,2012-07-08,21:00,Philadelphia Union,Toronto FC,3,0,H,2.09,3.54,3.85,2.09,3.54,4.0,1.96,3.32,3.71,Eastern,Eastern
+169,USA,MLS,2012,2012-07-09,00:00,New England Revolution,New York Red Bulls,2,0,H,2.34,3.33,3.4,2.4,3.43,3.4,2.28,3.2,3.02,Eastern,Eastern
+170,USA,MLS,2012,2012-07-09,00:30,CF Montreal,Columbus Crew,2,1,H,2.56,3.35,3.03,2.56,3.35,3.2,2.34,3.15,2.97,Eastern,Eastern
+171,USA,MLS,2012,2012-07-12,00:00,Toronto FC,Vancouver Whitecaps,3,2,H,2.17,3.37,3.84,2.25,3.4,3.84,2.13,3.22,3.35,Eastern,Western
+172,USA,MLS,2012,2012-07-15,00:00,Philadelphia Union,CF Montreal,2,1,H,1.95,3.68,4.2,1.95,3.68,4.33,1.89,3.39,3.85,Eastern,Eastern
+173,USA,MLS,2012,2012-07-15,00:30,Columbus Crew,Sporting Kansas City,0,2,A,2.67,3.32,2.92,2.67,3.32,3.2,2.4,3.15,2.9,Eastern,Eastern
+174,USA,MLS,2012,2012-07-15,00:30,New England Revolution,Toronto FC,0,1,A,1.83,3.87,4.58,1.83,3.87,5.0,1.74,3.53,4.53,Eastern,Eastern
+175,USA,MLS,2012,2012-07-15,01:30,Chicago Fire,Vancouver Whitecaps,1,0,H,1.86,3.47,5.09,1.86,3.65,5.15,1.74,3.45,4.6,Eastern,Western
+176,USA,MLS,2012,2012-07-15,02:00,Colorado Rapids,FC Dallas,1,2,A,1.98,3.46,4.42,2.0,3.53,4.42,1.89,3.34,3.91,Western,Western
+177,USA,MLS,2012,2012-07-15,03:30,San Jose Earthquakes,Real Salt Lake,5,0,H,2.33,3.34,3.44,2.33,3.41,3.55,2.14,3.24,3.28,Western,Western
+178,USA,MLS,2012,2012-07-15,04:00,Portland Timbers,Los Angeles Galaxy,3,5,A,3.0,3.53,2.48,3.1,3.53,2.5,2.81,3.22,2.4,Western,Western
+179,USA,MLS,2012,2012-07-15,21:00,New York Red Bulls,Seattle Sounders,2,2,D,2.15,3.49,3.73,2.15,3.49,4.0,2.03,3.29,3.53,Eastern,Western
+180,USA,MLS,2012,2012-07-16,02:00,Houston Dynamo,DC United,4,0,H,2.24,3.45,3.52,2.24,3.45,3.52,2.12,3.28,3.25,Eastern,Eastern
+181,USA,MLS,2012,2012-07-18,18:00,New York Red Bulls,Chicago Fire,1,0,H,1.85,3.71,4.73,1.95,3.71,4.73,1.85,3.4,4.07,Eastern,Eastern
+182,USA,MLS,2012,2012-07-18,21:00,Chivas USA,Portland Timbers,1,0,H,2.52,3.26,3.17,2.52,3.6,3.5,2.26,3.17,3.11,Eastern,Western
+183,USA,MLS,2012,2012-07-19,00:00,Toronto FC,Colorado Rapids,2,1,H,2.62,3.42,2.9,2.7,3.42,3.0,2.45,3.2,2.77,Eastern,Western
+184,USA,MLS,2012,2012-07-19,01:00,CF Montreal,New England Revolution,2,1,H,2.12,3.6,3.61,2.12,3.61,3.77,2.03,3.34,3.44,Eastern,Eastern
+185,USA,MLS,2012,2012-07-19,01:30,Houston Dynamo,Sporting Kansas City,2,1,H,2.43,3.27,3.26,2.54,3.3,3.26,2.36,3.14,2.94,Eastern,Eastern
+186,USA,MLS,2012,2012-07-19,03:00,Vancouver Whitecaps,Los Angeles Galaxy,2,2,D,3.03,3.35,2.56,3.3,3.35,2.56,2.98,3.22,2.3,Western,Western
+187,USA,MLS,2012,2012-07-19,04:00,San Jose Earthquakes,FC Dallas,2,1,H,1.74,3.84,5.46,1.74,3.94,5.53,1.62,3.61,5.32,Western,Western
+188,USA,MLS,2012,2012-07-21,19:40,New York Red Bulls,Philadelphia Union,2,0,H,1.97,3.52,4.36,1.97,3.6,5.0,1.81,3.38,4.23,Eastern,Eastern
+189,USA,MLS,2012,2012-07-22,00:30,Columbus Crew,DC United,1,0,H,2.24,3.5,3.48,2.4,3.5,3.48,2.25,3.25,3.04,Eastern,Eastern
+190,USA,MLS,2012,2012-07-22,01:30,Houston Dynamo,CF Montreal,3,0,H,1.8,3.79,4.95,1.8,3.85,5.5,1.67,3.57,4.87,Eastern,Eastern
+191,USA,MLS,2012,2012-07-22,01:30,Sporting Kansas City,New England Revolution,0,0,D,1.71,3.78,5.8,1.71,3.85,6.5,1.58,3.65,5.65,Eastern,Eastern
+192,USA,MLS,2012,2012-07-22,02:00,FC Dallas,Portland Timbers,5,0,H,1.95,3.44,4.59,1.98,3.5,4.69,1.87,3.3,4.14,Western,Western
+193,USA,MLS,2012,2012-07-22,03:00,Los Angeles Galaxy,Chivas USA,3,1,H,1.63,4.13,6.02,1.65,4.2,7.0,1.54,3.84,5.85,Western,Eastern
+194,USA,MLS,2012,2012-07-22,03:00,Real Salt Lake,Colorado Rapids,2,0,H,1.65,4.08,5.86,1.68,4.08,5.86,1.63,3.66,5.12,Western,Western
+195,USA,MLS,2012,2012-07-23,00:00,Vancouver Whitecaps,San Jose Earthquakes,2,1,H,2.86,3.28,2.73,2.86,3.4,2.75,2.6,3.19,2.61,Western,Western
+196,USA,MLS,2012,2012-07-28,02:00,Real Salt Lake,Vancouver Whitecaps,2,1,H,1.66,4.01,5.88,1.67,4.09,6.0,1.61,3.69,5.3,Western,Western
+197,USA,MLS,2012,2012-07-28,21:30,Toronto FC,Houston Dynamo,0,2,A,2.52,3.34,3.08,2.52,3.35,3.08,2.43,3.16,2.82,Eastern,Eastern
+198,USA,MLS,2012,2012-07-29,00:30,CF Montreal,New York Red Bulls,3,1,H,2.56,3.41,2.97,2.56,3.42,2.99,2.43,3.24,2.76,Eastern,Eastern
+199,USA,MLS,2012,2012-07-29,01:00,FC Dallas,Los Angeles Galaxy,0,1,A,2.13,3.38,3.92,2.45,3.4,3.92,2.18,3.26,3.2,Western,Western
+200,USA,MLS,2012,2012-07-29,01:30,Sporting Kansas City,Columbus Crew,1,2,A,1.61,3.91,6.88,1.67,3.91,6.88,1.62,3.57,5.39,Eastern,Eastern
+201,USA,MLS,2012,2012-07-29,02:00,Colorado Rapids,Seattle Sounders,1,2,A,2.41,3.37,3.23,2.48,3.37,3.23,2.39,3.19,2.85,Western,Western
+202,USA,MLS,2012,2012-07-29,03:30,San Jose Earthquakes,Chicago Fire,1,1,D,1.68,3.81,6.09,1.75,3.81,6.09,1.66,3.58,5.04,Western,Eastern
+203,USA,MLS,2012,2012-07-29,04:00,Portland Timbers,Chivas USA,0,1,A,2.13,3.43,3.85,2.19,3.43,3.85,2.08,3.26,3.39,Western,Eastern
+204,USA,MLS,2012,2012-07-30,00:00,Philadelphia Union,New England Revolution,2,1,H,2.13,3.41,3.9,2.21,3.41,3.95,2.04,3.24,3.5,Eastern,Eastern
+205,USA,MLS,2012,2012-08-04,01:00,Houston Dynamo,New York Red Bulls,2,0,H,2.13,3.49,3.79,2.14,3.9,3.79,2.06,3.29,3.41,Eastern,Eastern
+206,USA,MLS,2012,2012-08-05,00:30,DC United,Columbus Crew,1,0,H,2.27,3.25,3.67,2.29,3.4,4.3,2.04,3.23,3.6,Eastern,Eastern
+207,USA,MLS,2012,2012-08-05,00:30,CF Montreal,Philadelphia Union,2,0,H,1.92,3.79,4.23,1.95,3.79,4.23,1.9,3.4,3.83,Eastern,Eastern
+208,USA,MLS,2012,2012-08-05,00:30,New England Revolution,Sporting Kansas City,0,1,A,2.76,3.29,2.83,2.77,3.29,2.83,2.55,3.16,2.67,Eastern,Eastern
+209,USA,MLS,2012,2012-08-05,01:30,Chicago Fire,Toronto FC,2,1,H,1.84,3.72,4.78,1.85,3.72,5.7,1.72,3.46,4.79,Eastern,Eastern
+210,USA,MLS,2012,2012-08-05,02:00,Colorado Rapids,Real Salt Lake,1,0,H,2.54,3.33,3.05,2.65,3.33,3.05,2.48,3.14,2.78,Western,Western
+211,USA,MLS,2012,2012-08-06,00:00,Portland Timbers,FC Dallas,1,1,D,2.75,3.35,2.79,2.75,3.35,3.0,2.49,3.17,2.75,Western,Western
+212,USA,MLS,2012,2012-08-06,02:00,Seattle Sounders,Los Angeles Galaxy,4,0,H,2.15,3.38,3.83,2.29,3.38,3.83,2.17,3.25,3.23,Western,Western
+213,USA,MLS,2012,2012-08-11,01:20,New York Red Bulls,Houston Dynamo,2,0,H,2.36,3.22,3.49,2.38,3.4,3.6,2.12,3.24,3.33,Eastern,Eastern
+214,USA,MLS,2012,2012-08-12,00:00,Vancouver Whitecaps,Real Salt Lake,2,1,H,2.63,3.29,2.97,2.65,3.29,2.97,2.51,3.13,2.72,Western,Western
+215,USA,MLS,2012,2012-08-12,01:30,Sporting Kansas City,DC United,2,1,H,1.71,3.97,5.44,1.83,3.97,5.44,1.71,3.59,4.56,Eastern,Eastern
+216,USA,MLS,2012,2012-08-12,02:00,FC Dallas,Colorado Rapids,3,2,H,2.08,3.37,4.12,2.1,3.4,4.12,2.01,3.26,3.61,Western,Western
+217,USA,MLS,2012,2012-08-12,03:30,San Jose Earthquakes,Seattle Sounders,2,1,H,2.16,3.33,3.88,2.16,3.4,3.9,2.01,3.26,3.59,Western,Western
+218,USA,MLS,2012,2012-08-13,00:00,New England Revolution,CF Montreal,0,1,A,2.12,3.47,3.71,2.18,3.47,3.8,2.03,3.27,3.49,Eastern,Eastern
+219,USA,MLS,2012,2012-08-13,00:00,Philadelphia Union,Chicago Fire,1,3,A,2.52,3.29,3.06,2.52,3.3,3.11,2.36,3.17,2.89,Eastern,Eastern
+220,USA,MLS,2012,2012-08-13,04:00,Chivas USA,Los Angeles Galaxy,0,4,A,4.03,3.72,1.99,4.2,3.72,2.04,3.72,3.36,1.93,Eastern,Western
+221,USA,MLS,2012,2012-08-16,00:00,Columbus Crew,Los Angeles Galaxy,1,1,D,2.56,3.31,3.0,2.82,3.34,3.0,2.51,3.17,2.71,Eastern,Western
+222,USA,MLS,2012,2012-08-16,00:30,Toronto FC,Portland Timbers,2,2,D,2.04,3.43,4.05,2.06,3.43,4.09,1.97,3.27,3.68,Eastern,Western
+223,USA,MLS,2012,2012-08-16,03:00,Vancouver Whitecaps,FC Dallas,0,2,A,2.33,3.17,3.54,2.38,3.4,3.6,2.17,3.17,3.25,Western,Western
+224,USA,MLS,2012,2012-08-18,21:00,Seattle Sounders,Vancouver Whitecaps,2,0,H,1.6,4.05,6.63,1.62,4.09,7.01,1.56,3.66,6.05,Western,Western
+225,USA,MLS,2012,2012-08-18,21:30,Toronto FC,Sporting Kansas City,0,1,A,3.52,3.44,2.22,3.52,3.44,2.29,3.16,3.18,2.21,Eastern,Eastern
+226,USA,MLS,2012,2012-08-19,00:30,CF Montreal,San Jose Earthquakes,3,1,H,2.6,3.46,2.84,2.65,3.47,2.84,2.52,3.22,2.67,Eastern,Western
+227,USA,MLS,2012,2012-08-19,01:30,Chicago Fire,New England Revolution,2,1,H,1.94,3.55,4.38,1.96,3.6,5.4,1.76,3.42,4.54,Eastern,Eastern
+228,USA,MLS,2012,2012-08-19,02:00,Colorado Rapids,Chivas USA,1,1,D,1.62,3.89,6.7,1.75,3.89,6.7,1.68,3.5,5.07,Western,Eastern
+229,USA,MLS,2012,2012-08-19,02:00,Real Salt Lake,FC Dallas,1,2,A,1.99,3.58,4.11,2.0,3.58,4.59,1.83,3.38,4.19,Western,Western
+230,USA,MLS,2012,2012-08-19,22:20,DC United,Philadelphia Union,1,1,D,1.92,3.53,4.51,1.99,3.55,4.59,1.84,3.35,4.18,Eastern,Eastern
+231,USA,MLS,2012,2012-08-20,00:00,New York Red Bulls,Portland Timbers,3,2,H,1.53,4.41,6.96,1.55,4.41,7.25,1.49,3.96,6.44,Eastern,Western
+232,USA,MLS,2012,2012-08-20,02:00,Houston Dynamo,Columbus Crew,2,2,D,1.79,3.64,5.2,1.9,3.64,5.2,1.78,3.39,4.43,Eastern,Eastern
+233,USA,MLS,2012,2012-08-23,00:30,Columbus Crew,Toronto FC,2,1,H,1.8,3.74,4.95,1.83,3.74,5.32,1.7,3.5,4.84,Eastern,Eastern
+234,USA,MLS,2012,2012-08-23,00:30,DC United,Chicago Fire,4,2,H,2.35,3.49,3.17,2.38,3.5,3.4,2.23,3.22,3.09,Eastern,Eastern
+235,USA,MLS,2012,2012-08-25,00:30,Philadelphia Union,Real Salt Lake,0,0,D,2.52,3.43,2.97,2.63,3.43,2.97,2.49,3.19,2.72,Eastern,Western
+236,USA,MLS,2012,2012-08-25,21:00,CF Montreal,DC United,3,0,H,2.14,3.56,3.61,2.2,3.56,3.8,2.07,3.32,3.38,Eastern,Eastern
+237,USA,MLS,2012,2012-08-26,00:30,Columbus Crew,New England Revolution,4,3,H,1.97,3.42,4.44,2.0,3.51,4.59,1.86,3.3,4.16,Eastern,Eastern
+238,USA,MLS,2012,2012-08-26,01:30,Houston Dynamo,Toronto FC,1,1,D,1.41,4.82,8.98,1.5,4.86,8.98,1.43,4.21,7.08,Eastern,Eastern
+239,USA,MLS,2012,2012-08-26,03:30,Chivas USA,Seattle Sounders,2,6,A,4.29,3.54,1.96,4.32,3.54,2.25,3.57,3.27,2.04,Eastern,Western
+240,USA,MLS,2012,2012-08-26,03:30,Portland Timbers,Vancouver Whitecaps,2,1,H,2.37,3.51,3.14,2.45,3.51,3.3,2.27,3.22,3.0,Western,Western
+241,USA,MLS,2012,2012-08-26,03:30,San Jose Earthquakes,Colorado Rapids,4,1,H,1.7,3.5,5.0,1.74,3.9,5.6,1.64,3.65,5.02,Western,Western
+242,USA,MLS,2012,2012-08-27,00:00,Los Angeles Galaxy,FC Dallas,2,0,H,1.83,3.74,4.7,1.84,3.75,5.0,1.75,3.54,4.37,Western,Western
+243,USA,MLS,2012,2012-08-27,02:00,Sporting Kansas City,New York Red Bulls,1,1,D,1.86,3.87,4.36,1.95,3.93,4.7,1.79,3.58,4.12,Eastern,Eastern
+244,USA,MLS,2012,2012-08-30,01:00,DC United,New York Red Bulls,2,2,D,2.42,3.58,2.89,2.54,3.6,3.05,2.33,3.29,2.88,Eastern,Eastern
+245,USA,MLS,2012,2012-08-30,01:00,New England Revolution,Chivas USA,3,3,D,1.61,4.13,6.1,1.8,4.13,6.1,1.7,3.6,4.73,Eastern,Eastern
+246,USA,MLS,2012,2012-08-30,01:00,Philadelphia Union,Columbus Crew,1,2,A,2.38,3.48,3.14,2.45,3.5,3.2,2.31,3.23,2.95,Eastern,Eastern
+247,USA,MLS,2012,2012-09-01,03:30,Portland Timbers,Colorado Rapids,1,0,H,2.37,3.46,3.18,2.38,3.52,3.35,2.21,3.24,3.11,Western,Western
+248,USA,MLS,2012,2012-09-02,00:30,Columbus Crew,CF Montreal,2,1,H,2.24,3.49,3.42,2.25,3.5,3.65,2.06,3.31,3.42,Eastern,Eastern
+249,USA,MLS,2012,2012-09-02,00:30,New England Revolution,Philadelphia Union,0,0,D,2.2,3.46,3.52,2.22,3.49,3.6,2.08,3.28,3.37,Eastern,Eastern
+250,USA,MLS,2012,2012-09-02,01:30,Sporting Kansas City,Toronto FC,2,1,H,1.39,5.09,9.1,1.42,5.09,10.5,1.37,4.42,8.15,Eastern,Eastern
+251,USA,MLS,2012,2012-09-02,02:00,Real Salt Lake,DC United,1,0,H,1.77,3.81,5.03,1.8,3.85,5.4,1.72,3.55,4.65,Western,Eastern
+252,USA,MLS,2012,2012-09-02,03:00,Los Angeles Galaxy,Vancouver Whitecaps,2,0,H,1.46,4.88,7.49,1.55,4.88,7.5,1.47,4.17,6.41,Western,Western
+253,USA,MLS,2012,2012-09-03,00:00,Chicago Fire,Houston Dynamo,3,1,H,2.49,3.32,3.09,2.54,3.45,3.1,2.33,3.22,2.92,Eastern,Eastern
+254,USA,MLS,2012,2012-09-03,00:00,FC Dallas,Seattle Sounders,1,1,D,2.38,3.44,3.17,2.5,3.44,3.17,2.39,3.2,2.87,Western,Western
+255,USA,MLS,2012,2012-09-03,02:15,San Jose Earthquakes,Chivas USA,4,0,H,1.44,4.78,8.32,1.45,4.9,8.9,1.42,4.32,7.11,Western,Eastern
+256,USA,MLS,2012,2012-09-06,01:00,New England Revolution,Columbus Crew,2,0,H,2.89,3.4,2.58,3.1,3.4,2.65,2.73,3.18,2.5,Eastern,Eastern
+257,USA,MLS,2012,2012-09-06,02:20,Colorado Rapids,Portland Timbers,3,0,H,1.75,3.91,4.96,1.75,4.09,5.75,1.67,3.6,4.9,Western,Western
+258,USA,MLS,2012,2012-09-07,01:30,Houston Dynamo,Real Salt Lake,1,0,H,1.83,4.0,4.38,1.9,4.0,4.84,1.8,3.55,4.13,Eastern,Western
+259,USA,MLS,2012,2012-09-08,21:00,Seattle Sounders,Chivas USA,2,1,H,1.4,5.0,8.94,1.4,5.25,11.0,1.35,4.65,8.19,Western,Eastern
+260,USA,MLS,2012,2012-09-13,00:00,Toronto FC,Chicago Fire,1,2,A,3.84,3.8,1.99,4.3,3.8,2.0,3.69,3.47,1.92,Eastern,Eastern
+261,USA,MLS,2012,2012-09-15,01:30,Sporting Kansas City,Houston Dynamo,1,1,D,2.0,3.51,4.11,2.04,3.51,4.33,1.91,3.33,3.87,Eastern,Eastern
+262,USA,MLS,2012,2012-09-15,04:00,Los Angeles Galaxy,Colorado Rapids,2,0,H,1.46,4.86,7.51,1.53,4.9,8.19,1.45,4.24,6.54,Western,Western
+263,USA,MLS,2012,2012-09-15,18:00,Toronto FC,Philadelphia Union,1,1,D,2.72,3.28,2.85,2.72,3.4,2.88,2.48,3.16,2.76,Eastern,Eastern
+264,USA,MLS,2012,2012-09-15,20:30,Portland Timbers,Seattle Sounders,1,1,D,3.61,3.67,2.1,3.8,3.67,2.2,3.35,3.33,2.07,Western,Western
+265,USA,MLS,2012,2012-09-16,00:00,New York Red Bulls,Columbus Crew,3,1,H,1.79,3.87,4.79,1.8,3.9,5.09,1.74,3.57,4.42,Eastern,Eastern
+266,USA,MLS,2012,2012-09-16,00:30,DC United,New England Revolution,2,1,H,1.93,3.66,4.3,1.94,3.66,5.0,1.8,3.49,4.21,Eastern,Eastern
+267,USA,MLS,2012,2012-09-16,01:30,Chicago Fire,CF Montreal,3,1,H,2.19,3.45,3.59,2.19,3.7,4.5,1.95,3.38,3.75,Eastern,Eastern
+268,USA,MLS,2012,2012-09-16,01:30,FC Dallas,Vancouver Whitecaps,1,0,H,1.58,4.13,6.68,1.7,4.13,6.68,1.59,3.68,5.62,Western,Western
+269,USA,MLS,2012,2012-09-16,03:30,Chivas USA,San Jose Earthquakes,0,2,A,3.89,3.8,1.98,4.09,3.8,2.0,3.68,3.44,1.93,Eastern,Western
+270,USA,MLS,2012,2012-09-20,00:00,New York Red Bulls,Sporting Kansas City,0,2,A,2.0,3.62,3.88,2.15,3.62,3.89,2.01,3.32,3.52,Eastern,Eastern
+271,USA,MLS,2012,2012-09-20,00:30,Columbus Crew,Chivas USA,1,0,H,1.51,4.41,7.4,1.53,4.41,7.5,1.48,4.04,6.42,Eastern,Eastern
+272,USA,MLS,2012,2012-09-20,03:30,San Jose Earthquakes,Portland Timbers,2,2,D,1.37,5.49,8.83,1.4,5.49,9.69,1.35,4.7,8.15,Western,Western
+273,USA,MLS,2012,2012-09-21,01:00,Philadelphia Union,DC United,0,1,A,2.45,3.52,3.0,2.45,3.52,3.14,2.39,3.21,2.85,Eastern,Eastern
+274,USA,MLS,2012,2012-09-22,18:00,CF Montreal,Sporting Kansas City,0,0,D,2.41,3.56,3.02,2.45,3.56,3.2,2.35,3.26,2.87,Eastern,Eastern
+275,USA,MLS,2012,2012-09-23,00:30,New England Revolution,New York Red Bulls,1,1,D,2.72,3.58,2.63,2.98,3.58,2.63,2.69,3.29,2.46,Eastern,Eastern
+276,USA,MLS,2012,2012-09-23,01:20,Real Salt Lake,Portland Timbers,2,1,H,1.49,4.48,7.76,1.51,4.65,8.5,1.46,4.04,6.8,Western,Western
+277,USA,MLS,2012,2012-09-23,01:30,Chicago Fire,Columbus Crew,2,1,H,1.85,3.62,4.8,1.85,3.62,5.0,1.75,3.5,4.43,Eastern,Eastern
+278,USA,MLS,2012,2012-09-23,03:30,Los Angeles Galaxy,Toronto FC,4,2,H,1.35,5.54,9.69,1.35,5.6,11.0,1.32,4.94,8.71,Western,Eastern
+279,USA,MLS,2012,2012-09-23,03:30,Seattle Sounders,San Jose Earthquakes,1,2,A,2.12,3.42,3.81,2.17,3.5,3.81,2.11,3.28,3.31,Western,Western
+280,USA,MLS,2012,2012-09-23,21:00,Philadelphia Union,Houston Dynamo,3,1,H,2.83,3.45,2.61,2.86,3.45,2.75,2.63,3.21,2.56,Eastern,Eastern
+281,USA,MLS,2012,2012-09-24,00:00,DC United,Chivas USA,1,0,H,1.53,4.49,6.75,1.57,4.84,7.2,1.52,3.98,5.82,Eastern,Eastern
+282,USA,MLS,2012,2012-09-24,00:30,Vancouver Whitecaps,Colorado Rapids,2,2,D,2.14,3.47,3.72,2.16,3.5,4.25,1.97,3.3,3.71,Western,Western
+283,USA,MLS,2012,2012-09-29,01:30,Sporting Kansas City,Chicago Fire,2,0,H,2.04,3.52,3.98,2.08,3.52,4.12,1.95,3.28,3.82,Eastern,Eastern
+284,USA,MLS,2012,2012-09-30,00:00,New York Red Bulls,Toronto FC,4,1,H,1.33,5.56,10.65,1.35,5.7,12.0,1.32,4.76,9.0,Eastern,Eastern
+285,USA,MLS,2012,2012-09-30,00:30,Columbus Crew,Philadelphia Union,3,2,H,1.93,3.56,4.46,1.93,3.7,5.09,1.82,3.42,4.23,Eastern,Eastern
+286,USA,MLS,2012,2012-09-30,01:30,Houston Dynamo,New England Revolution,2,0,H,1.63,4.29,5.65,1.63,4.4,7.1,1.53,3.93,5.95,Eastern,Eastern
+287,USA,MLS,2012,2012-09-30,02:00,Vancouver Whitecaps,Seattle Sounders,0,0,D,3.25,3.25,2.44,3.25,3.3,2.45,2.96,3.17,2.34,Western,Western
+288,USA,MLS,2012,2012-09-30,03:30,Chivas USA,Real Salt Lake,0,4,A,3.47,3.33,2.31,3.8,3.4,2.31,3.45,3.24,2.07,Eastern,Western
+289,USA,MLS,2012,2012-09-30,03:30,Portland Timbers,DC United,1,1,D,2.39,3.45,3.21,2.75,3.45,3.21,2.46,3.22,2.76,Western,Eastern
+290,USA,MLS,2012,2012-09-30,03:30,San Jose Earthquakes,FC Dallas,3,3,D,1.81,3.93,4.7,1.81,4.0,5.75,1.71,3.62,4.59,Western,Western
+291,USA,MLS,2012,2012-10-01,00:00,Colorado Rapids,Los Angeles Galaxy,1,1,D,3.94,3.86,1.95,4.59,4.0,2.04,3.82,3.49,1.88,Western,Western
+292,USA,MLS,2012,2012-10-04,01:30,Chicago Fire,Philadelphia Union,1,3,A,1.61,4.34,5.79,1.61,4.59,7.3,1.53,3.91,5.87,Eastern,Eastern
+293,USA,MLS,2012,2012-10-04,03:00,Vancouver Whitecaps,Chivas USA,4,0,H,1.67,3.84,6.09,1.67,4.05,7.0,1.61,3.63,5.47,Western,Eastern
+294,USA,MLS,2012,2012-10-06,18:00,Toronto FC,DC United,0,1,A,3.39,3.49,2.25,3.4,3.49,2.35,3.08,3.27,2.22,Eastern,Eastern
+295,USA,MLS,2012,2012-10-06,20:30,New York Red Bulls,Chicago Fire,0,2,A,1.76,3.97,4.9,1.85,3.97,4.9,1.77,3.56,4.32,Eastern,Eastern
+296,USA,MLS,2012,2012-10-07,00:00,Philadelphia Union,New England Revolution,1,0,H,2.02,3.59,3.99,2.02,3.6,4.3,1.92,3.4,3.75,Eastern,Eastern
+297,USA,MLS,2012,2012-10-07,01:30,Houston Dynamo,CF Montreal,1,1,D,1.56,4.11,7.16,1.62,4.11,7.16,1.54,3.76,6.09,Eastern,Eastern
+298,USA,MLS,2012,2012-10-07,02:00,Colorado Rapids,San Jose Earthquakes,1,4,A,3.02,3.64,2.38,3.25,3.64,2.58,2.8,3.28,2.39,Western,Western
+299,USA,MLS,2012,2012-10-07,02:00,Los Angeles Galaxy,Real Salt Lake,1,2,A,1.64,3.87,6.34,1.73,4.0,6.34,1.6,3.71,5.47,Western,Western
+300,USA,MLS,2012,2012-10-07,21:00,Columbus Crew,Sporting Kansas City,1,1,D,2.52,3.32,3.04,2.54,3.4,3.04,2.39,3.16,2.87,Eastern,Eastern
+301,USA,MLS,2012,2012-10-08,00:00,Chivas USA,FC Dallas,1,1,D,4.36,3.85,1.86,4.75,3.85,1.88,4.19,3.52,1.79,Eastern,Western
+302,USA,MLS,2012,2012-10-08,02:00,Seattle Sounders,Portland Timbers,3,0,H,1.46,4.83,7.55,1.46,4.84,9.4,1.42,4.28,7.12,Western,Western
+303,USA,MLS,2012,2012-10-18,03:00,Seattle Sounders,Real Salt Lake,0,0,D,2.11,3.34,3.98,2.17,3.45,4.05,2.01,3.28,3.59,Western,Western
+304,USA,MLS,2012,2012-10-20,18:30,Toronto FC,CF Montreal,0,0,D,2.95,3.48,2.5,3.1,3.48,2.6,2.77,3.23,2.44,Eastern,Eastern
+305,USA,MLS,2012,2012-10-21,00:00,New York Red Bulls,Sporting Kansas City,0,0,D,2.25,3.34,3.55,2.4,3.4,3.6,2.21,3.2,3.15,Eastern,Eastern
+306,USA,MLS,2012,2012-10-21,00:30,DC United,Columbus Crew,3,2,H,2.02,3.57,4.0,2.02,3.8,4.25,1.89,3.38,3.88,Eastern,Eastern
+307,USA,MLS,2012,2012-10-21,00:30,New England Revolution,Chicago Fire,1,0,H,3.33,3.61,2.23,3.33,3.61,2.45,2.92,3.26,2.31,Eastern,Eastern
+308,USA,MLS,2012,2012-10-21,00:50,Houston Dynamo,Philadelphia Union,3,1,H,1.49,4.3,8.3,1.55,4.4,8.3,1.48,3.92,6.75,Eastern,Eastern
+309,USA,MLS,2012,2012-10-21,03:30,Chivas USA,Colorado Rapids,0,2,A,2.78,3.35,2.73,2.78,3.35,3.0,2.49,3.17,2.75,Eastern,Western
+310,USA,MLS,2012,2012-10-22,00:00,San Jose Earthquakes,Los Angeles Galaxy,2,2,D,2.37,3.47,3.14,2.44,3.64,3.2,2.24,3.31,3.0,Western,Western
+311,USA,MLS,2012,2012-10-22,00:00,Vancouver Whitecaps,Portland Timbers,0,1,A,1.79,3.72,5.03,1.8,3.8,6.8,1.66,3.56,5.06,Western,Western
+312,USA,MLS,2012,2012-10-22,02:00,Seattle Sounders,FC Dallas,3,1,H,1.69,3.86,5.7,1.8,3.86,5.7,1.68,3.57,4.83,Western,Western
+313,USA,MLS,2012,2012-10-25,01:30,Sporting Kansas City,Philadelphia Union,2,1,H,1.59,4.05,6.7,1.63,4.05,6.7,1.55,3.79,5.9,Eastern,Eastern
+314,USA,MLS,2012,2012-10-27,18:30,Philadelphia Union,New York Red Bulls,0,3,A,3.41,3.51,2.25,3.6,3.51,2.27,3.28,3.31,2.1,Eastern,Eastern
+315,USA,MLS,2012,2012-10-27,19:00,CF Montreal,New England Revolution,0,1,A,1.88,3.73,4.44,1.91,3.79,5.3,1.74,3.56,4.54,Eastern,Eastern
+316,USA,MLS,2012,2012-10-27,21:00,Chicago Fire,DC United,1,1,D,1.79,3.87,4.82,1.85,3.87,4.9,1.79,3.54,4.23,Eastern,Eastern
+317,USA,MLS,2012,2012-10-27,23:30,Portland Timbers,San Jose Earthquakes,1,1,D,3.68,3.6,2.1,3.85,3.7,2.1,3.39,3.43,2.02,Western,Western
+318,USA,MLS,2012,2012-10-28,01:00,Colorado Rapids,Houston Dynamo,2,0,H,2.45,3.46,3.05,2.62,3.46,3.06,2.45,3.21,2.76,Western,Eastern
+319,USA,MLS,2012,2012-10-28,01:00,Real Salt Lake,Vancouver Whitecaps,0,0,D,1.63,3.81,6.78,1.63,4.2,8.0,1.53,3.83,6.12,Western,Western
+320,USA,MLS,2012,2012-10-28,20:00,Columbus Crew,Toronto FC,2,1,H,1.53,4.45,6.82,1.58,4.45,7.0,1.51,3.92,6.13,Eastern,Eastern
+321,USA,MLS,2012,2012-10-28,23:00,FC Dallas,Chivas USA,2,2,D,1.56,4.3,6.5,1.57,4.4,7.1,1.53,3.87,6.0,Western,Eastern
+322,USA,MLS,2012,2012-10-29,01:00,Los Angeles Galaxy,Seattle Sounders,1,0,H,2.04,3.85,3.59,2.14,3.85,3.85,1.98,3.39,3.51,Western,Western
+323,USA,MLS,2012,2012-11-01,01:30,Chicago Fire,Houston Dynamo,1,2,A,2.44,3.19,3.31,2.44,3.35,3.6,2.19,3.15,3.27,Eastern,Eastern
+324,USA,MLS,2012,2012-11-02,02:30,Los Angeles Galaxy,Vancouver Whitecaps,2,1,H,1.38,4.99,9.74,1.42,5.0,10.0,1.35,4.56,8.43,Western,Western
+325,USA,MLS,2012,2012-11-03,02:00,Seattle Sounders,Real Salt Lake,0,0,D,2.21,3.24,3.77,2.29,3.4,4.0,2.05,3.21,3.56,Western,Western
+326,USA,MLS,2012,2012-11-04,00:00,DC United,New York Red Bulls,1,1,D,2.5,3.37,3.02,2.75,3.4,3.02,2.52,3.21,2.68,Eastern,Eastern
+327,USA,MLS,2012,2012-11-04,20:30,Houston Dynamo,Sporting Kansas City,2,0,H,2.46,3.27,3.19,2.46,3.35,3.4,2.27,3.19,3.08,Eastern,Eastern
+328,USA,MLS,2012,2012-11-05,02:00,Los Angeles Galaxy,San Jose Earthquakes,0,1,A,1.96,3.61,4.2,2.04,3.66,4.22,1.95,3.4,3.68,Western,Western
+329,USA,MLS,2012,2012-11-08,02:00,Sporting Kansas City,Houston Dynamo,1,0,H,2.18,3.4,3.68,2.18,3.8,4.09,1.97,3.3,3.76,Eastern,Eastern
+330,USA,MLS,2012,2012-11-08,04:00,San Jose Earthquakes,Los Angeles Galaxy,1,3,A,2.52,3.4,2.99,2.6,3.6,3.2,2.32,3.28,2.92,Western,Western
+331,USA,MLS,2012,2012-11-09,00:30,New York Red Bulls,DC United,0,1,A,1.83,3.63,4.94,1.85,3.7,5.0,1.78,3.43,4.38,Eastern,Eastern
+332,USA,MLS,2012,2012-11-09,03:00,Real Salt Lake,Seattle Sounders,0,1,A,2.0,3.41,4.32,2.15,3.41,4.32,2.0,3.22,3.7,Western,Western
+333,USA,MLS,2012,2012-11-11,21:00,Houston Dynamo,DC United,3,1,H,1.93,3.4,4.71,1.95,3.6,4.8,1.83,3.39,4.24,Eastern,Eastern
+334,USA,MLS,2012,2012-11-12,02:00,Los Angeles Galaxy,Seattle Sounders,3,0,H,1.97,3.54,4.26,1.97,3.54,4.75,1.84,3.36,4.18,Western,Western
+335,USA,MLS,2012,2012-11-18,21:00,DC United,Houston Dynamo,1,1,D,2.37,3.55,3.1,2.37,3.8,3.6,2.19,3.31,3.13,Eastern,Eastern
+336,USA,MLS,2012,2012-11-19,02:00,Seattle Sounders,Los Angeles Galaxy,2,1,H,2.27,3.59,3.25,2.44,3.6,3.4,2.2,3.33,3.08,Western,Western
+337,USA,MLS,2012,2012-12-01,21:30,Los Angeles Galaxy,Houston Dynamo,3,1,H,1.94,3.56,4.34,2.0,3.6,4.5,1.89,3.38,3.96,Western,Eastern
+338,USA,MLS,2013,2013-03-02,21:00,Philadelphia Union,Sporting Kansas City,1,3,A,2.87,3.18,2.75,2.87,3.35,2.8,2.63,3.09,2.64,Eastern,Eastern
+339,USA,MLS,2013,2013-03-02,23:30,Vancouver Whitecaps,Toronto FC,1,0,H,1.69,3.8,5.73,1.75,3.81,5.74,1.67,3.55,4.96,Western,Eastern
+340,USA,MLS,2013,2013-03-03,01:00,Houston Dynamo,DC United,2,0,H,1.96,3.52,4.32,2.0,3.53,4.55,1.91,3.28,3.92,Eastern,Eastern
+341,USA,MLS,2013,2013-03-03,01:30,FC Dallas,Colorado Rapids,1,0,H,1.8,3.67,5.07,1.9,3.67,5.07,1.79,3.42,4.34,Western,Western
+342,USA,MLS,2013,2013-03-03,03:30,Chivas USA,Columbus Crew,0,3,A,2.83,3.19,2.77,2.88,3.2,2.8,2.67,3.1,2.58,Eastern,Eastern
+343,USA,MLS,2013,2013-03-03,03:30,Seattle Sounders,CF Montreal,0,1,A,1.99,3.42,4.34,2.0,3.6,5.5,1.78,3.4,4.5,Western,Eastern
+344,USA,MLS,2013,2013-03-03,22:00,Los Angeles Galaxy,Chicago Fire,4,0,H,1.85,3.72,4.59,1.95,3.75,4.65,1.83,3.44,4.13,Western,Eastern
+345,USA,MLS,2013,2013-03-04,00:30,Portland Timbers,New York Red Bulls,3,3,D,2.66,3.4,2.81,2.9,3.4,2.81,2.69,3.2,2.51,Western,Eastern
+346,USA,MLS,2013,2013-03-04,03:00,San Jose Earthquakes,Real Salt Lake,0,2,A,1.81,3.76,4.9,1.85,3.76,5.0,1.78,3.44,4.37,Western,Western
+347,USA,MLS,2013,2013-03-09,18:30,Toronto FC,Sporting Kansas City,2,1,H,4.09,3.56,2.0,4.09,3.56,2.25,3.38,3.26,2.09,Eastern,Eastern
+348,USA,MLS,2013,2013-03-10,00:00,DC United,Real Salt Lake,1,0,H,2.31,3.34,3.39,2.38,3.45,3.39,2.22,3.21,3.13,Eastern,Western
+349,USA,MLS,2013,2013-03-10,00:30,Chicago Fire,New England Revolution,0,1,A,1.92,3.62,4.4,1.95,3.62,4.4,1.88,3.39,3.96,Eastern,Eastern
+350,USA,MLS,2013,2013-03-10,00:30,Vancouver Whitecaps,Columbus Crew,2,1,H,2.38,3.34,3.27,2.4,3.4,3.35,2.27,3.18,3.07,Western,Eastern
+351,USA,MLS,2013,2013-03-10,03:30,Portland Timbers,CF Montreal,1,2,A,2.63,3.4,2.86,2.63,3.45,3.3,2.36,3.2,2.9,Western,Eastern
+352,USA,MLS,2013,2013-03-10,19:00,Colorado Rapids,Philadelphia Union,1,2,A,2.0,3.6,4.05,2.06,3.6,4.4,1.87,3.35,3.94,Western,Eastern
+353,USA,MLS,2013,2013-03-10,21:00,Chivas USA,FC Dallas,3,1,H,3.09,3.44,2.43,3.1,3.44,2.45,2.95,3.23,2.3,Eastern,Western
+354,USA,MLS,2013,2013-03-11,02:00,San Jose Earthquakes,New York Red Bulls,2,1,H,2.21,3.57,3.44,2.25,3.63,3.5,2.11,3.34,3.23,Western,Eastern
+355,USA,MLS,2013,2013-03-16,16:30,New York Red Bulls,DC United,0,0,D,2.1,3.42,3.87,2.12,3.46,4.09,1.96,3.29,3.73,Eastern,Eastern
+356,USA,MLS,2013,2013-03-16,19:00,Sporting Kansas City,Chicago Fire,0,0,D,1.81,3.69,4.96,1.9,3.71,4.96,1.8,3.43,4.33,Eastern,Eastern
+357,USA,MLS,2013,2013-03-16,20:00,CF Montreal,Toronto FC,2,1,H,1.63,4.09,5.93,1.65,4.22,6.42,1.58,3.73,5.55,Eastern,Eastern
+358,USA,MLS,2013,2013-03-16,21:00,Philadelphia Union,New England Revolution,1,0,H,2.18,3.39,3.68,2.24,3.4,3.68,2.12,3.2,3.35,Eastern,Eastern
+359,USA,MLS,2013,2013-03-16,21:30,Columbus Crew,San Jose Earthquakes,1,1,D,2.29,3.36,3.43,2.4,3.49,3.43,2.22,3.2,3.16,Eastern,Western
+360,USA,MLS,2013,2013-03-16,22:00,Real Salt Lake,Colorado Rapids,1,1,D,1.84,3.63,4.84,1.84,3.75,5.2,1.73,3.46,4.74,Western,Western
+361,USA,MLS,2013,2013-03-17,00:00,Seattle Sounders,Portland Timbers,1,1,D,1.75,3.89,5.07,1.77,3.95,5.85,1.64,3.66,5.05,Western,Western
+362,USA,MLS,2013,2013-03-17,17:00,FC Dallas,Houston Dynamo,3,2,H,2.68,3.36,2.81,2.68,3.36,3.0,2.44,3.18,2.8,Western,Eastern
+363,USA,MLS,2013,2013-03-17,21:00,Los Angeles Galaxy,Chivas USA,1,1,D,1.45,4.76,7.74,1.53,4.76,8.3,1.46,4.09,6.66,Western,Eastern
+364,USA,MLS,2013,2013-03-23,19:30,DC United,Columbus Crew,1,2,A,2.17,3.38,3.73,2.17,3.5,4.0,2.03,3.24,3.57,Eastern,Eastern
+365,USA,MLS,2013,2013-03-23,20:00,New England Revolution,Sporting Kansas City,0,0,D,2.67,3.23,2.93,2.8,3.25,2.95,2.59,3.12,2.68,Eastern,Eastern
+366,USA,MLS,2013,2013-03-23,20:30,CF Montreal,New York Red Bulls,1,0,H,2.27,3.54,3.29,2.29,3.54,3.45,2.2,3.28,3.12,Eastern,Eastern
+367,USA,MLS,2013,2013-03-24,00:30,FC Dallas,Real Salt Lake,2,0,H,2.02,3.5,4.05,2.1,3.6,4.05,2.02,3.3,3.56,Western,Western
+368,USA,MLS,2013,2013-03-24,00:30,Houston Dynamo,Vancouver Whitecaps,2,1,H,1.81,3.69,4.93,1.85,3.69,4.93,1.8,3.41,4.35,Eastern,Western
+369,USA,MLS,2013,2013-03-24,02:30,Los Angeles Galaxy,Colorado Rapids,1,0,H,1.71,3.84,5.5,1.73,3.84,5.7,1.66,3.58,5.07,Western,Western
+370,USA,MLS,2013,2013-03-24,02:30,San Jose Earthquakes,Seattle Sounders,1,0,H,2.35,3.32,3.35,2.36,3.5,4.0,2.09,3.22,3.44,Western,Western
+371,USA,MLS,2013,2013-03-24,21:00,Chicago Fire,Chivas USA,1,4,A,1.89,3.66,4.46,1.96,3.67,4.7,1.83,3.41,4.17,Eastern,Eastern
+372,USA,MLS,2013,2013-03-30,18:00,Toronto FC,Los Angeles Galaxy,2,2,D,3.41,3.41,2.27,3.6,3.41,2.34,3.2,3.2,2.19,Eastern,Western
+373,USA,MLS,2013,2013-03-30,19:30,New York Red Bulls,Philadelphia Union,2,1,H,1.87,3.67,4.59,1.92,3.8,5.0,1.76,3.47,4.52,Eastern,Eastern
+374,USA,MLS,2013,2013-03-30,20:00,New England Revolution,FC Dallas,0,1,A,2.34,3.41,3.3,2.5,3.41,3.3,2.33,3.17,2.98,Eastern,Western
+375,USA,MLS,2013,2013-03-30,22:00,Colorado Rapids,Portland Timbers,2,2,D,2.34,3.35,3.33,2.35,3.35,3.75,2.19,3.18,3.25,Western,Western
+376,USA,MLS,2013,2013-03-31,00:30,Houston Dynamo,San Jose Earthquakes,2,0,H,2.04,3.51,3.98,2.1,3.55,4.59,2.0,3.27,3.61,Eastern,Western
+377,USA,MLS,2013,2013-03-31,00:30,Sporting Kansas City,CF Montreal,2,0,H,1.81,3.79,4.82,1.91,3.79,4.9,1.82,3.42,4.2,Eastern,Eastern
+378,USA,MLS,2013,2013-03-31,02:00,Real Salt Lake,Seattle Sounders,2,1,H,2.43,3.33,3.19,2.43,3.4,3.4,2.25,3.14,3.16,Western,Western
+379,USA,MLS,2013,2013-03-31,03:30,Chivas USA,Vancouver Whitecaps,2,1,H,2.72,3.24,2.86,2.72,3.24,3.2,2.43,3.09,2.92,Eastern,Western
+380,USA,MLS,2013,2013-04-06,01:30,Sporting Kansas City,DC United,1,0,H,1.55,3.98,7.65,1.73,4.0,7.7,1.6,3.66,5.67,Eastern,Eastern
+381,USA,MLS,2013,2013-04-06,21:00,Toronto FC,FC Dallas,2,2,D,2.91,3.37,2.59,2.91,3.38,2.68,2.71,3.2,2.5,Eastern,Western
+382,USA,MLS,2013,2013-04-06,22:00,Columbus Crew,Philadelphia Union,1,1,D,1.94,3.74,4.11,1.95,3.75,4.4,1.88,3.4,3.93,Eastern,Eastern
+383,USA,MLS,2013,2013-04-07,00:30,Colorado Rapids,Real Salt Lake,1,0,H,3.05,3.43,2.47,3.05,3.6,2.62,2.75,3.23,2.45,Western,Western
+384,USA,MLS,2013,2013-04-07,03:30,Portland Timbers,Houston Dynamo,2,0,H,2.42,3.46,3.1,2.6,3.46,3.1,2.42,3.25,2.76,Western,Eastern
+385,USA,MLS,2013,2013-04-07,03:30,San Jose Earthquakes,Vancouver Whitecaps,1,1,D,1.72,3.85,5.41,1.8,3.9,5.5,1.7,3.6,4.7,Western,Western
+386,USA,MLS,2013,2013-04-07,22:00,Chicago Fire,New York Red Bulls,3,1,H,2.84,3.26,2.73,2.9,3.3,2.8,2.62,3.17,2.6,Eastern,Eastern
+387,USA,MLS,2013,2013-04-13,21:00,Philadelphia Union,Toronto FC,1,1,D,1.83,3.69,4.84,1.95,3.7,5.0,1.84,3.38,4.2,Eastern,Eastern
+388,USA,MLS,2013,2013-04-13,21:00,Seattle Sounders,New England Revolution,0,0,D,1.78,3.85,4.94,1.78,3.85,5.7,1.67,3.51,5.06,Western,Eastern
+389,USA,MLS,2013,2013-04-13,21:00,Vancouver Whitecaps,Real Salt Lake,1,1,D,2.39,3.32,3.27,2.4,3.35,3.4,2.3,3.19,3.01,Western,Western
+390,USA,MLS,2013,2013-04-14,00:00,DC United,New York Red Bulls,0,2,A,2.68,3.37,2.81,2.73,3.4,2.95,2.46,3.18,2.78,Eastern,Eastern
+391,USA,MLS,2013,2013-04-14,00:30,FC Dallas,Los Angeles Galaxy,1,0,H,2.25,3.43,3.44,2.4,3.43,3.44,2.26,3.24,3.03,Western,Western
+392,USA,MLS,2013,2013-04-14,03:30,Chivas USA,Colorado Rapids,0,1,A,2.34,3.5,3.23,2.34,3.5,3.5,2.2,3.24,3.17,Eastern,Western
+393,USA,MLS,2013,2013-04-14,17:00,CF Montreal,Columbus Crew,1,1,D,2.08,3.68,3.66,2.15,3.68,3.75,2.04,3.29,3.48,Eastern,Eastern
+394,USA,MLS,2013,2013-04-14,22:00,Houston Dynamo,Chicago Fire,2,1,H,1.64,3.99,6.05,1.73,4.0,6.2,1.65,3.64,5.08,Eastern,Eastern
+395,USA,MLS,2013,2013-04-15,03:30,Portland Timbers,San Jose Earthquakes,1,0,H,2.37,3.46,3.18,2.45,3.46,3.2,2.33,3.2,2.95,Western,Western
+396,USA,MLS,2013,2013-04-18,00:30,New York Red Bulls,Sporting Kansas City,0,1,A,2.46,3.32,3.16,2.46,3.32,3.5,2.26,3.18,3.08,Eastern,Eastern
+397,USA,MLS,2013,2013-04-20,21:00,Toronto FC,Houston Dynamo,1,1,D,3.04,3.45,2.46,3.1,3.45,2.5,2.99,3.21,2.3,Eastern,Eastern
+398,USA,MLS,2013,2013-04-20,23:00,Colorado Rapids,Seattle Sounders,0,1,A,2.52,3.47,2.92,2.7,3.47,2.92,2.51,3.18,2.71,Western,Western
+399,USA,MLS,2013,2013-04-21,00:00,New York Red Bulls,New England Revolution,4,1,H,1.7,3.72,5.91,1.72,3.77,6.0,1.63,3.6,5.28,Eastern,Eastern
+400,USA,MLS,2013,2013-04-21,01:30,Chicago Fire,Columbus Crew,1,0,H,2.41,3.47,3.11,2.48,3.47,3.14,2.3,3.2,3.0,Eastern,Eastern
+401,USA,MLS,2013,2013-04-21,01:30,FC Dallas,Vancouver Whitecaps,2,0,H,1.72,4.04,5.11,1.77,4.04,5.25,1.7,3.55,4.75,Western,Western
+402,USA,MLS,2013,2013-04-21,02:00,Real Salt Lake,Chivas USA,1,0,H,1.49,4.46,7.66,1.63,4.46,7.66,1.53,3.9,5.96,Western,Eastern
+403,USA,MLS,2013,2013-04-21,03:30,Los Angeles Galaxy,Sporting Kansas City,2,0,H,2.12,3.39,3.87,2.2,3.45,4.65,2.05,3.24,3.53,Western,Eastern
+404,USA,MLS,2013,2013-04-21,22:00,DC United,Philadelphia Union,2,3,A,2.52,3.39,3.0,2.52,3.4,3.75,2.18,3.24,3.21,Eastern,Eastern
+405,USA,MLS,2013,2013-04-22,04:00,San Jose Earthquakes,Portland Timbers,1,1,D,2.0,3.61,3.98,2.04,3.75,4.5,1.87,3.37,4.06,Western,Western
+406,USA,MLS,2013,2013-04-27,19:00,Toronto FC,New York Red Bulls,1,2,A,2.97,3.46,2.5,3.2,3.51,2.5,2.93,3.24,2.33,Eastern,Eastern
+407,USA,MLS,2013,2013-04-27,21:00,CF Montreal,Chicago Fire,2,0,H,1.93,3.61,4.37,2.0,3.61,4.5,1.9,3.32,3.94,Eastern,Eastern
+408,USA,MLS,2013,2013-04-27,23:00,Vancouver Whitecaps,FC Dallas,2,2,D,2.52,3.32,3.04,2.63,3.32,3.04,2.46,3.14,2.81,Western,Western
+409,USA,MLS,2013,2013-04-28,00:30,Columbus Crew,DC United,3,0,H,1.87,3.51,4.86,1.9,3.65,4.86,1.8,3.41,4.36,Eastern,Eastern
+410,USA,MLS,2013,2013-04-28,00:30,New England Revolution,Philadelphia Union,2,0,H,2.84,3.24,2.74,2.84,3.3,2.9,2.56,3.14,2.69,Eastern,Eastern
+411,USA,MLS,2013,2013-04-28,01:30,Sporting Kansas City,Portland Timbers,2,3,A,1.75,3.66,5.58,1.76,3.7,5.6,1.7,3.45,4.91,Eastern,Western
+412,USA,MLS,2013,2013-04-28,02:00,Real Salt Lake,Los Angeles Galaxy,0,2,A,2.33,3.4,3.32,2.45,3.45,3.4,2.26,3.21,3.07,Western,Western
+413,USA,MLS,2013,2013-04-28,03:30,Chivas USA,San Jose Earthquakes,2,2,D,4.13,3.67,1.96,4.2,3.67,2.4,3.5,3.3,2.06,Eastern,Western
+414,USA,MLS,2013,2013-04-28,22:00,Houston Dynamo,Colorado Rapids,1,1,D,1.62,3.88,6.6,1.67,3.9,6.6,1.62,3.61,5.45,Eastern,Western
+415,USA,MLS,2013,2013-05-03,03:30,Portland Timbers,New England Revolution,0,0,D,1.57,3.95,7.45,1.7,3.95,7.82,1.55,3.71,6.14,Western,Eastern
+416,USA,MLS,2013,2013-05-04,21:00,Columbus Crew,New York Red Bulls,0,1,A,2.68,3.43,2.77,2.68,3.43,3.0,2.4,3.24,2.81,Eastern,Eastern
+417,USA,MLS,2013,2013-05-04,21:00,Philadelphia Union,Seattle Sounders,2,2,D,2.25,3.26,3.64,2.29,3.4,3.65,2.18,3.2,3.24,Eastern,Western
+418,USA,MLS,2013,2013-05-04,21:00,San Jose Earthquakes,CF Montreal,2,2,D,1.79,3.73,5.04,1.91,3.9,5.04,1.82,3.45,4.21,Western,Eastern
+419,USA,MLS,2013,2013-05-05,02:00,Colorado Rapids,Toronto FC,1,0,H,1.85,3.67,4.66,1.91,3.67,4.66,1.83,3.4,4.17,Western,Eastern
+420,USA,MLS,2013,2013-05-05,02:00,Real Salt Lake,Vancouver Whitecaps,2,0,H,1.88,3.54,4.76,1.9,3.7,5.2,1.77,3.39,4.58,Western,Western
+421,USA,MLS,2013,2013-05-05,22:00,Sporting Kansas City,Chivas USA,4,0,H,1.47,4.49,8.19,1.48,4.59,9.1,1.43,4.13,7.4,Eastern,Eastern
+422,USA,MLS,2013,2013-05-06,04:00,Los Angeles Galaxy,Houston Dynamo,0,1,A,1.6,3.95,6.75,1.77,4.09,6.75,1.6,3.72,5.6,Western,Eastern
+423,USA,MLS,2013,2013-05-09,00:00,DC United,Houston Dynamo,0,4,A,2.52,3.55,2.88,2.82,3.55,2.9,2.53,3.2,2.69,Eastern,Eastern
+424,USA,MLS,2013,2013-05-09,00:30,New York Red Bulls,CF Montreal,2,1,H,1.66,4.11,5.58,1.75,4.11,5.58,1.66,3.66,4.87,Eastern,Eastern
+425,USA,MLS,2013,2013-05-09,01:00,New England Revolution,Real Salt Lake,1,2,A,2.66,3.27,2.89,2.75,3.4,2.89,2.58,3.14,2.67,Eastern,Western
+426,USA,MLS,2013,2013-05-09,01:30,Sporting Kansas City,Seattle Sounders,0,1,A,1.78,3.65,5.26,1.78,3.75,5.55,1.71,3.48,4.8,Eastern,Western
+427,USA,MLS,2013,2013-05-09,02:00,FC Dallas,Portland Timbers,1,1,D,2.18,3.45,3.6,2.24,3.55,4.33,2.01,3.27,3.63,Western,Western
+428,USA,MLS,2013,2013-05-09,03:30,San Jose Earthquakes,Toronto FC,2,1,H,1.59,4.13,6.55,1.65,4.13,7.0,1.56,3.77,5.88,Western,Eastern
+429,USA,MLS,2013,2013-05-11,18:30,Chicago Fire,Philadelphia Union,0,1,A,2.2,3.38,3.64,2.25,3.41,3.64,2.14,3.27,3.27,Eastern,Eastern
+430,USA,MLS,2013,2013-05-11,19:00,CF Montreal,Real Salt Lake,3,2,H,2.18,3.42,3.65,2.25,3.45,3.65,2.16,3.22,3.28,Eastern,Western
+431,USA,MLS,2013,2013-05-11,21:00,Seattle Sounders,San Jose Earthquakes,4,0,H,2.34,3.3,3.39,2.34,3.45,3.55,2.17,3.21,3.25,Western,Western
+432,USA,MLS,2013,2013-05-12,00:00,Vancouver Whitecaps,Los Angeles Galaxy,3,1,H,3.3,3.55,2.27,3.3,3.55,2.5,2.99,3.24,2.3,Western,Western
+433,USA,MLS,2013,2013-05-12,00:30,Columbus Crew,Colorado Rapids,0,2,A,2.02,3.55,4.01,2.06,3.6,4.4,1.91,3.37,3.85,Eastern,Western
+434,USA,MLS,2013,2013-05-12,00:30,New England Revolution,New York Red Bulls,1,1,D,2.97,3.27,2.6,3.1,3.3,2.6,2.85,3.12,2.45,Eastern,Eastern
+435,USA,MLS,2013,2013-05-12,01:30,FC Dallas,DC United,2,1,H,1.81,3.85,4.69,1.81,4.0,6.0,1.67,3.69,4.78,Western,Eastern
+436,USA,MLS,2013,2013-05-12,22:00,Portland Timbers,Chivas USA,3,0,H,1.55,4.3,6.7,1.55,4.3,7.12,1.5,3.96,6.19,Western,Eastern
+437,USA,MLS,2013,2013-05-13,01:00,Houston Dynamo,Sporting Kansas City,0,1,A,2.39,3.35,3.24,2.39,3.4,3.45,2.25,3.12,3.17,Eastern,Eastern
+438,USA,MLS,2013,2013-05-16,00:30,Philadelphia Union,Los Angeles Galaxy,1,4,A,3.23,3.68,2.25,3.23,3.68,2.72,2.92,3.29,2.32,Eastern,Western
+439,USA,MLS,2013,2013-05-18,22:00,Toronto FC,Columbus Crew,0,1,A,2.44,3.21,3.29,2.5,3.25,3.4,2.35,3.1,3.0,Eastern,Eastern
+440,USA,MLS,2013,2013-05-19,00:00,Vancouver Whitecaps,Portland Timbers,2,2,D,3.0,3.4,2.5,3.0,3.4,2.82,2.66,3.18,2.58,Western,Western
+441,USA,MLS,2013,2013-05-19,00:30,Philadelphia Union,Chicago Fire,1,0,H,2.1,3.61,3.68,2.12,3.61,3.9,2.0,3.32,3.62,Eastern,Eastern
+442,USA,MLS,2013,2013-05-19,01:30,Houston Dynamo,New England Revolution,0,2,A,1.59,4.26,6.16,1.62,4.26,7.0,1.54,3.84,5.89,Eastern,Eastern
+443,USA,MLS,2013,2013-05-19,03:30,San Jose Earthquakes,Colorado Rapids,1,1,D,1.62,3.99,6.19,1.8,4.0,6.4,1.66,3.61,5.03,Western,Western
+444,USA,MLS,2013,2013-05-19,03:30,Seattle Sounders,FC Dallas,4,2,H,1.81,3.65,5.01,1.9,3.7,5.3,1.77,3.47,4.42,Western,Western
+445,USA,MLS,2013,2013-05-19,18:00,New York Red Bulls,Los Angeles Galaxy,1,0,H,2.22,3.61,3.36,2.25,3.61,3.5,2.17,3.3,3.17,Eastern,Western
+446,USA,MLS,2013,2013-05-19,22:00,DC United,Sporting Kansas City,1,1,D,3.41,3.28,2.34,3.5,3.5,2.38,3.11,3.15,2.27,Eastern,Eastern
+447,USA,MLS,2013,2013-05-20,03:30,Chivas USA,Real Salt Lake,1,4,A,3.65,3.62,2.11,4.05,3.66,2.15,3.53,3.33,2.02,Eastern,Western
+448,USA,MLS,2013,2013-05-26,00:00,DC United,Portland Timbers,0,2,A,2.88,3.55,2.52,3.1,3.55,2.6,2.8,3.23,2.42,Eastern,Western
+449,USA,MLS,2013,2013-05-26,00:00,CF Montreal,Philadelphia Union,5,3,H,1.92,3.76,4.19,2.0,3.76,4.4,1.9,3.46,3.81,Eastern,Eastern
+450,USA,MLS,2013,2013-05-26,00:30,New England Revolution,Toronto FC,2,0,H,2.16,3.23,4.01,2.18,3.41,4.44,1.98,3.28,3.74,Eastern,Eastern
+451,USA,MLS,2013,2013-05-26,01:30,FC Dallas,San Jose Earthquakes,1,0,H,2.35,3.49,3.19,2.38,3.52,3.35,2.24,3.27,3.05,Western,Western
+452,USA,MLS,2013,2013-05-26,02:00,Colorado Rapids,Chivas USA,2,0,H,1.47,4.59,7.86,1.57,4.7,8.1,1.48,4.11,6.35,Western,Eastern
+453,USA,MLS,2013,2013-05-26,02:00,Real Salt Lake,Chicago Fire,1,1,D,1.75,3.7,5.42,1.8,3.7,5.5,1.7,3.5,4.9,Western,Eastern
+454,USA,MLS,2013,2013-05-26,20:30,Sporting Kansas City,Houston Dynamo,1,1,D,2.0,3.34,4.4,2.12,3.4,4.4,1.93,3.23,3.97,Eastern,Eastern
+455,USA,MLS,2013,2013-05-26,22:00,New York Red Bulls,Columbus Crew,2,2,D,1.52,4.38,7.11,1.67,4.42,7.11,1.54,3.95,5.77,Eastern,Eastern
+456,USA,MLS,2013,2013-05-27,04:00,Los Angeles Galaxy,Seattle Sounders,4,0,H,1.83,3.73,4.78,1.83,3.95,5.5,1.71,3.58,4.69,Western,Western
+457,USA,MLS,2013,2013-06-01,23:00,Toronto FC,Philadelphia Union,1,1,D,2.45,3.32,3.16,2.5,3.32,3.2,2.37,3.2,2.89,Eastern,Eastern
+458,USA,MLS,2013,2013-06-02,00:00,New York Red Bulls,Vancouver Whitecaps,1,2,A,1.53,4.54,6.44,1.6,4.7,8.0,1.48,4.03,6.44,Eastern,Western
+459,USA,MLS,2013,2013-06-02,00:30,Columbus Crew,Houston Dynamo,1,1,D,2.41,3.4,3.16,2.42,3.4,3.6,2.2,3.2,3.18,Eastern,Eastern
+460,USA,MLS,2013,2013-06-02,01:30,Sporting Kansas City,CF Montreal,1,2,A,1.79,3.77,4.95,1.8,3.95,5.4,1.72,3.56,4.59,Eastern,Eastern
+461,USA,MLS,2013,2013-06-02,02:00,Colorado Rapids,FC Dallas,2,2,D,2.09,3.48,3.85,2.2,3.48,3.85,2.07,3.28,3.42,Western,Western
+462,USA,MLS,2013,2013-06-02,02:30,Real Salt Lake,San Jose Earthquakes,3,0,H,2.04,3.55,3.94,2.1,3.55,3.99,2.0,3.3,3.59,Western,Western
+463,USA,MLS,2013,2013-06-02,03:30,Chivas USA,Seattle Sounders,0,2,A,4.46,3.61,1.91,4.46,3.7,2.04,3.89,3.33,1.91,Eastern,Western
+464,USA,MLS,2013,2013-06-02,21:30,Los Angeles Galaxy,New England Revolution,0,5,A,2.65,3.28,2.92,2.65,3.3,3.15,2.4,3.18,2.87,Western,Eastern
+465,USA,MLS,2013,2013-06-02,22:00,Chicago Fire,DC United,2,0,H,1.8,3.67,5.08,1.9,3.8,5.08,1.79,3.51,4.22,Eastern,Eastern
+466,USA,MLS,2013,2013-06-06,00:30,Philadelphia Union,Columbus Crew,3,0,H,2.16,3.4,3.74,2.25,3.49,3.74,2.13,3.31,3.28,Eastern,Eastern
+467,USA,MLS,2013,2013-06-09,00:30,New England Revolution,DC United,0,0,D,1.81,3.68,5.0,1.81,3.85,5.25,1.73,3.54,4.63,Eastern,Eastern
+468,USA,MLS,2013,2013-06-09,01:30,Chicago Fire,Portland Timbers,2,2,D,2.39,3.46,3.14,2.4,3.46,3.3,2.26,3.25,3.05,Eastern,Western
+469,USA,MLS,2013,2013-06-09,02:30,Real Salt Lake,Los Angeles Galaxy,3,1,H,2.15,3.49,3.63,2.29,3.49,3.63,2.15,3.25,3.27,Western,Western
+470,USA,MLS,2013,2013-06-09,03:30,Seattle Sounders,Vancouver Whitecaps,3,2,H,1.98,3.42,4.38,2.15,3.5,4.38,1.94,3.3,3.84,Western,Western
+471,USA,MLS,2013,2013-06-15,22:00,Portland Timbers,FC Dallas,1,0,H,1.93,3.64,4.3,1.96,3.64,4.34,1.9,3.38,3.88,Western,Western
+472,USA,MLS,2013,2013-06-16,00:00,DC United,Toronto FC,1,2,A,2.5,3.38,3.03,2.5,3.4,3.6,2.26,3.2,3.1,Eastern,Eastern
+473,USA,MLS,2013,2013-06-16,00:30,Columbus Crew,CF Montreal,2,0,H,3.0,3.51,2.47,3.35,3.51,2.8,2.75,3.27,2.47,Eastern,Eastern
+474,USA,MLS,2013,2013-06-16,02:00,Colorado Rapids,San Jose Earthquakes,1,2,A,2.18,3.44,3.59,2.31,3.44,3.59,2.15,3.25,3.28,Western,Western
+475,USA,MLS,2013,2013-06-16,03:00,Vancouver Whitecaps,New England Revolution,4,3,H,2.36,3.41,3.24,2.36,3.45,3.7,2.17,3.2,3.26,Western,Eastern
+476,USA,MLS,2013,2013-06-20,01:00,CF Montreal,Houston Dynamo,2,0,H,1.98,3.62,4.05,2.04,3.65,4.15,1.96,3.32,3.74,Eastern,Eastern
+477,USA,MLS,2013,2013-06-20,01:30,Chicago Fire,Colorado Rapids,2,1,H,2.08,3.56,3.81,2.1,3.56,3.85,2.04,3.3,3.52,Eastern,Western
+478,USA,MLS,2013,2013-06-20,03:00,Vancouver Whitecaps,Chivas USA,3,1,H,1.63,4.22,5.78,1.63,4.33,6.2,1.56,3.91,5.56,Western,Eastern
+479,USA,MLS,2013,2013-06-20,03:30,Los Angeles Galaxy,Portland Timbers,0,0,D,2.02,3.68,3.87,2.02,3.75,5.2,1.83,3.51,4.09,Western,Western
+480,USA,MLS,2013,2013-06-23,00:00,DC United,San Jose Earthquakes,1,0,H,2.96,3.54,2.47,3.0,3.6,2.5,2.86,3.26,2.37,Eastern,Western
+481,USA,MLS,2013,2013-06-23,01:00,Columbus Crew,Chicago Fire,1,2,A,2.22,3.51,3.45,2.29,3.51,3.5,2.16,3.28,3.23,Eastern,Eastern
+482,USA,MLS,2013,2013-06-23,01:30,FC Dallas,Sporting Kansas City,2,2,D,2.67,3.18,2.98,2.67,3.4,3.3,2.4,3.18,2.89,Western,Eastern
+483,USA,MLS,2013,2013-06-23,02:00,Houston Dynamo,Toronto FC,0,0,D,1.97,3.43,4.46,2.0,3.8,6.0,1.81,3.39,4.46,Eastern,Eastern
+484,USA,MLS,2013,2013-06-23,02:30,Real Salt Lake,Seattle Sounders,2,0,H,2.02,3.62,3.93,2.04,3.62,4.09,1.97,3.35,3.68,Western,Western
+485,USA,MLS,2013,2013-06-23,22:00,Philadelphia Union,New York Red Bulls,3,0,H,2.59,3.34,2.94,2.62,3.4,2.95,2.49,3.24,2.72,Eastern,Eastern
+486,USA,MLS,2013,2013-06-24,00:00,Portland Timbers,Colorado Rapids,3,0,H,1.75,3.68,5.48,1.76,3.9,5.58,1.69,3.56,4.92,Western,Western
+487,USA,MLS,2013,2013-06-24,04:00,Chivas USA,Los Angeles Galaxy,0,1,A,9.11,4.84,1.41,10.0,4.95,1.55,7.69,4.33,1.4,Eastern,Western
+488,USA,MLS,2013,2013-06-29,18:00,Toronto FC,Real Salt Lake,0,1,A,2.41,3.46,3.12,2.6,3.46,3.13,2.4,3.26,2.83,Eastern,Western
+489,USA,MLS,2013,2013-06-29,22:30,Philadelphia Union,FC Dallas,2,2,D,2.04,3.6,3.82,2.1,3.69,4.25,1.99,3.39,3.61,Eastern,Western
+490,USA,MLS,2013,2013-06-30,00:00,DC United,Vancouver Whitecaps,0,1,A,2.13,3.43,3.78,2.4,3.43,3.78,2.17,3.24,3.29,Eastern,Western
+491,USA,MLS,2013,2013-06-30,00:00,CF Montreal,Colorado Rapids,3,4,A,1.83,3.69,4.78,1.91,3.75,5.0,1.76,3.52,4.48,Eastern,Western
+492,USA,MLS,2013,2013-06-30,01:30,Sporting Kansas City,Columbus Crew,3,2,H,1.67,3.91,5.92,1.68,3.91,6.35,1.61,3.66,5.56,Eastern,Eastern
+493,USA,MLS,2013,2013-06-30,03:30,Chivas USA,New England Revolution,1,1,D,3.83,3.31,2.16,3.83,3.31,2.5,3.31,3.17,2.19,Eastern,Eastern
+494,USA,MLS,2013,2013-06-30,03:30,San Jose Earthquakes,Los Angeles Galaxy,3,2,H,2.77,3.3,2.77,3.2,3.3,2.77,2.89,3.17,2.43,Western,Western
+495,USA,MLS,2013,2013-06-30,19:00,New York Red Bulls,Houston Dynamo,2,0,H,1.77,3.8,5.08,1.83,3.8,5.4,1.76,3.48,4.54,Eastern,Eastern
+496,USA,MLS,2013,2013-07-04,00:00,Toronto FC,CF Montreal,3,3,D,2.93,3.4,2.56,3.3,3.4,2.65,2.68,3.21,2.51,Eastern,Eastern
+497,USA,MLS,2013,2013-07-04,01:30,Chicago Fire,San Jose Earthquakes,3,2,H,2.02,3.56,3.99,2.02,3.75,4.88,1.87,3.39,4.03,Eastern,Western
+498,USA,MLS,2013,2013-07-04,02:00,Sporting Kansas City,Vancouver Whitecaps,1,1,D,1.57,4.13,6.8,1.67,4.2,6.8,1.59,3.74,5.62,Eastern,Western
+499,USA,MLS,2013,2013-07-04,03:00,Real Salt Lake,Philadelphia Union,2,2,D,1.78,3.8,5.0,1.85,3.84,5.0,1.76,3.53,4.43,Western,Eastern
+500,USA,MLS,2013,2013-07-04,03:00,Seattle Sounders,DC United,2,0,H,1.47,4.59,7.75,1.55,4.59,7.75,1.46,4.01,6.95,Western,Eastern
+501,USA,MLS,2013,2013-07-05,02:00,FC Dallas,Chivas USA,0,0,D,1.38,4.91,10.23,1.4,4.96,10.23,1.36,4.52,8.31,Western,Eastern
+502,USA,MLS,2013,2013-07-05,02:30,Colorado Rapids,New York Red Bulls,2,0,H,2.08,3.69,3.68,2.4,3.69,3.68,2.12,3.37,3.27,Western,Eastern
+503,USA,MLS,2013,2013-07-05,03:30,Los Angeles Galaxy,Columbus Crew,2,1,H,1.47,4.43,8.59,1.55,4.43,8.59,1.48,3.97,6.68,Western,Eastern
+504,USA,MLS,2013,2013-07-07,00:30,New England Revolution,San Jose Earthquakes,2,0,H,1.88,3.67,4.55,1.9,3.67,4.75,1.84,3.45,4.12,Eastern,Western
+505,USA,MLS,2013,2013-07-07,02:00,Houston Dynamo,Philadelphia Union,1,0,H,1.92,3.55,4.49,1.93,3.7,4.7,1.84,3.41,4.13,Eastern,Eastern
+506,USA,MLS,2013,2013-07-07,04:00,Vancouver Whitecaps,Seattle Sounders,2,0,H,2.76,3.33,2.76,2.78,4.0,3.8,2.56,3.23,2.66,Western,Western
+507,USA,MLS,2013,2013-07-07,20:00,Chicago Fire,Sporting Kansas City,1,2,A,2.8,3.3,2.75,2.8,3.36,2.9,2.54,3.21,2.68,Eastern,Eastern
+508,USA,MLS,2013,2013-07-07,22:00,Columbus Crew,Portland Timbers,1,0,H,3.25,3.27,2.43,3.4,3.3,2.85,2.8,3.23,2.45,Eastern,Western
+509,USA,MLS,2013,2013-07-08,00:00,CF Montreal,Chivas USA,1,1,D,1.33,5.75,10.23,1.37,5.8,11.0,1.33,4.78,8.71,Eastern,Eastern
+510,USA,MLS,2013,2013-07-08,02:30,Colorado Rapids,DC United,0,0,D,1.52,4.15,7.89,1.55,4.33,8.5,1.49,3.96,6.62,Western,Eastern
+511,USA,MLS,2013,2013-07-08,03:30,Los Angeles Galaxy,FC Dallas,2,0,H,1.67,4.05,5.56,1.75,4.05,5.56,1.63,3.75,5.06,Western,Western
+512,USA,MLS,2013,2013-07-13,00:30,Philadelphia Union,Chivas USA,3,1,H,1.58,4.17,6.63,1.66,4.33,6.63,1.56,3.89,5.6,Eastern,Eastern
+513,USA,MLS,2013,2013-07-14,00:00,New York Red Bulls,CF Montreal,4,0,H,2.0,3.73,3.87,2.02,3.73,4.33,1.88,3.43,3.94,Eastern,Eastern
+514,USA,MLS,2013,2013-07-14,00:30,New England Revolution,Houston Dynamo,1,2,A,2.13,3.47,3.74,2.16,3.47,3.95,2.05,3.31,3.45,Eastern,Eastern
+515,USA,MLS,2013,2013-07-14,01:30,Sporting Kansas City,Toronto FC,3,0,H,1.52,4.26,7.65,1.53,4.3,7.65,1.48,3.92,6.81,Eastern,Eastern
+516,USA,MLS,2013,2013-07-14,02:00,FC Dallas,Real Salt Lake,0,3,A,2.25,3.43,3.46,2.25,3.45,3.6,2.13,3.28,3.28,Western,Western
+517,USA,MLS,2013,2013-07-14,03:30,San Jose Earthquakes,Seattle Sounders,1,0,H,2.19,3.37,3.7,2.4,3.45,3.7,2.24,3.21,3.12,Western,Western
+518,USA,MLS,2013,2013-07-14,04:00,Portland Timbers,Los Angeles Galaxy,2,1,H,2.64,3.46,2.8,2.82,3.46,2.9,2.5,3.23,2.71,Western,Western
+519,USA,MLS,2013,2013-07-15,00:00,Vancouver Whitecaps,Chicago Fire,3,1,H,2.08,3.67,3.69,2.16,3.67,3.78,1.99,3.37,3.55,Western,Eastern
+520,USA,MLS,2013,2013-07-18,02:00,Colorado Rapids,New England Revolution,2,1,H,1.98,3.48,4.3,1.98,3.48,4.4,1.89,3.32,4.08,Western,Eastern
+521,USA,MLS,2013,2013-07-18,03:30,Chivas USA,Toronto FC,1,0,H,2.54,3.32,3.02,2.54,3.32,3.22,2.37,3.17,2.93,Eastern,Eastern
+522,USA,MLS,2013,2013-07-20,21:00,Seattle Sounders,Colorado Rapids,1,1,D,2.04,3.41,4.07,2.2,3.5,4.13,1.99,3.31,3.67,Western,Western
+523,USA,MLS,2013,2013-07-20,21:00,Toronto FC,New York Red Bulls,0,0,D,3.66,3.45,2.15,3.66,3.45,2.43,3.33,3.26,2.12,Eastern,Eastern
+524,USA,MLS,2013,2013-07-21,00:00,CF Montreal,FC Dallas,0,0,D,2.02,3.7,3.84,2.02,3.9,4.0,1.91,3.46,3.76,Eastern,Western
+525,USA,MLS,2013,2013-07-21,00:30,Columbus Crew,New England Revolution,0,2,A,2.27,3.4,3.41,2.29,3.5,3.8,2.08,3.28,3.45,Eastern,Eastern
+526,USA,MLS,2013,2013-07-21,00:30,Philadelphia Union,Portland Timbers,0,0,D,2.67,3.48,2.74,2.74,3.51,3.0,2.46,3.25,2.75,Eastern,Western
+527,USA,MLS,2013,2013-07-21,01:30,Chicago Fire,DC United,4,1,H,1.78,3.88,4.86,1.82,3.9,5.5,1.67,3.59,4.98,Eastern,Eastern
+528,USA,MLS,2013,2013-07-21,03:00,Real Salt Lake,Sporting Kansas City,1,2,A,2.33,3.39,3.31,2.4,3.4,3.55,2.23,3.25,3.12,Western,Eastern
+529,USA,MLS,2013,2013-07-21,03:30,Los Angeles Galaxy,Vancouver Whitecaps,2,1,H,1.66,4.23,5.39,1.66,4.25,5.75,1.59,3.86,5.34,Western,Western
+530,USA,MLS,2013,2013-07-27,19:00,Toronto FC,Columbus Crew,2,1,H,2.63,3.3,2.91,2.64,3.45,3.0,2.45,3.18,2.83,Eastern,Eastern
+531,USA,MLS,2013,2013-07-28,00:00,Colorado Rapids,Los Angeles Galaxy,2,0,H,2.35,3.46,3.19,2.66,3.46,3.19,2.38,3.21,2.91,Western,Western
+532,USA,MLS,2013,2013-07-28,00:00,DC United,New England Revolution,1,2,A,2.84,3.2,2.76,2.85,3.4,3.25,2.55,3.15,2.74,Eastern,Eastern
+533,USA,MLS,2013,2013-07-28,00:00,CF Montreal,Sporting Kansas City,1,0,H,2.43,3.46,3.07,2.5,3.46,3.15,2.37,3.23,2.88,Eastern,Eastern
+534,USA,MLS,2013,2013-07-28,00:00,New York Red Bulls,Real Salt Lake,4,3,H,1.93,3.63,4.3,1.93,3.63,4.65,1.84,3.45,4.11,Eastern,Western
+535,USA,MLS,2013,2013-07-28,00:00,Vancouver Whitecaps,Philadelphia Union,0,1,A,1.85,3.7,4.67,2.0,3.75,4.67,1.85,3.48,4.01,Western,Eastern
+536,USA,MLS,2013,2013-07-28,02:00,Houston Dynamo,Chicago Fire,1,1,D,2.08,3.53,3.81,2.12,3.53,4.3,1.97,3.32,3.77,Eastern,Eastern
+537,USA,MLS,2013,2013-07-28,03:30,San Jose Earthquakes,Portland Timbers,2,1,H,2.76,3.29,2.79,2.76,3.3,3.05,2.51,3.14,2.78,Western,Western
+538,USA,MLS,2013,2013-07-29,04:00,Seattle Sounders,Chivas USA,2,1,H,1.43,4.78,8.4,1.45,5.0,9.0,1.41,4.24,7.59,Western,Eastern
+539,USA,MLS,2013,2013-08-03,23:30,Sporting Kansas City,New York Red Bulls,2,3,A,1.84,3.7,4.73,1.9,3.7,4.73,1.84,3.38,4.18,Eastern,Eastern
+540,USA,MLS,2013,2013-08-04,00:30,DC United,CF Montreal,3,1,H,2.91,3.45,2.54,3.0,3.5,2.57,2.83,3.23,2.4,Eastern,Eastern
+541,USA,MLS,2013,2013-08-04,01:00,Philadelphia Union,Chicago Fire,1,2,A,2.38,3.37,3.23,2.4,3.45,3.5,2.23,3.23,3.14,Eastern,Eastern
+542,USA,MLS,2013,2013-08-04,01:30,Colorado Rapids,Real Salt Lake,2,2,D,2.52,3.36,3.01,2.52,3.4,3.4,2.27,3.2,3.08,Western,Western
+543,USA,MLS,2013,2013-08-04,02:00,Houston Dynamo,Columbus Crew,3,1,H,1.63,4.01,6.14,1.85,4.01,6.14,1.72,3.55,4.7,Eastern,Eastern
+544,USA,MLS,2013,2013-08-04,03:00,San Jose Earthquakes,Chivas USA,2,0,H,1.45,4.48,8.83,1.55,4.75,9.0,1.43,4.19,7.32,Western,Eastern
+545,USA,MLS,2013,2013-08-04,03:30,Seattle Sounders,FC Dallas,3,0,H,1.83,3.77,4.71,1.91,3.8,4.71,1.83,3.44,4.2,Western,Western
+546,USA,MLS,2013,2013-08-04,04:00,Portland Timbers,Vancouver Whitecaps,1,1,D,1.66,4.05,5.58,1.75,4.05,6.1,1.66,3.64,5.05,Western,Western
+547,USA,MLS,2013,2013-08-05,00:30,New England Revolution,Toronto FC,0,1,A,1.74,3.72,5.48,1.76,3.8,5.7,1.68,3.58,4.91,Eastern,Eastern
+548,USA,MLS,2013,2013-08-11,00:00,Toronto FC,Seattle Sounders,1,2,A,3.11,3.22,2.54,3.2,3.4,2.6,2.89,3.13,2.4,Eastern,Western
+549,USA,MLS,2013,2013-08-11,00:30,Columbus Crew,New York Red Bulls,2,0,H,2.68,3.44,2.78,2.91,3.44,2.78,2.69,3.22,2.54,Eastern,Eastern
+550,USA,MLS,2013,2013-08-11,00:30,Vancouver Whitecaps,San Jose Earthquakes,2,0,H,2.16,3.44,3.67,2.24,3.5,3.67,2.12,3.28,3.33,Western,Western
+551,USA,MLS,2013,2013-08-11,01:00,Philadelphia Union,DC United,2,0,H,1.73,3.74,5.54,1.94,3.75,5.54,1.75,3.54,4.5,Eastern,Eastern
+552,USA,MLS,2013,2013-08-11,01:30,Chicago Fire,CF Montreal,2,1,H,2.21,3.49,3.5,2.21,3.55,4.15,2.04,3.34,3.46,Eastern,Eastern
+553,USA,MLS,2013,2013-08-11,01:30,Sporting Kansas City,New England Revolution,3,0,H,1.75,3.68,5.48,1.85,3.75,5.5,1.7,3.47,4.88,Eastern,Eastern
+554,USA,MLS,2013,2013-08-11,02:30,Real Salt Lake,Houston Dynamo,1,0,H,1.95,3.49,4.41,2.0,3.5,4.41,1.87,3.37,4.0,Western,Eastern
+555,USA,MLS,2013,2013-08-12,01:00,FC Dallas,Los Angeles Galaxy,3,3,D,4.22,3.54,1.98,4.3,3.6,2.74,3.63,3.31,2.03,Western,Western
+556,USA,MLS,2013,2013-08-12,04:00,Chivas USA,Colorado Rapids,1,1,D,4.04,3.62,1.99,4.5,3.62,2.2,3.7,3.35,1.97,Eastern,Western
+557,USA,MLS,2013,2013-08-18,00:00,CF Montreal,DC United,2,1,H,1.72,3.98,5.16,1.73,4.2,5.75,1.63,3.74,5.17,Eastern,Eastern
+558,USA,MLS,2013,2013-08-18,00:30,Columbus Crew,Toronto FC,2,0,H,2.04,3.4,4.08,2.1,3.5,4.42,1.93,3.34,3.87,Eastern,Eastern
+559,USA,MLS,2013,2013-08-18,00:30,New England Revolution,Chicago Fire,2,0,H,2.09,3.56,3.75,2.29,3.57,3.76,2.1,3.32,3.34,Eastern,Eastern
+560,USA,MLS,2013,2013-08-18,01:00,New York Red Bulls,Philadelphia Union,0,0,D,1.86,3.78,4.47,1.88,3.8,4.59,1.79,3.51,4.27,Eastern,Eastern
+561,USA,MLS,2013,2013-08-18,02:00,Houston Dynamo,Seattle Sounders,3,1,H,2.1,3.42,3.87,2.15,3.6,3.87,2.05,3.27,3.5,Eastern,Western
+562,USA,MLS,2013,2013-08-18,02:30,Colorado Rapids,Vancouver Whitecaps,2,0,H,1.68,3.96,5.69,1.91,3.96,5.69,1.74,3.52,4.66,Western,Western
+563,USA,MLS,2013,2013-08-18,03:30,Los Angeles Galaxy,Real Salt Lake,4,2,H,1.72,3.96,5.18,1.8,3.96,5.25,1.67,3.65,4.86,Western,Western
+564,USA,MLS,2013,2013-08-18,04:00,Portland Timbers,FC Dallas,2,1,H,1.67,4.03,5.61,1.73,4.04,5.61,1.64,3.68,5.11,Western,Western
+565,USA,MLS,2013,2013-08-19,03:00,San Jose Earthquakes,Sporting Kansas City,1,0,H,2.2,3.44,3.5,2.4,3.44,3.6,2.21,3.22,3.21,Western,Eastern
+566,USA,MLS,2013,2013-08-22,03:30,Chivas USA,FC Dallas,1,3,A,3.5,3.42,2.25,3.5,3.5,2.35,3.13,3.26,2.21,Eastern,Western
+567,USA,MLS,2013,2013-08-22,04:00,Portland Timbers,Real Salt Lake,3,3,D,1.81,3.72,4.95,2.04,3.8,4.95,1.82,3.47,4.27,Western,Western
+568,USA,MLS,2013,2013-08-24,01:30,Chicago Fire,Sporting Kansas City,1,0,H,2.81,3.27,2.72,2.81,3.45,2.9,2.55,3.19,2.68,Eastern,Eastern
+569,USA,MLS,2013,2013-08-25,00:00,DC United,Toronto FC,1,1,D,2.04,3.45,4.07,2.2,3.5,4.33,2.0,3.32,3.64,Eastern,Eastern
+570,USA,MLS,2013,2013-08-25,00:00,CF Montreal,Houston Dynamo,5,0,H,2.17,3.48,3.61,2.2,3.6,3.86,2.06,3.32,3.45,Eastern,Eastern
+571,USA,MLS,2013,2013-08-25,02:00,FC Dallas,San Jose Earthquakes,2,2,D,2.37,3.33,3.29,2.45,3.33,3.45,2.26,3.19,3.09,Western,Western
+572,USA,MLS,2013,2013-08-25,02:00,Vancouver Whitecaps,Los Angeles Galaxy,0,1,A,3.43,3.46,2.25,3.43,3.5,2.47,3.05,3.3,2.25,Western,Western
+573,USA,MLS,2013,2013-08-25,02:30,Real Salt Lake,Columbus Crew,4,0,H,1.63,4.04,6.08,1.67,4.04,7.0,1.6,3.74,5.5,Western,Eastern
+574,USA,MLS,2013,2013-08-25,22:00,Chivas USA,New York Red Bulls,3,2,H,4.34,3.68,1.91,4.34,3.68,1.97,4.03,3.41,1.87,Eastern,Eastern
+575,USA,MLS,2013,2013-08-26,00:30,New England Revolution,Philadelphia Union,5,1,H,2.02,3.54,4.03,2.04,3.59,4.2,1.96,3.36,3.71,Eastern,Eastern
+576,USA,MLS,2013,2013-08-26,03:00,Seattle Sounders,Portland Timbers,1,0,H,1.96,3.56,4.26,2.0,3.56,4.3,1.91,3.36,3.9,Western,Western
+577,USA,MLS,2013,2013-08-31,00:00,Toronto FC,New England Revolution,1,1,D,2.93,3.09,2.77,2.97,3.4,2.8,2.69,3.11,2.61,Eastern,Eastern
+578,USA,MLS,2013,2013-08-31,03:00,Real Salt Lake,Portland Timbers,4,2,H,1.78,3.78,5.04,2.02,3.78,5.04,1.84,3.42,4.21,Western,Western
+579,USA,MLS,2013,2013-09-01,00:30,Columbus Crew,Seattle Sounders,0,1,A,3.1,3.38,2.46,3.2,3.4,2.7,2.82,3.19,2.44,Eastern,Western
+580,USA,MLS,2013,2013-09-01,00:30,Philadelphia Union,CF Montreal,0,0,D,2.49,3.76,2.8,2.49,3.76,3.0,2.33,3.34,2.85,Eastern,Eastern
+581,USA,MLS,2013,2013-09-01,01:00,New York Red Bulls,DC United,2,1,H,1.65,3.99,6.01,1.7,4.25,6.5,1.58,3.84,5.38,Eastern,Eastern
+582,USA,MLS,2013,2013-09-01,01:30,Sporting Kansas City,Colorado Rapids,2,1,H,2.02,3.42,4.2,2.02,3.55,5.0,1.85,3.34,4.21,Eastern,Western
+583,USA,MLS,2013,2013-09-01,03:30,Los Angeles Galaxy,San Jose Earthquakes,3,0,H,1.54,4.47,6.61,1.6,4.65,6.61,1.52,4.01,5.91,Western,Western
+584,USA,MLS,2013,2013-09-01,20:00,Chicago Fire,Houston Dynamo,1,1,D,1.98,3.61,4.11,2.05,3.61,4.33,1.95,3.35,3.77,Eastern,Eastern
+585,USA,MLS,2013,2013-09-02,00:00,Vancouver Whitecaps,Chivas USA,2,2,D,1.52,4.51,6.9,1.55,4.51,7.19,1.49,4.1,6.22,Western,Eastern
+586,USA,MLS,2013,2013-09-05,00:30,Columbus Crew,Houston Dynamo,2,0,H,2.35,3.4,3.27,2.38,3.4,3.35,2.24,3.27,3.07,Eastern,Eastern
+587,USA,MLS,2013,2013-09-05,03:00,Seattle Sounders,Chivas USA,1,0,H,1.52,4.35,7.19,1.55,4.8,9.14,1.44,4.26,7.0,Western,Eastern
+588,USA,MLS,2013,2013-09-08,01:30,FC Dallas,Vancouver Whitecaps,3,1,H,1.97,3.66,4.1,2.0,3.7,4.33,1.88,3.43,3.96,Western,Western
+589,USA,MLS,2013,2013-09-08,01:30,Sporting Kansas City,Columbus Crew,3,0,H,1.65,3.96,6.01,1.7,3.96,6.25,1.62,3.65,5.45,Eastern,Eastern
+590,USA,MLS,2013,2013-09-08,03:00,Seattle Sounders,Chicago Fire,2,1,H,1.7,3.79,5.73,1.8,3.8,5.97,1.67,3.6,5.09,Western,Eastern
+591,USA,MLS,2013,2013-09-08,03:30,Los Angeles Galaxy,Colorado Rapids,0,1,A,2.06,3.51,3.93,2.06,3.8,5.0,1.87,3.45,4.01,Western,Western
+592,USA,MLS,2013,2013-09-08,04:00,Portland Timbers,Toronto FC,4,0,H,1.56,4.22,6.8,1.56,4.33,8.0,1.49,4.02,6.36,Western,Eastern
+593,USA,MLS,2013,2013-09-08,22:00,Houston Dynamo,New York Red Bulls,1,4,A,2.79,3.31,2.75,2.84,3.31,3.2,2.58,3.2,2.69,Eastern,Eastern
+594,USA,MLS,2013,2013-09-09,00:30,New England Revolution,CF Montreal,2,4,A,2.1,3.43,3.87,2.15,3.43,3.95,2.05,3.3,3.47,Eastern,Eastern
+595,USA,MLS,2013,2013-09-09,02:00,Chivas USA,DC United,1,0,H,2.26,3.39,3.45,2.4,3.4,3.55,2.2,3.26,3.16,Eastern,Eastern
+596,USA,MLS,2013,2013-09-09,04:00,San Jose Earthquakes,Philadelphia Union,1,0,H,1.86,3.62,4.71,1.91,3.62,5.2,1.83,3.4,4.22,Western,Eastern
+597,USA,MLS,2013,2013-09-12,00:30,Toronto FC,Chicago Fire,1,1,D,2.84,3.58,2.54,3.0,3.58,2.6,2.85,3.29,2.37,Eastern,Eastern
+598,USA,MLS,2013,2013-09-14,03:00,Seattle Sounders,Real Salt Lake,2,0,H,2.25,3.34,3.57,2.27,3.6,3.75,2.1,3.28,3.4,Western,Western
+599,USA,MLS,2013,2013-09-14,19:00,CF Montreal,Columbus Crew,1,2,A,1.69,3.94,5.47,1.7,4.0,6.0,1.62,3.74,5.19,Eastern,Eastern
+600,USA,MLS,2013,2013-09-14,21:00,DC United,Los Angeles Galaxy,2,2,D,5.03,3.63,1.81,5.2,3.75,2.0,4.21,3.48,1.81,Eastern,Western
+601,USA,MLS,2013,2013-09-15,00:00,New York Red Bulls,Toronto FC,2,0,H,1.49,4.57,7.46,1.5,4.7,8.1,1.45,4.16,6.95,Eastern,Eastern
+602,USA,MLS,2013,2013-09-15,00:30,Philadelphia Union,Houston Dynamo,0,1,A,2.13,3.53,3.64,2.15,3.53,3.9,2.08,3.33,3.38,Eastern,Eastern
+603,USA,MLS,2013,2013-09-15,01:30,Chicago Fire,New England Revolution,3,2,H,2.09,3.48,3.83,2.12,3.48,3.83,2.03,3.3,3.53,Eastern,Eastern
+604,USA,MLS,2013,2013-09-15,02:00,Colorado Rapids,FC Dallas,2,1,H,1.71,3.84,5.44,1.8,3.84,5.5,1.71,3.56,4.7,Western,Western
+605,USA,MLS,2013,2013-09-15,03:30,Chivas USA,Portland Timbers,1,1,D,4.37,3.63,1.92,4.37,3.63,2.1,3.63,3.37,1.98,Eastern,Western
+606,USA,MLS,2013,2013-09-15,03:30,San Jose Earthquakes,Vancouver Whitecaps,0,0,D,1.78,3.7,5.21,1.85,3.7,5.21,1.76,3.5,4.48,Western,Western
+607,USA,MLS,2013,2013-09-21,03:00,Portland Timbers,Colorado Rapids,1,0,H,1.83,3.93,4.48,2.04,3.93,4.75,1.81,3.52,4.21,Western,Western
+608,USA,MLS,2013,2013-09-21,19:00,CF Montreal,Vancouver Whitecaps,0,3,A,1.76,3.97,4.89,1.81,3.97,5.0,1.73,3.61,4.49,Eastern,Western
+609,USA,MLS,2013,2013-09-21,21:00,Toronto FC,Sporting Kansas City,1,2,A,3.84,3.41,2.12,3.9,3.5,2.2,3.58,3.27,2.04,Eastern,Eastern
+610,USA,MLS,2013,2013-09-22,00:30,Columbus Crew,Chicago Fire,3,0,H,2.34,3.52,3.19,2.38,3.52,3.35,2.28,3.26,3.0,Eastern,Eastern
+611,USA,MLS,2013,2013-09-22,00:30,New England Revolution,DC United,2,1,H,1.77,3.91,4.9,2.25,3.91,5.8,1.67,3.58,5.13,Eastern,Eastern
+612,USA,MLS,2013,2013-09-22,01:30,Houston Dynamo,Chivas USA,5,1,H,1.4,5.0,9.04,1.56,5.0,9.5,1.41,4.36,7.54,Eastern,Eastern
+613,USA,MLS,2013,2013-09-22,02:00,Real Salt Lake,San Jose Earthquakes,1,2,A,2.11,3.42,3.86,2.11,3.6,4.8,1.92,3.34,3.94,Western,Western
+614,USA,MLS,2013,2013-09-22,03:30,Los Angeles Galaxy,Seattle Sounders,1,1,D,1.85,3.66,4.69,1.87,3.85,5.0,1.8,3.48,4.27,Western,Western
+615,USA,MLS,2013,2013-09-22,22:00,New York Red Bulls,FC Dallas,1,0,H,1.86,3.67,4.64,1.87,3.9,5.07,1.74,3.58,4.47,Eastern,Western
+616,USA,MLS,2013,2013-09-28,01:00,Sporting Kansas City,Philadelphia Union,0,1,A,1.59,3.95,6.92,1.65,4.02,6.92,1.56,3.72,6.01,Eastern,Eastern
+617,USA,MLS,2013,2013-09-28,18:00,Toronto FC,DC United,4,1,H,2.0,3.65,3.97,2.1,3.65,4.4,1.97,3.37,3.66,Eastern,Eastern
+618,USA,MLS,2013,2013-09-29,00:00,Vancouver Whitecaps,Real Salt Lake,0,1,A,1.83,3.73,4.64,2.05,3.75,4.75,1.84,3.5,4.13,Western,Western
+619,USA,MLS,2013,2013-09-29,00:30,New England Revolution,Houston Dynamo,1,1,D,2.19,3.55,3.5,2.21,3.6,3.8,2.09,3.38,3.3,Eastern,Eastern
+620,USA,MLS,2013,2013-09-29,01:30,Chicago Fire,CF Montreal,2,2,D,1.99,3.74,3.91,2.16,3.74,3.91,2.02,3.42,3.45,Eastern,Eastern
+621,USA,MLS,2013,2013-09-29,20:30,Portland Timbers,Los Angeles Galaxy,1,0,H,2.67,3.27,2.89,2.67,3.45,3.13,2.4,3.24,2.87,Western,Western
+622,USA,MLS,2013,2013-09-30,01:30,FC Dallas,Columbus Crew,2,4,A,1.83,3.67,4.81,1.91,3.75,4.85,1.84,3.53,4.03,Western,Eastern
+623,USA,MLS,2013,2013-09-30,02:00,Seattle Sounders,New York Red Bulls,1,1,D,1.63,4.02,6.16,1.8,4.02,6.21,1.62,3.79,5.21,Western,Eastern
+624,USA,MLS,2013,2013-09-30,04:00,Chivas USA,San Jose Earthquakes,0,1,A,5.6,3.94,1.69,5.7,3.94,1.85,4.92,3.62,1.68,Eastern,Western
+625,USA,MLS,2013,2013-10-05,01:00,DC United,Chicago Fire,0,3,A,3.91,3.71,2.0,4.1,3.75,2.05,3.6,3.42,1.96,Eastern,Eastern
+626,USA,MLS,2013,2013-10-05,01:30,Houston Dynamo,CF Montreal,1,0,H,1.78,3.64,5.31,1.91,4.0,5.31,1.77,3.55,4.36,Eastern,Eastern
+627,USA,MLS,2013,2013-10-06,00:00,New York Red Bulls,New England Revolution,2,2,D,1.89,3.68,4.43,1.89,3.7,5.1,1.78,3.49,4.36,Eastern,Eastern
+628,USA,MLS,2013,2013-10-06,00:30,Columbus Crew,Sporting Kansas City,0,1,A,2.54,3.32,2.98,2.8,3.32,2.98,2.48,3.17,2.77,Eastern,Eastern
+629,USA,MLS,2013,2013-10-06,00:30,Philadelphia Union,Toronto FC,1,0,H,1.61,3.98,6.56,1.65,4.0,6.9,1.57,3.72,5.82,Eastern,Eastern
+630,USA,MLS,2013,2013-10-06,02:00,Real Salt Lake,FC Dallas,1,1,D,1.68,4.08,5.35,1.73,4.1,5.9,1.64,3.68,5.1,Western,Western
+631,USA,MLS,2013,2013-10-06,03:00,Colorado Rapids,Seattle Sounders,5,1,H,2.2,3.53,3.49,2.3,3.53,3.55,2.16,3.26,3.24,Western,Western
+632,USA,MLS,2013,2013-10-06,22:00,Los Angeles Galaxy,Chivas USA,5,0,H,1.3,5.84,11.5,1.33,5.87,13.0,1.25,5.39,10.68,Western,Eastern
+633,USA,MLS,2013,2013-10-07,01:00,Vancouver Whitecaps,Portland Timbers,2,2,D,2.54,3.11,2.81,2.6,3.35,3.2,2.4,3.16,2.87,Western,Western
+634,USA,MLS,2013,2013-10-10,01:30,Houston Dynamo,Sporting Kansas City,0,0,D,2.32,3.16,3.59,2.32,3.4,3.65,2.22,3.17,3.2,Eastern,Eastern
+635,USA,MLS,2013,2013-10-10,03:00,Seattle Sounders,Vancouver Whitecaps,1,4,A,1.57,4.05,7.08,1.7,4.05,7.08,1.58,3.76,5.61,Western,Western
+636,USA,MLS,2013,2013-10-10,03:30,San Jose Earthquakes,Colorado Rapids,1,0,H,2.05,3.44,4.06,2.05,3.55,4.33,1.91,3.36,3.92,Western,Western
+637,USA,MLS,2013,2013-10-12,19:30,CF Montreal,New England Revolution,0,1,A,2.01,3.6,3.99,2.05,3.65,4.05,1.93,3.41,3.71,Eastern,Eastern
+638,USA,MLS,2013,2013-10-13,00:00,DC United,Philadelphia Union,1,1,D,3.04,3.59,2.4,3.3,3.6,2.4,3.09,3.31,2.21,Eastern,Eastern
+639,USA,MLS,2013,2013-10-13,01:30,FC Dallas,Chicago Fire,2,3,A,2.42,3.8,2.86,2.47,3.8,3.2,2.32,3.38,2.85,Western,Eastern
+640,USA,MLS,2013,2013-10-14,02:00,Portland Timbers,Seattle Sounders,1,0,H,2.09,3.57,3.77,2.11,3.57,3.9,1.99,3.32,3.65,Western,Western
+641,USA,MLS,2013,2013-10-17,03:30,Los Angeles Galaxy,CF Montreal,1,0,H,1.56,4.36,6.54,1.56,4.7,8.0,1.48,4.08,6.45,Western,Eastern
+642,USA,MLS,2013,2013-10-19,01:00,Sporting Kansas City,DC United,1,0,H,1.38,5.14,9.38,1.43,5.3,9.7,1.37,4.47,7.95,Eastern,Eastern
+643,USA,MLS,2013,2013-10-19,19:00,CF Montreal,Philadelphia Union,2,1,H,2.0,3.63,3.92,2.07,3.63,4.45,1.96,3.28,3.8,Eastern,Eastern
+644,USA,MLS,2013,2013-10-19,19:30,FC Dallas,Seattle Sounders,2,0,H,2.97,3.51,2.45,3.1,3.51,2.5,2.89,3.29,2.33,Western,Western
+645,USA,MLS,2013,2013-10-19,23:00,Colorado Rapids,Vancouver Whitecaps,3,2,H,1.85,3.68,4.59,1.85,3.75,5.8,1.75,3.48,4.58,Western,Western
+646,USA,MLS,2013,2013-10-20,00:30,New England Revolution,Columbus Crew,3,2,H,1.9,3.7,4.39,1.99,3.7,4.55,1.87,3.42,3.99,Eastern,Eastern
+647,USA,MLS,2013,2013-10-20,01:30,Chicago Fire,Toronto FC,1,0,H,1.37,4.47,8.63,1.45,4.94,9.0,1.39,4.43,7.44,Eastern,Eastern
+648,USA,MLS,2013,2013-10-20,03:30,Portland Timbers,Real Salt Lake,0,0,D,2.21,3.67,3.32,2.25,3.67,3.9,2.05,3.29,3.5,Western,Western
+649,USA,MLS,2013,2013-10-20,21:00,Houston Dynamo,New York Red Bulls,0,3,A,2.0,3.56,4.07,2.1,3.56,4.1,1.98,3.4,3.6,Eastern,Eastern
+650,USA,MLS,2013,2013-10-21,02:00,Los Angeles Galaxy,San Jose Earthquakes,0,0,D,1.76,4.13,4.67,1.76,4.23,6.3,1.63,3.86,4.98,Western,Western
+651,USA,MLS,2013,2013-10-24,02:00,Real Salt Lake,Chivas USA,2,1,H,1.27,6.11,12.3,1.29,6.11,14.0,1.26,5.31,10.82,Western,Eastern
+652,USA,MLS,2013,2013-10-26,20:00,Philadelphia Union,Sporting Kansas City,1,2,A,2.86,3.29,2.73,3.05,3.3,2.8,2.71,3.13,2.57,Eastern,Eastern
+653,USA,MLS,2013,2013-10-26,21:00,Toronto FC,CF Montreal,1,0,H,3.01,3.44,2.49,3.25,3.55,2.52,2.94,3.29,2.31,Eastern,Eastern
+654,USA,MLS,2013,2013-10-26,22:30,San Jose Earthquakes,FC Dallas,2,1,H,1.64,3.72,5.23,1.65,4.05,5.9,1.6,3.8,5.29,Western,Western
+655,USA,MLS,2013,2013-10-27,02:30,Chivas USA,Portland Timbers,0,5,A,4.56,3.69,1.87,5.7,3.8,1.87,4.7,3.56,1.72,Eastern,Western
+656,USA,MLS,2013,2013-10-27,17:30,DC United,Houston Dynamo,1,2,A,4.41,3.7,1.91,4.7,3.7,1.95,4.05,3.46,1.85,Eastern,Eastern
+657,USA,MLS,2013,2013-10-27,20:00,Columbus Crew,New England Revolution,0,1,A,2.94,3.51,2.5,3.0,3.51,2.62,2.74,3.26,2.47,Eastern,Eastern
+658,USA,MLS,2013,2013-10-27,21:00,New York Red Bulls,Chicago Fire,5,2,H,2.06,3.64,3.73,2.08,3.66,4.0,1.95,3.42,3.67,Eastern,Eastern
+659,USA,MLS,2013,2013-10-28,00:00,Vancouver Whitecaps,Colorado Rapids,3,0,H,2.52,3.47,2.94,2.55,3.59,2.96,2.44,3.23,2.78,Western,Western
+660,USA,MLS,2013,2013-10-28,01:00,Seattle Sounders,Los Angeles Galaxy,1,1,D,2.44,3.46,3.07,2.5,3.46,3.1,2.35,3.28,2.89,Western,Western
+661,USA,MLS,2013,2013-10-31,02:30,Seattle Sounders,Colorado Rapids,2,0,H,1.83,3.55,5.06,1.95,3.6,5.06,1.85,3.36,4.24,Western,Western
+662,USA,MLS,2013,2013-11-01,00:30,Houston Dynamo,CF Montreal,3,0,H,1.93,3.54,4.45,1.93,3.6,4.96,1.8,3.46,4.37,Eastern,Eastern
+663,USA,MLS,2013,2013-11-03,00:00,New England Revolution,Sporting Kansas City,2,1,H,2.73,3.14,2.95,2.73,3.25,3.05,2.49,3.08,2.85,Eastern,Eastern
+664,USA,MLS,2013,2013-11-03,02:00,Seattle Sounders,Portland Timbers,1,2,A,2.27,3.42,3.44,2.27,3.42,3.65,2.11,3.25,3.4,Western,Western
+665,USA,MLS,2013,2013-11-03,20:30,Houston Dynamo,New York Red Bulls,2,2,D,2.35,3.38,3.24,2.42,3.5,3.25,2.28,3.24,3.03,Eastern,Eastern
+666,USA,MLS,2013,2013-11-04,02:00,Los Angeles Galaxy,Real Salt Lake,1,0,H,1.65,4.02,5.92,1.67,4.02,6.0,1.62,3.71,5.23,Western,Western
+667,USA,MLS,2013,2013-11-07,01:00,New York Red Bulls,Houston Dynamo,1,1,D,1.74,3.83,5.26,2.0,3.83,5.4,1.73,3.57,4.62,Eastern,Eastern
+668,USA,MLS,2013,2013-11-07,02:00,Sporting Kansas City,New England Revolution,2,1,H,1.74,3.72,5.54,1.75,3.85,5.6,1.7,3.52,4.92,Eastern,Eastern
+669,USA,MLS,2013,2013-11-08,02:00,Real Salt Lake,Los Angeles Galaxy,1,0,H,3.12,3.24,2.53,3.12,3.35,2.88,2.73,3.21,2.52,Western,Western
+670,USA,MLS,2013,2013-11-08,04:00,Portland Timbers,Seattle Sounders,3,2,H,2.45,3.37,3.12,2.45,3.5,3.6,2.18,3.27,3.22,Western,Western
+671,USA,MLS,2013,2013-11-09,19:30,Houston Dynamo,Sporting Kansas City,0,0,D,2.53,3.3,3.07,2.53,3.3,3.2,2.33,3.15,3.05,Eastern,Eastern
+672,USA,MLS,2013,2013-11-11,02:00,Real Salt Lake,Portland Timbers,4,2,H,2.48,3.18,3.24,2.48,3.3,3.4,2.27,3.13,3.18,Western,Western
+673,USA,MLS,2013,2013-11-24,00:30,Sporting Kansas City,Houston Dynamo,2,1,H,1.85,3.39,5.28,1.95,3.4,5.28,1.85,3.28,4.35,Eastern,Eastern
+674,USA,MLS,2013,2013-11-25,02:00,Portland Timbers,Real Salt Lake,0,1,A,2.0,3.66,3.97,2.08,3.68,4.15,1.96,3.41,3.66,Western,Western
+675,USA,MLS,2013,2013-12-07,21:00,Sporting Kansas City,Real Salt Lake,1,1,D,1.94,3.34,4.76,2.05,3.4,4.76,1.95,3.24,3.95,Eastern,Western
+676,USA,MLS,2014,2014-03-08,20:00,Seattle Sounders,Sporting Kansas City,1,0,H,2.2,3.29,3.77,2.25,3.4,3.77,2.16,3.19,3.33,Western,Eastern
+677,USA,MLS,2014,2014-03-09,00:00,DC United,Columbus Crew,0,3,A,2.26,3.41,3.45,2.88,3.41,3.6,2.25,3.21,3.13,Eastern,Eastern
+678,USA,MLS,2014,2014-03-09,00:30,Vancouver Whitecaps,New York Red Bulls,4,1,H,2.18,3.43,3.57,2.5,3.43,3.57,2.23,3.25,3.13,Western,Eastern
+679,USA,MLS,2014,2014-03-09,01:30,FC Dallas,CF Montreal,3,2,H,1.83,3.69,4.84,1.95,3.69,4.84,1.84,3.43,4.05,Western,Eastern
+680,USA,MLS,2014,2014-03-09,01:30,Houston Dynamo,New England Revolution,4,0,H,2.01,3.46,4.21,2.15,3.46,4.21,2.01,3.26,3.63,Eastern,Eastern
+681,USA,MLS,2014,2014-03-09,03:30,Los Angeles Galaxy,Real Salt Lake,0,1,A,1.66,3.94,5.92,1.8,3.94,5.92,1.68,3.58,4.97,Western,Western
+682,USA,MLS,2014,2014-03-09,03:30,Portland Timbers,Philadelphia Union,1,1,D,1.55,4.16,7.2,1.6,4.17,7.23,1.53,3.81,6.16,Western,Eastern
+683,USA,MLS,2014,2014-03-09,19:00,Chivas USA,Chicago Fire,3,2,H,3.08,3.46,2.43,3.3,3.46,2.43,3.06,3.25,2.25,Eastern,Eastern
+684,USA,MLS,2014,2014-03-15,20:00,New York Red Bulls,Colorado Rapids,1,1,D,1.81,3.79,4.83,1.83,3.8,5.2,1.74,3.55,4.54,Eastern,Western
+685,USA,MLS,2014,2014-03-15,20:00,Philadelphia Union,New England Revolution,1,0,H,2.01,3.57,4.09,2.05,3.57,4.1,1.97,3.32,3.74,Eastern,Eastern
+686,USA,MLS,2014,2014-03-15,20:30,Seattle Sounders,Toronto FC,1,2,A,1.79,3.78,4.91,1.82,3.78,5.2,1.74,3.56,4.5,Western,Eastern
+687,USA,MLS,2014,2014-03-16,00:30,Houston Dynamo,CF Montreal,1,0,H,1.78,3.77,5.04,1.79,3.85,6.22,1.7,3.57,4.88,Eastern,Eastern
+688,USA,MLS,2014,2014-03-16,00:30,Sporting Kansas City,FC Dallas,1,1,D,1.79,3.58,5.38,1.8,3.75,5.38,1.74,3.44,4.74,Eastern,Western
+689,USA,MLS,2014,2014-03-16,02:30,San Jose Earthquakes,Real Salt Lake,3,3,D,2.05,3.49,4.03,2.2,3.5,4.03,2.03,3.35,3.51,Western,Western
+690,USA,MLS,2014,2014-03-16,19:00,Portland Timbers,Chicago Fire,1,1,D,1.64,4.04,5.96,1.67,4.04,6.0,1.62,3.67,5.34,Western,Eastern
+691,USA,MLS,2014,2014-03-16,23:00,Chivas USA,Vancouver Whitecaps,1,1,D,3.19,3.4,2.39,3.2,3.45,2.62,2.91,3.21,2.38,Eastern,Western
+692,USA,MLS,2014,2014-03-22,18:00,New England Revolution,Vancouver Whitecaps,0,0,D,2.26,3.41,3.47,2.26,3.44,3.5,2.17,3.23,3.26,Eastern,Western
+693,USA,MLS,2014,2014-03-22,20:00,Real Salt Lake,Los Angeles Galaxy,1,1,D,2.47,3.38,3.05,2.47,3.39,3.25,2.3,3.22,3.01,Western,Western
+694,USA,MLS,2014,2014-03-22,20:30,Toronto FC,DC United,1,0,H,1.85,3.7,4.62,1.89,3.8,6.25,1.7,3.58,4.88,Eastern,Eastern
+695,USA,MLS,2014,2014-03-22,22:00,Colorado Rapids,Portland Timbers,2,0,H,2.39,3.35,3.19,2.55,3.35,3.25,2.25,3.21,3.09,Western,Western
+696,USA,MLS,2014,2014-03-22,22:00,Columbus Crew,Philadelphia Union,2,1,H,2.14,3.5,3.63,2.17,3.5,3.8,2.06,3.27,3.48,Eastern,Eastern
+697,USA,MLS,2014,2014-03-23,00:30,FC Dallas,Chivas USA,3,1,H,1.66,3.92,5.85,1.73,4.09,5.91,1.62,3.75,5.17,Western,Eastern
+698,USA,MLS,2014,2014-03-23,00:30,Sporting Kansas City,San Jose Earthquakes,1,0,H,1.95,3.36,4.62,2.0,3.6,5.0,1.84,3.37,4.23,Eastern,Western
+699,USA,MLS,2014,2014-03-23,19:00,Chicago Fire,New York Red Bulls,1,1,D,2.47,3.48,3.0,2.55,3.48,3.05,2.36,3.24,2.9,Eastern,Eastern
+700,USA,MLS,2014,2014-03-23,20:00,CF Montreal,Seattle Sounders,0,2,A,2.27,3.5,3.36,2.35,3.5,3.36,2.24,3.24,3.11,Eastern,Western
+701,USA,MLS,2014,2014-03-29,20:00,DC United,Chicago Fire,2,2,D,2.67,3.35,2.79,2.72,3.36,2.88,2.49,3.21,2.74,Eastern,Eastern
+702,USA,MLS,2014,2014-03-29,20:00,Philadelphia Union,CF Montreal,1,1,D,2.08,3.47,3.88,2.16,3.47,4.15,2.01,3.29,3.62,Eastern,Eastern
+703,USA,MLS,2014,2014-03-29,22:00,Colorado Rapids,Sporting Kansas City,2,3,A,2.76,3.18,2.83,2.76,3.25,3.0,2.55,3.07,2.78,Western,Eastern
+704,USA,MLS,2014,2014-03-29,23:00,Vancouver Whitecaps,Houston Dynamo,2,1,H,1.93,3.66,4.26,2.1,3.66,4.26,1.92,3.38,3.8,Western,Eastern
+705,USA,MLS,2014,2014-03-30,00:30,FC Dallas,Portland Timbers,2,1,H,2.45,3.41,3.09,2.45,3.41,3.3,2.27,3.24,3.06,Western,Western
+706,USA,MLS,2014,2014-03-30,02:30,Real Salt Lake,Toronto FC,3,0,H,1.92,3.54,4.54,2.09,3.55,4.6,1.89,3.32,4.06,Western,Eastern
+707,USA,MLS,2014,2014-03-30,03:00,Seattle Sounders,Columbus Crew,1,2,A,1.76,3.78,5.24,1.91,3.8,5.24,1.76,3.49,4.55,Western,Eastern
+708,USA,MLS,2014,2014-03-30,03:30,San Jose Earthquakes,New England Revolution,1,2,A,1.79,3.74,5.02,1.83,3.74,5.16,1.76,3.43,4.6,Western,Eastern
+709,USA,MLS,2014,2014-03-30,20:00,New York Red Bulls,Chivas USA,1,1,D,1.45,4.68,8.15,1.5,4.7,8.15,1.42,4.26,7.26,Eastern,Eastern
+710,USA,MLS,2014,2014-04-05,20:00,Portland Timbers,Seattle Sounders,4,4,D,2.09,3.36,4.02,2.12,3.45,4.25,2.03,3.23,3.67,Western,Western
+711,USA,MLS,2014,2014-04-05,21:00,CF Montreal,New York Red Bulls,2,2,D,2.11,3.62,3.61,2.2,3.62,3.85,2.07,3.33,3.4,Eastern,Eastern
+712,USA,MLS,2014,2014-04-05,22:00,Chicago Fire,Philadelphia Union,2,2,D,2.12,3.6,3.63,2.2,3.6,3.75,2.08,3.29,3.42,Eastern,Eastern
+713,USA,MLS,2014,2014-04-05,23:00,Columbus Crew,Toronto FC,0,2,A,1.85,3.75,4.54,2.0,3.75,4.54,1.87,3.46,3.95,Eastern,Eastern
+714,USA,MLS,2014,2014-04-05,23:30,Vancouver Whitecaps,Colorado Rapids,1,2,A,2.02,3.68,3.86,2.15,3.68,3.95,2.0,3.38,3.57,Western,Western
+715,USA,MLS,2014,2014-04-06,00:00,DC United,New England Revolution,2,0,H,2.63,3.38,2.83,2.66,3.38,2.9,2.48,3.19,2.77,Eastern,Eastern
+716,USA,MLS,2014,2014-04-06,01:00,Houston Dynamo,FC Dallas,1,4,A,1.93,3.54,4.47,2.1,3.6,4.47,1.97,3.34,3.69,Eastern,Western
+717,USA,MLS,2014,2014-04-06,01:30,Sporting Kansas City,Real Salt Lake,0,0,D,1.72,3.74,5.63,1.91,3.74,5.63,1.77,3.43,4.58,Eastern,Western
+718,USA,MLS,2014,2014-04-06,20:00,Chivas USA,Los Angeles Galaxy,0,3,A,6.39,4.37,1.56,6.39,4.37,1.59,5.91,3.91,1.53,Eastern,Western
+719,USA,MLS,2014,2014-04-12,21:00,CF Montreal,Chicago Fire,1,1,D,1.99,3.69,4.0,2.05,3.75,4.35,1.89,3.46,3.91,Eastern,Eastern
+720,USA,MLS,2014,2014-04-12,21:00,Philadelphia Union,Real Salt Lake,2,2,D,2.17,3.43,3.6,2.2,3.45,3.7,2.14,3.26,3.33,Eastern,Western
+721,USA,MLS,2014,2014-04-12,21:00,Toronto FC,Colorado Rapids,0,1,A,2.33,3.33,3.38,2.38,3.35,3.55,2.18,3.21,3.28,Eastern,Western
+722,USA,MLS,2014,2014-04-12,22:00,New England Revolution,Houston Dynamo,2,0,H,2.02,3.45,4.18,2.16,3.45,4.18,2.06,3.26,3.52,Eastern,Eastern
+723,USA,MLS,2014,2014-04-13,00:00,DC United,New York Red Bulls,1,0,H,2.61,3.48,2.82,2.82,3.48,2.82,2.6,3.22,2.63,Eastern,Eastern
+724,USA,MLS,2014,2014-04-13,01:30,FC Dallas,Seattle Sounders,2,3,A,2.76,3.47,2.67,2.76,3.47,3.2,2.42,3.26,2.83,Western,Western
+725,USA,MLS,2014,2014-04-13,03:30,Los Angeles Galaxy,Vancouver Whitecaps,1,0,H,1.48,4.48,7.81,1.55,4.48,7.81,1.47,4.05,6.71,Western,Western
+726,USA,MLS,2014,2014-04-13,03:30,Portland Timbers,Chivas USA,1,1,D,1.38,5.33,9.14,1.45,5.33,9.5,1.36,4.62,8.03,Western,Eastern
+727,USA,MLS,2014,2014-04-13,20:00,San Jose Earthquakes,Columbus Crew,1,1,D,2.03,3.6,3.93,2.1,3.65,4.3,1.92,3.36,3.88,Western,Eastern
+728,USA,MLS,2014,2014-04-17,00:30,New York Red Bulls,Philadelphia Union,2,1,H,1.88,3.78,4.38,1.92,3.78,4.45,1.86,3.43,4.05,Eastern,Eastern
+729,USA,MLS,2014,2014-04-19,21:00,Chicago Fire,New England Revolution,1,1,D,1.91,3.67,4.38,2.0,3.67,4.55,1.9,3.4,3.92,Eastern,Eastern
+730,USA,MLS,2014,2014-04-19,21:00,Philadelphia Union,Houston Dynamo,0,0,D,2.34,3.44,3.25,2.36,3.44,3.45,2.19,3.26,3.21,Eastern,Eastern
+731,USA,MLS,2014,2014-04-19,23:00,Colorado Rapids,San Jose Earthquakes,0,0,D,1.93,3.62,4.38,2.15,3.62,4.38,1.93,3.39,3.82,Western,Western
+732,USA,MLS,2014,2014-04-20,00:00,Vancouver Whitecaps,Los Angeles Galaxy,2,2,D,2.97,3.31,2.59,3.0,3.4,2.6,2.88,3.18,2.41,Western,Western
+733,USA,MLS,2014,2014-04-20,00:30,Columbus Crew,DC United,1,1,D,1.7,3.84,5.63,1.75,3.9,5.9,1.67,3.66,4.92,Eastern,Eastern
+734,USA,MLS,2014,2014-04-20,01:30,FC Dallas,Toronto FC,2,1,H,1.99,3.58,4.1,2.0,3.58,4.35,1.93,3.35,3.82,Western,Eastern
+735,USA,MLS,2014,2014-04-20,01:30,Sporting Kansas City,CF Montreal,4,0,H,1.52,4.27,7.67,1.67,4.27,7.67,1.53,3.82,6.29,Eastern,Eastern
+736,USA,MLS,2014,2014-04-20,02:30,Real Salt Lake,Portland Timbers,1,0,H,2.08,3.49,3.88,2.1,3.5,3.99,2.0,3.32,3.62,Western,Western
+737,USA,MLS,2014,2014-04-20,03:30,Chivas USA,Seattle Sounders,1,2,A,3.95,3.71,1.99,4.1,3.73,2.01,3.74,3.42,1.93,Eastern,Western
+738,USA,MLS,2014,2014-04-24,00:30,New York Red Bulls,Houston Dynamo,4,0,H,1.68,4.19,5.24,1.73,4.2,5.5,1.64,3.73,5.04,Eastern,Eastern
+739,USA,MLS,2014,2014-04-26,21:00,CF Montreal,Philadelphia Union,1,0,H,2.19,3.55,3.5,2.23,3.6,3.88,2.06,3.34,3.44,Eastern,Eastern
+740,USA,MLS,2014,2014-04-26,21:00,Seattle Sounders,Colorado Rapids,4,1,H,1.74,3.83,5.25,1.76,3.85,5.3,1.69,3.6,4.81,Western,Western
+741,USA,MLS,2014,2014-04-27,00:00,DC United,FC Dallas,4,1,H,2.59,3.5,2.84,2.62,3.5,2.95,2.47,3.24,2.75,Eastern,Western
+742,USA,MLS,2014,2014-04-27,00:30,Columbus Crew,New York Red Bulls,1,1,D,2.39,3.48,3.14,2.4,3.5,3.3,2.28,3.25,3.04,Eastern,Eastern
+743,USA,MLS,2014,2014-04-27,00:30,New England Revolution,Sporting Kansas City,2,0,H,3.54,3.29,2.28,3.54,3.29,2.5,3.14,3.14,2.29,Eastern,Eastern
+744,USA,MLS,2014,2014-04-27,02:30,Real Salt Lake,Vancouver Whitecaps,2,2,D,1.72,3.78,5.55,1.8,3.78,5.55,1.73,3.5,4.71,Western,Western
+745,USA,MLS,2014,2014-04-27,03:30,San Jose Earthquakes,Chivas USA,1,0,H,1.66,4.2,5.38,1.66,4.4,6.5,1.55,4.03,5.53,Western,Eastern
+746,USA,MLS,2014,2014-04-27,20:00,Houston Dynamo,Portland Timbers,1,1,D,2.51,3.41,3.01,2.55,3.41,3.3,2.4,3.21,2.89,Eastern,Western
+747,USA,MLS,2014,2014-05-03,18:00,Toronto FC,New England Revolution,1,2,A,1.92,3.38,4.8,2.0,3.5,4.8,1.87,3.3,4.17,Eastern,Eastern
+748,USA,MLS,2014,2014-05-04,00:00,Vancouver Whitecaps,San Jose Earthquakes,3,2,H,2.02,3.44,4.19,2.02,3.5,4.4,1.96,3.31,3.81,Western,Western
+749,USA,MLS,2014,2014-05-04,01:30,Chicago Fire,Real Salt Lake,2,3,A,2.28,3.43,3.37,2.5,3.49,3.37,2.28,3.25,3.03,Eastern,Western
+750,USA,MLS,2014,2014-05-04,02:00,Colorado Rapids,Los Angeles Galaxy,1,0,H,3.34,3.49,2.28,3.4,3.5,2.55,3.08,3.27,2.26,Western,Western
+751,USA,MLS,2014,2014-05-04,03:00,Seattle Sounders,Philadelphia Union,2,1,H,1.53,4.54,6.56,1.62,4.54,7.0,1.54,3.94,5.82,Western,Eastern
+752,USA,MLS,2014,2014-05-04,03:30,Chivas USA,Houston Dynamo,1,4,A,3.0,3.24,2.63,3.0,3.3,2.7,2.73,3.18,2.52,Eastern,Eastern
+753,USA,MLS,2014,2014-05-04,03:30,Portland Timbers,DC United,3,2,H,1.89,3.88,4.19,1.93,3.95,5.6,1.72,3.62,4.64,Western,Eastern
+754,USA,MLS,2014,2014-05-04,20:00,FC Dallas,New York Red Bulls,0,1,A,2.48,3.79,2.79,2.58,3.79,2.95,2.43,3.33,2.74,Western,Eastern
+755,USA,MLS,2014,2014-05-04,21:00,Sporting Kansas City,Columbus Crew,2,0,H,1.6,4.03,6.7,1.65,4.03,6.7,1.6,3.7,5.59,Eastern,Eastern
+756,USA,MLS,2014,2014-05-08,01:00,Houston Dynamo,Columbus Crew,1,0,H,2.16,3.58,3.53,2.2,3.6,3.75,2.04,3.37,3.47,Eastern,Eastern
+757,USA,MLS,2014,2014-05-08,03:00,Seattle Sounders,FC Dallas,2,1,H,1.55,4.33,6.66,1.6,4.45,6.66,1.52,4.02,5.89,Western,Western
+758,USA,MLS,2014,2014-05-08,03:30,San Jose Earthquakes,Colorado Rapids,0,0,D,2.13,3.46,3.73,2.14,3.5,3.95,2.04,3.29,3.57,Western,Western
+759,USA,MLS,2014,2014-05-10,21:00,CF Montreal,Sporting Kansas City,0,3,A,3.82,3.49,2.11,3.82,3.49,2.3,3.34,3.28,2.12,Eastern,Eastern
+760,USA,MLS,2014,2014-05-10,21:00,Philadelphia Union,DC United,0,1,A,2.04,3.5,3.96,2.05,3.5,4.0,1.95,3.33,3.77,Eastern,Eastern
+761,USA,MLS,2014,2014-05-11,00:00,New York Red Bulls,Chicago Fire,4,5,A,1.66,4.27,5.34,1.7,4.27,5.5,1.64,3.8,4.94,Eastern,Eastern
+762,USA,MLS,2014,2014-05-11,00:30,Columbus Crew,Vancouver Whitecaps,0,1,A,2.11,3.48,3.72,2.15,3.5,3.85,2.06,3.33,3.44,Eastern,Western
+763,USA,MLS,2014,2014-05-11,03:30,San Jose Earthquakes,FC Dallas,2,1,H,2.17,3.5,3.59,2.2,3.5,4.0,2.04,3.32,3.53,Western,Western
+764,USA,MLS,2014,2014-05-11,19:30,Portland Timbers,Los Angeles Galaxy,1,1,D,2.75,3.46,2.68,2.9,3.46,2.7,2.71,3.25,2.49,Western,Western
+765,USA,MLS,2014,2014-05-11,20:00,Colorado Rapids,Chivas USA,1,3,A,1.66,4.27,5.32,1.66,4.33,7.0,1.57,3.91,5.51,Western,Eastern
+766,USA,MLS,2014,2014-05-11,23:00,New England Revolution,Seattle Sounders,5,0,H,2.6,3.41,2.88,2.7,3.43,2.88,2.59,3.25,2.62,Eastern,Western
+767,USA,MLS,2014,2014-05-12,00:00,Houston Dynamo,Real Salt Lake,2,5,A,2.71,3.47,2.72,2.8,3.48,2.9,2.52,3.26,2.69,Eastern,Western
+768,USA,MLS,2014,2014-05-15,01:30,Sporting Kansas City,Philadelphia Union,1,2,A,1.57,4.23,6.59,1.58,4.35,7.0,1.51,3.92,6.32,Eastern,Eastern
+769,USA,MLS,2014,2014-05-17,21:30,Toronto FC,New York Red Bulls,2,0,H,2.55,3.23,3.09,2.72,3.3,3.09,2.42,3.19,2.86,Eastern,Eastern
+770,USA,MLS,2014,2014-05-18,00:00,DC United,CF Montreal,1,1,D,2.02,3.55,3.99,2.04,3.6,4.5,1.92,3.38,3.86,Eastern,Eastern
+771,USA,MLS,2014,2014-05-18,00:00,Philadelphia Union,New England Revolution,3,5,A,2.45,3.38,3.13,2.5,3.38,3.35,2.31,3.19,3.04,Eastern,Eastern
+772,USA,MLS,2014,2014-05-18,01:30,FC Dallas,Chivas USA,1,1,D,1.76,4.02,4.82,1.77,4.02,5.35,1.68,3.73,4.65,Western,Eastern
+773,USA,MLS,2014,2014-05-18,01:30,Houston Dynamo,Los Angeles Galaxy,1,0,H,3.56,3.45,2.2,3.56,3.45,2.27,3.18,3.24,2.2,Eastern,Western
+774,USA,MLS,2014,2014-05-18,02:30,Real Salt Lake,Colorado Rapids,2,1,H,2.05,3.61,3.85,2.1,3.61,4.4,1.96,3.39,3.73,Western,Western
+775,USA,MLS,2014,2014-05-18,03:00,Seattle Sounders,San Jose Earthquakes,1,0,H,1.47,4.69,7.23,1.6,4.69,7.5,1.49,4.05,6.31,Western,Western
+776,USA,MLS,2014,2014-05-18,03:30,Portland Timbers,Columbus Crew,3,3,D,1.93,3.68,4.26,1.98,3.68,4.4,1.89,3.34,4.06,Western,Eastern
+777,USA,MLS,2014,2014-05-18,20:00,Chicago Fire,Sporting Kansas City,2,1,H,2.41,3.49,3.09,2.62,3.49,3.12,2.41,3.26,2.82,Eastern,Eastern
+778,USA,MLS,2014,2014-05-22,00:00,DC United,Houston Dynamo,2,0,H,1.97,3.64,4.11,2.1,3.65,4.25,1.98,3.36,3.67,Eastern,Eastern
+779,USA,MLS,2014,2014-05-22,03:30,Los Angeles Galaxy,FC Dallas,2,1,H,1.49,4.82,6.91,1.5,4.85,7.6,1.43,4.33,6.82,Western,Western
+780,USA,MLS,2014,2014-05-24,01:30,Sporting Kansas City,Toronto FC,2,2,D,1.93,3.51,4.51,2.0,3.6,5.5,1.78,3.45,4.54,Eastern,Eastern
+781,USA,MLS,2014,2014-05-25,00:00,New York Red Bulls,Portland Timbers,1,2,A,1.93,3.85,4.06,2.1,3.85,4.06,1.9,3.59,3.69,Eastern,Western
+782,USA,MLS,2014,2014-05-25,00:00,Vancouver Whitecaps,Seattle Sounders,2,2,D,2.0,3.59,4.01,2.35,3.7,4.22,2.04,3.32,3.55,Western,Western
+783,USA,MLS,2014,2014-05-25,00:30,Columbus Crew,Chicago Fire,2,0,H,2.33,3.5,3.23,2.43,3.5,3.23,2.26,3.29,3.04,Eastern,Eastern
+784,USA,MLS,2014,2014-05-25,00:30,New England Revolution,DC United,2,1,H,2.03,3.68,3.85,2.03,3.68,4.3,1.91,3.46,3.81,Eastern,Eastern
+785,USA,MLS,2014,2014-05-25,02:00,Colorado Rapids,CF Montreal,4,1,H,1.84,3.75,4.67,1.87,3.75,4.67,1.8,3.53,4.24,Western,Eastern
+786,USA,MLS,2014,2014-05-25,02:30,Real Salt Lake,FC Dallas,0,0,D,1.72,4.15,4.93,1.76,4.15,5.5,1.67,3.76,4.73,Western,Western
+787,USA,MLS,2014,2014-05-26,01:00,Los Angeles Galaxy,Philadelphia Union,4,1,H,1.43,5.07,7.81,1.54,5.08,8.0,1.44,4.28,6.77,Western,Eastern
+788,USA,MLS,2014,2014-05-26,03:30,San Jose Earthquakes,Houston Dynamo,3,0,H,2.51,3.5,2.93,2.51,3.5,3.4,2.32,3.22,3.01,Western,Eastern
+789,USA,MLS,2014,2014-05-28,01:00,Sporting Kansas City,New York Red Bulls,1,1,D,1.8,3.85,4.75,2.06,3.86,5.0,1.81,3.54,4.26,Eastern,Eastern
+790,USA,MLS,2014,2014-05-29,03:30,Chivas USA,Portland Timbers,0,2,A,2.71,3.49,2.7,2.71,3.5,2.8,2.58,3.24,2.62,Eastern,Western
+791,USA,MLS,2014,2014-05-31,21:00,Seattle Sounders,Real Salt Lake,4,0,H,1.81,3.78,4.86,1.9,3.78,4.86,1.81,3.48,4.22,Western,Western
+792,USA,MLS,2014,2014-05-31,22:00,Toronto FC,Columbus Crew,3,2,H,2.14,3.58,3.62,2.17,3.58,4.05,2.02,3.3,3.61,Eastern,Eastern
+793,USA,MLS,2014,2014-06-01,00:00,DC United,Sporting Kansas City,1,0,H,3.01,3.15,2.67,3.05,3.3,2.72,2.74,3.13,2.54,Eastern,Eastern
+794,USA,MLS,2014,2014-06-01,00:00,CF Montreal,New England Revolution,2,0,H,2.62,3.45,2.83,2.62,3.45,2.86,2.5,3.28,2.66,Eastern,Eastern
+795,USA,MLS,2014,2014-06-01,01:30,FC Dallas,San Jose Earthquakes,1,2,A,1.94,3.68,4.21,2.05,3.68,4.4,1.9,3.42,3.87,Western,Western
+796,USA,MLS,2014,2014-06-01,03:30,Chivas USA,Philadelphia Union,0,3,A,3.3,3.45,2.32,3.3,3.45,2.6,2.94,3.21,2.34,Eastern,Eastern
+797,USA,MLS,2014,2014-06-01,21:00,Chicago Fire,Los Angeles Galaxy,1,1,D,3.75,3.59,2.08,3.9,3.6,2.3,3.31,3.35,2.1,Eastern,Western
+798,USA,MLS,2014,2014-06-02,01:00,Colorado Rapids,Houston Dynamo,3,0,H,1.69,3.76,5.96,1.8,3.76,6.6,1.68,3.53,5.08,Western,Eastern
+799,USA,MLS,2014,2014-06-02,02:00,Portland Timbers,Vancouver Whitecaps,3,4,A,2.63,3.37,2.89,2.63,3.5,3.5,2.39,3.25,2.86,Western,Western
+800,USA,MLS,2014,2014-06-05,00:30,Columbus Crew,Real Salt Lake,1,1,D,1.81,3.9,4.64,2.1,3.9,5.0,1.84,3.5,4.11,Eastern,Western
+801,USA,MLS,2014,2014-06-05,02:00,Colorado Rapids,Chicago Fire,0,0,D,1.91,3.72,4.3,1.95,3.75,4.5,1.84,3.43,4.12,Western,Eastern
+802,USA,MLS,2014,2014-06-07,01:30,Houston Dynamo,Sporting Kansas City,0,2,A,3.31,3.25,2.4,3.4,3.25,2.55,3.02,3.09,2.38,Eastern,Eastern
+803,USA,MLS,2014,2014-06-07,21:00,Toronto FC,San Jose Earthquakes,1,0,H,2.04,3.37,4.2,2.07,3.5,4.33,1.96,3.29,3.81,Eastern,Western
+804,USA,MLS,2014,2014-06-07,23:30,DC United,Columbus Crew,0,0,D,2.69,3.43,2.77,2.75,3.43,3.3,2.5,3.22,2.75,Eastern,Eastern
+805,USA,MLS,2014,2014-06-08,00:00,Philadelphia Union,Vancouver Whitecaps,3,3,D,2.31,3.51,3.25,2.4,3.54,3.25,2.3,3.26,2.99,Eastern,Western
+806,USA,MLS,2014,2014-06-08,01:30,Chicago Fire,Seattle Sounders,2,3,A,2.32,3.48,3.28,2.6,3.54,3.33,2.31,3.29,2.97,Eastern,Western
+807,USA,MLS,2014,2014-06-08,01:30,FC Dallas,Colorado Rapids,3,2,H,2.28,3.5,3.33,2.4,3.54,3.43,2.2,3.3,3.14,Western,Western
+808,USA,MLS,2014,2014-06-08,03:00,Real Salt Lake,Portland Timbers,1,3,A,2.11,3.6,3.67,2.15,3.6,3.85,2.01,3.37,3.56,Western,Western
+809,USA,MLS,2014,2014-06-08,22:00,New England Revolution,New York Red Bulls,0,2,A,1.97,3.66,4.09,2.0,3.75,4.75,1.87,3.45,3.98,Eastern,Eastern
+810,USA,MLS,2014,2014-06-09,01:00,Los Angeles Galaxy,Chivas USA,1,1,D,1.48,4.61,7.58,1.49,5.0,10.0,1.41,4.44,7.35,Western,Eastern
+811,USA,MLS,2014,2014-06-12,00:30,CF Montreal,DC United,2,4,A,1.94,3.87,3.98,2.2,3.87,4.2,1.95,3.41,3.69,Eastern,Eastern
+812,USA,MLS,2014,2014-06-12,03:00,Portland Timbers,FC Dallas,2,2,D,1.87,3.83,4.38,1.95,3.83,4.6,1.84,3.55,3.97,Western,Western
+813,USA,MLS,2014,2014-06-26,03:00,Vancouver Whitecaps,CF Montreal,0,0,D,1.57,4.5,5.98,1.7,4.5,6.3,1.57,3.99,5.27,Western,Eastern
+814,USA,MLS,2014,2014-06-28,01:00,New York Red Bulls,Toronto FC,2,2,D,1.79,3.96,4.69,1.85,3.96,4.69,1.77,3.62,4.25,Eastern,Eastern
+815,USA,MLS,2014,2014-06-28,04:00,Portland Timbers,Sporting Kansas City,0,1,A,2.28,3.47,3.36,2.3,3.6,3.55,2.18,3.27,3.18,Western,Eastern
+816,USA,MLS,2014,2014-06-29,00:00,DC United,Seattle Sounders,0,1,A,2.8,3.48,2.63,2.8,3.48,3.0,2.57,3.26,2.63,Eastern,Western
+817,USA,MLS,2014,2014-06-29,00:30,New England Revolution,Philadelphia Union,1,3,A,1.86,3.75,4.51,2.0,3.75,4.7,1.84,3.47,4.07,Eastern,Eastern
+818,USA,MLS,2014,2014-06-29,02:00,Colorado Rapids,Vancouver Whitecaps,2,0,H,2.13,3.59,3.61,2.18,3.6,3.8,2.06,3.35,3.42,Western,Western
+819,USA,MLS,2014,2014-06-29,03:30,Chivas USA,Real Salt Lake,1,0,H,3.09,3.54,2.39,3.25,3.55,2.4,2.94,3.29,2.31,Eastern,Western
+820,USA,MLS,2014,2014-06-29,03:30,San Jose Earthquakes,Los Angeles Galaxy,0,1,A,3.81,3.3,2.18,3.81,3.4,2.2,3.42,3.23,2.1,Western,Western
+821,USA,MLS,2014,2014-06-29,19:00,Columbus Crew,FC Dallas,0,0,D,2.05,3.61,3.84,2.12,3.61,4.1,2.01,3.37,3.56,Eastern,Western
+822,USA,MLS,2014,2014-06-30,00:30,CF Montreal,Houston Dynamo,3,0,H,1.98,3.73,3.96,2.01,3.73,4.15,1.92,3.45,3.73,Eastern,Eastern
+823,USA,MLS,2014,2014-07-03,01:30,Chicago Fire,Toronto FC,1,1,D,2.25,3.63,3.27,2.27,3.63,3.5,2.16,3.34,3.2,Eastern,Eastern
+824,USA,MLS,2014,2014-07-03,03:30,San Jose Earthquakes,Chivas USA,0,1,A,2.06,3.43,4.02,2.1,3.5,4.5,1.97,3.2,3.96,Western,Eastern
+825,USA,MLS,2014,2014-07-05,01:30,Houston Dynamo,New York Red Bulls,2,2,D,3.02,3.57,2.42,3.1,3.58,2.63,2.8,3.33,2.4,Eastern,Eastern
+826,USA,MLS,2014,2014-07-05,02:00,FC Dallas,Philadelphia Union,2,1,H,2.25,3.62,3.27,2.3,3.67,3.75,2.11,3.37,3.28,Western,Eastern
+827,USA,MLS,2014,2014-07-05,02:30,Colorado Rapids,Columbus Crew,1,1,D,1.83,3.77,4.72,1.9,3.77,4.75,1.81,3.48,4.23,Western,Eastern
+828,USA,MLS,2014,2014-07-05,03:00,Real Salt Lake,New England Revolution,2,1,H,2.29,3.59,3.22,2.4,3.6,3.6,2.16,3.35,3.19,Western,Eastern
+829,USA,MLS,2014,2014-07-05,04:00,Los Angeles Galaxy,Portland Timbers,2,2,D,1.64,4.16,5.75,1.66,4.16,5.8,1.61,3.85,5.18,Western,Western
+830,USA,MLS,2014,2014-07-06,00:00,Toronto FC,DC United,1,2,A,2.05,3.42,4.06,2.06,3.6,4.2,1.94,3.38,3.78,Eastern,Eastern
+831,USA,MLS,2014,2014-07-06,03:00,Vancouver Whitecaps,Seattle Sounders,1,0,H,2.59,3.71,2.71,2.82,3.71,3.25,2.49,3.34,2.68,Western,Western
+832,USA,MLS,2014,2014-07-06,03:30,Chivas USA,CF Montreal,1,0,H,2.62,3.4,2.85,2.68,3.44,2.85,2.5,3.27,2.69,Eastern,Eastern
+833,USA,MLS,2014,2014-07-06,20:00,Sporting Kansas City,Chicago Fire,1,1,D,1.83,3.78,4.63,1.85,3.8,5.2,1.74,3.55,4.56,Eastern,Eastern
+834,USA,MLS,2014,2014-07-12,04:00,San Jose Earthquakes,DC United,1,2,A,2.05,3.58,3.88,2.1,3.6,4.0,2.0,3.36,3.6,Western,Eastern
+835,USA,MLS,2014,2014-07-13,00:00,New York Red Bulls,Columbus Crew,4,1,H,1.89,3.98,4.1,1.92,3.98,4.25,1.83,3.63,3.95,Eastern,Eastern
+836,USA,MLS,2014,2014-07-13,00:00,Philadelphia Union,Colorado Rapids,3,3,D,2.24,3.54,3.38,2.25,3.58,3.5,2.17,3.33,3.17,Eastern,Western
+837,USA,MLS,2014,2014-07-13,00:00,Toronto FC,Houston Dynamo,4,2,H,1.81,3.68,4.95,1.83,3.85,5.1,1.74,3.54,4.56,Eastern,Eastern
+838,USA,MLS,2014,2014-07-13,00:30,CF Montreal,Sporting Kansas City,1,2,A,3.14,3.3,2.48,3.2,3.43,2.5,2.93,3.19,2.36,Eastern,Eastern
+839,USA,MLS,2014,2014-07-13,00:30,New England Revolution,Chicago Fire,0,1,A,2.01,3.69,3.93,2.04,3.75,4.0,1.93,3.42,3.75,Eastern,Eastern
+840,USA,MLS,2014,2014-07-13,03:00,Vancouver Whitecaps,Chivas USA,1,3,A,1.74,3.92,5.18,1.78,4.0,5.7,1.68,3.64,4.86,Western,Eastern
+841,USA,MLS,2014,2014-07-13,03:30,Los Angeles Galaxy,Real Salt Lake,1,0,H,1.85,3.75,4.57,1.89,4.0,5.25,1.75,3.62,4.43,Western,Western
+842,USA,MLS,2014,2014-07-14,03:00,Seattle Sounders,Portland Timbers,2,0,H,1.78,3.89,4.89,1.79,4.15,5.1,1.69,3.65,4.74,Western,Western
+843,USA,MLS,2014,2014-07-17,00:00,Philadelphia Union,New York Red Bulls,3,1,H,2.73,3.6,2.62,2.8,3.75,2.75,2.6,3.35,2.55,Eastern,Eastern
+844,USA,MLS,2014,2014-07-17,00:30,Columbus Crew,Sporting Kansas City,1,2,A,2.89,3.28,2.66,3.15,3.35,2.7,2.83,3.14,2.48,Eastern,Eastern
+845,USA,MLS,2014,2014-07-17,01:00,Toronto FC,Vancouver Whitecaps,1,1,D,2.0,3.57,3.97,2.15,3.6,4.1,2.0,3.38,3.57,Eastern,Western
+846,USA,MLS,2014,2014-07-17,03:30,Los Angeles Galaxy,New England Revolution,5,1,H,1.64,4.09,5.83,1.65,4.1,6.0,1.6,3.83,5.27,Western,Eastern
+847,USA,MLS,2014,2014-07-19,04:00,Portland Timbers,Colorado Rapids,2,1,H,2.04,3.84,3.64,2.15,3.85,3.9,1.95,3.44,3.62,Western,Western
+848,USA,MLS,2014,2014-07-19,23:00,Sporting Kansas City,Los Angeles Galaxy,2,1,H,2.47,3.25,3.19,2.47,3.4,3.4,2.3,3.17,3.06,Eastern,Western
+849,USA,MLS,2014,2014-07-20,00:00,New York Red Bulls,San Jose Earthquakes,1,1,D,1.7,4.15,5.12,1.71,4.15,5.2,1.66,3.74,4.76,Eastern,Western
+850,USA,MLS,2014,2014-07-20,00:30,Columbus Crew,CF Montreal,2,1,H,1.89,3.78,4.3,1.91,3.78,4.4,1.84,3.47,4.05,Eastern,Eastern
+851,USA,MLS,2014,2014-07-20,01:30,Chicago Fire,Philadelphia Union,1,1,D,1.97,3.62,4.14,2.1,3.62,4.14,1.99,3.38,3.61,Eastern,Eastern
+852,USA,MLS,2014,2014-07-20,02:00,FC Dallas,New England Revolution,2,0,H,2.04,3.69,3.78,2.07,3.7,3.9,1.99,3.37,3.6,Western,Eastern
+853,USA,MLS,2014,2014-07-20,02:00,Houston Dynamo,Toronto FC,2,2,D,2.5,3.52,2.94,2.55,3.52,3.0,2.41,3.26,2.8,Eastern,Eastern
+854,USA,MLS,2014,2014-07-20,03:00,Real Salt Lake,Vancouver Whitecaps,1,1,D,1.99,3.47,4.26,2.02,3.6,4.35,1.9,3.36,3.99,Western,Western
+855,USA,MLS,2014,2014-07-21,01:00,DC United,Chivas USA,3,1,H,1.82,3.67,4.91,1.91,3.75,4.91,1.82,3.43,4.27,Eastern,Eastern
+856,USA,MLS,2014,2014-07-24,03:30,San Jose Earthquakes,Chicago Fire,5,1,H,2.27,3.58,3.27,2.29,3.58,3.5,2.17,3.3,3.2,Western,Eastern
+857,USA,MLS,2014,2014-07-25,03:00,Real Salt Lake,CF Montreal,3,1,H,1.68,4.17,5.3,1.7,4.17,5.6,1.64,3.76,4.97,Western,Eastern
+858,USA,MLS,2014,2014-07-26,02:30,Colorado Rapids,Chivas USA,3,0,H,1.65,4.06,5.8,1.76,4.06,5.8,1.65,3.73,4.94,Western,Eastern
+859,USA,MLS,2014,2014-07-27,00:00,Toronto FC,Sporting Kansas City,1,2,A,3.04,3.49,2.43,3.04,3.5,2.48,2.89,3.26,2.35,Eastern,Eastern
+860,USA,MLS,2014,2014-07-27,00:30,New England Revolution,Columbus Crew,1,2,A,2.37,3.4,3.23,2.38,3.4,3.5,2.18,3.24,3.22,Eastern,Eastern
+861,USA,MLS,2014,2014-07-27,22:00,Vancouver Whitecaps,FC Dallas,2,2,D,2.18,3.42,3.64,2.18,3.55,3.75,2.05,3.33,3.46,Western,Western
+862,USA,MLS,2014,2014-07-28,01:00,CF Montreal,Portland Timbers,2,3,A,2.54,3.47,2.91,2.75,3.47,2.91,2.53,3.26,2.66,Eastern,Western
+863,USA,MLS,2014,2014-07-29,03:00,Seattle Sounders,Los Angeles Galaxy,0,3,A,2.45,3.65,2.9,2.45,3.65,3.4,2.21,3.41,3.04,Western,Western
+864,USA,MLS,2014,2014-07-31,00:00,DC United,Toronto FC,3,0,H,2.79,3.34,2.72,2.79,3.5,3.7,2.48,3.24,2.75,Eastern,Eastern
+865,USA,MLS,2014,2014-07-31,00:30,New England Revolution,Colorado Rapids,3,0,H,2.11,3.57,3.7,2.4,3.58,3.75,2.12,3.3,3.32,Eastern,Western
+866,USA,MLS,2014,2014-07-31,01:30,Chicago Fire,Vancouver Whitecaps,0,0,D,2.2,3.48,3.52,2.32,3.56,3.52,2.18,3.31,3.14,Eastern,Western
+867,USA,MLS,2014,2014-07-31,02:00,Real Salt Lake,New York Red Bulls,1,1,D,1.98,3.78,3.91,2.1,3.78,4.2,1.98,3.4,3.63,Western,Eastern
+868,USA,MLS,2014,2014-08-02,01:00,Sporting Kansas City,Philadelphia Union,1,1,D,1.79,3.97,4.61,1.8,4.0,5.2,1.69,3.72,4.68,Eastern,Eastern
+869,USA,MLS,2014,2014-08-02,19:30,Los Angeles Galaxy,Portland Timbers,3,1,H,1.59,4.28,6.14,1.62,4.28,6.31,1.57,3.89,5.55,Western,Western
+870,USA,MLS,2014,2014-08-02,22:00,CF Montreal,Toronto FC,0,2,A,2.33,3.51,3.21,2.45,3.6,3.32,2.27,3.29,3.02,Eastern,Eastern
+871,USA,MLS,2014,2014-08-03,00:00,New York Red Bulls,New England Revolution,2,1,H,2.08,3.6,3.75,2.11,3.75,4.6,1.93,3.45,3.78,Eastern,Eastern
+872,USA,MLS,2014,2014-08-03,01:30,Chicago Fire,Columbus Crew,1,1,D,2.2,3.52,3.48,2.21,3.6,3.5,2.14,3.33,3.25,Eastern,Eastern
+873,USA,MLS,2014,2014-08-03,02:00,Colorado Rapids,Real Salt Lake,0,1,A,2.29,3.36,3.41,2.34,3.5,3.41,2.2,3.23,3.19,Western,Western
+874,USA,MLS,2014,2014-08-03,03:30,San Jose Earthquakes,Seattle Sounders,1,0,H,2.69,3.53,2.7,3.0,3.53,2.7,2.68,3.24,2.54,Western,Western
+875,USA,MLS,2014,2014-08-04,01:00,Houston Dynamo,DC United,1,0,H,1.97,3.85,3.88,2.3,3.87,4.1,1.93,3.58,3.6,Eastern,Eastern
+876,USA,MLS,2014,2014-08-04,03:00,Chivas USA,FC Dallas,0,1,A,3.7,3.71,2.06,3.75,3.71,2.5,3.32,3.41,2.09,Eastern,Western
+877,USA,MLS,2014,2014-08-09,03:30,Los Angeles Galaxy,San Jose Earthquakes,2,2,D,1.61,4.24,5.92,1.65,4.45,7.0,1.53,4.05,5.79,Western,Western
+878,USA,MLS,2014,2014-08-10,00:00,Philadelphia Union,CF Montreal,2,1,H,1.77,4.01,4.75,1.82,4.01,5.1,1.72,3.59,4.62,Eastern,Eastern
+879,USA,MLS,2014,2014-08-10,00:30,Columbus Crew,Toronto FC,2,3,A,2.13,3.53,3.68,2.13,3.53,3.8,2.02,3.3,3.59,Eastern,Eastern
+880,USA,MLS,2014,2014-08-10,02:00,FC Dallas,Colorado Rapids,3,1,H,2.22,3.61,3.36,2.25,3.65,4.0,2.07,3.38,3.4,Western,Western
+881,USA,MLS,2014,2014-08-10,03:00,Real Salt Lake,DC United,3,0,H,1.97,3.58,4.21,2.01,3.6,5.0,1.87,3.37,4.17,Western,Eastern
+882,USA,MLS,2014,2014-08-10,03:30,Portland Timbers,Chivas USA,2,0,H,1.44,4.84,7.93,1.6,4.84,8.0,1.45,4.23,6.77,Western,Eastern
+883,USA,MLS,2014,2014-08-11,01:00,Chicago Fire,New York Red Bulls,1,0,H,2.32,3.54,3.23,2.5,3.6,3.23,2.28,3.33,3.0,Eastern,Eastern
+884,USA,MLS,2014,2014-08-11,01:00,Vancouver Whitecaps,Sporting Kansas City,2,0,H,2.39,3.48,3.13,2.6,3.48,3.2,2.38,3.21,2.92,Western,Eastern
+885,USA,MLS,2014,2014-08-11,03:30,Seattle Sounders,Houston Dynamo,2,0,H,1.71,4.02,5.22,1.77,4.35,6.8,1.58,3.94,5.33,Western,Eastern
+886,USA,MLS,2014,2014-08-16,02:00,Houston Dynamo,Philadelphia Union,2,0,H,1.89,3.81,4.28,2.0,3.81,4.3,1.88,3.49,3.92,Eastern,Eastern
+887,USA,MLS,2014,2014-08-16,19:30,Real Salt Lake,Seattle Sounders,2,1,H,2.41,3.4,3.16,2.44,3.4,3.4,2.29,3.26,3.04,Western,Western
+888,USA,MLS,2014,2014-08-16,23:30,CF Montreal,Chicago Fire,1,0,H,2.22,3.68,3.29,2.3,3.7,3.5,2.14,3.38,3.21,Eastern,Eastern
+889,USA,MLS,2014,2014-08-17,00:30,Columbus Crew,Los Angeles Galaxy,4,1,H,3.69,3.63,2.11,3.7,3.63,2.2,3.33,3.32,2.12,Eastern,Western
+890,USA,MLS,2014,2014-08-17,00:30,New England Revolution,Portland Timbers,1,1,D,2.14,3.47,3.71,2.21,3.5,3.71,2.12,3.35,3.28,Eastern,Western
+891,USA,MLS,2014,2014-08-17,01:30,Sporting Kansas City,Toronto FC,4,1,H,1.89,3.65,4.48,1.91,3.75,4.6,1.83,3.52,4.1,Eastern,Eastern
+892,USA,MLS,2014,2014-08-17,03:30,Chivas USA,Vancouver Whitecaps,0,0,D,4.11,3.28,2.1,4.11,3.4,2.15,3.57,3.19,2.08,Eastern,Western
+893,USA,MLS,2014,2014-08-17,03:30,San Jose Earthquakes,FC Dallas,0,5,A,1.96,3.71,4.07,2.1,3.71,4.1,1.95,3.4,3.75,Western,Western
+894,USA,MLS,2014,2014-08-18,01:00,DC United,Colorado Rapids,4,2,H,2.78,3.25,2.8,2.78,3.3,3.2,2.52,3.15,2.79,Eastern,Western
+895,USA,MLS,2014,2014-08-21,02:00,Colorado Rapids,Los Angeles Galaxy,3,4,A,3.38,3.49,2.26,3.5,3.5,2.38,3.15,3.31,2.2,Western,Western
+896,USA,MLS,2014,2014-08-21,03:00,Seattle Sounders,San Jose Earthquakes,1,1,D,1.54,4.34,6.83,1.67,4.34,7.3,1.54,3.89,5.9,Western,Western
+897,USA,MLS,2014,2014-08-23,02:00,FC Dallas,Real Salt Lake,2,1,H,2.13,3.45,3.75,2.2,3.6,3.75,2.07,3.32,3.42,Western,Western
+898,USA,MLS,2014,2014-08-24,00:00,New York Red Bulls,CF Montreal,4,2,H,1.56,4.84,5.65,1.62,4.84,6.3,1.53,4.14,5.59,Eastern,Eastern
+899,USA,MLS,2014,2014-08-24,00:00,Toronto FC,Chicago Fire,2,2,D,1.74,3.78,5.36,1.8,3.8,5.36,1.74,3.53,4.59,Eastern,Eastern
+900,USA,MLS,2014,2014-08-24,00:30,Columbus Crew,Houston Dynamo,3,0,H,1.93,3.66,4.29,2.1,3.75,4.29,1.88,3.44,3.9,Eastern,Eastern
+901,USA,MLS,2014,2014-08-24,00:30,New England Revolution,Chivas USA,1,0,H,1.52,4.55,6.84,1.62,4.55,6.84,1.54,3.91,5.78,Eastern,Eastern
+902,USA,MLS,2014,2014-08-24,01:30,Sporting Kansas City,DC United,0,3,A,1.69,3.97,5.5,1.73,3.97,5.62,1.65,3.66,5.03,Eastern,Eastern
+903,USA,MLS,2014,2014-08-24,03:30,Los Angeles Galaxy,Vancouver Whitecaps,2,0,H,1.57,4.29,6.42,1.6,4.55,7.4,1.51,4.06,5.93,Western,Western
+904,USA,MLS,2014,2014-08-24,22:00,Portland Timbers,Seattle Sounders,2,4,A,2.45,3.54,2.99,2.48,3.55,3.13,2.34,3.3,2.88,Western,Western
+905,USA,MLS,2014,2014-08-25,01:00,Philadelphia Union,San Jose Earthquakes,4,2,H,1.89,3.66,4.46,2.0,3.67,4.55,1.85,3.47,4.06,Eastern,Western
+906,USA,MLS,2014,2014-08-28,03:30,Los Angeles Galaxy,DC United,4,1,H,1.49,4.62,7.4,1.5,4.8,8.0,1.45,4.34,6.46,Western,Eastern
+907,USA,MLS,2014,2014-08-30,01:00,Sporting Kansas City,Houston Dynamo,1,3,A,1.79,4.11,4.5,1.8,4.11,5.5,1.66,3.72,4.86,Eastern,Eastern
+908,USA,MLS,2014,2014-08-30,21:00,Seattle Sounders,Colorado Rapids,1,0,H,1.55,4.61,6.16,1.62,4.61,6.3,1.54,4.06,5.54,Western,Western
+909,USA,MLS,2014,2014-08-30,22:00,Toronto FC,New England Revolution,0,3,A,2.09,3.63,3.69,2.15,3.63,3.9,2.0,3.38,3.56,Eastern,Eastern
+910,USA,MLS,2014,2014-08-31,00:30,CF Montreal,Columbus Crew,2,0,H,2.72,3.57,2.65,2.75,3.57,2.72,2.62,3.27,2.56,Eastern,Eastern
+911,USA,MLS,2014,2014-08-31,01:30,Chicago Fire,FC Dallas,1,0,H,2.37,3.62,3.06,2.5,3.62,3.12,2.34,3.31,2.88,Eastern,Western
+912,USA,MLS,2014,2014-08-31,03:30,San Jose Earthquakes,Real Salt Lake,1,1,D,2.96,3.35,2.57,3.0,3.35,2.75,2.77,3.1,2.55,Western,Western
+913,USA,MLS,2014,2014-08-31,03:30,Vancouver Whitecaps,Portland Timbers,0,3,A,2.14,3.47,3.71,2.19,3.6,3.75,2.06,3.31,3.46,Western,Western
+914,USA,MLS,2014,2014-08-31,19:30,DC United,New York Red Bulls,2,0,H,2.63,3.47,2.81,2.75,3.5,2.88,2.52,3.23,2.7,Eastern,Eastern
+915,USA,MLS,2014,2014-09-01,01:00,Chivas USA,Los Angeles Galaxy,0,3,A,7.76,5.05,1.43,8.43,5.05,1.45,7.21,4.39,1.41,Eastern,Western
+916,USA,MLS,2014,2014-09-04,00:00,Philadelphia Union,Toronto FC,1,0,H,2.37,3.58,3.09,2.38,3.65,3.45,2.21,3.33,3.1,Eastern,Eastern
+917,USA,MLS,2014,2014-09-04,00:30,New England Revolution,Sporting Kansas City,3,1,H,2.16,3.49,3.62,2.39,3.5,3.62,2.18,3.29,3.22,Eastern,Eastern
+918,USA,MLS,2014,2014-09-04,03:30,Chivas USA,Seattle Sounders,2,4,A,6.59,4.33,1.56,6.59,4.4,1.65,5.85,3.91,1.55,Eastern,Western
+919,USA,MLS,2014,2014-09-06,03:30,Los Angeles Galaxy,Colorado Rapids,6,0,H,1.42,5.31,7.42,1.44,5.6,8.2,1.4,4.61,7.13,Western,Western
+920,USA,MLS,2014,2014-09-06,19:00,Toronto FC,Philadelphia Union,0,2,A,2.1,3.66,3.62,2.2,3.66,3.67,2.08,3.35,3.36,Eastern,Eastern
+921,USA,MLS,2014,2014-09-07,00:30,New York Red Bulls,Sporting Kansas City,2,1,H,2.05,3.83,3.62,2.2,3.83,3.65,2.07,3.43,3.32,Eastern,Eastern
+922,USA,MLS,2014,2014-09-07,01:30,Houston Dynamo,CF Montreal,3,2,H,1.79,4.1,4.51,1.81,4.1,5.25,1.73,3.68,4.43,Eastern,Eastern
+923,USA,MLS,2014,2014-09-07,03:00,Real Salt Lake,FC Dallas,2,1,H,2.12,3.53,3.7,2.15,3.53,4.0,2.04,3.36,3.5,Western,Western
+924,USA,MLS,2014,2014-09-07,03:00,Vancouver Whitecaps,DC United,0,0,D,1.76,3.75,5.22,2.2,3.8,5.5,1.77,3.5,4.52,Western,Eastern
+925,USA,MLS,2014,2014-09-07,20:00,Columbus Crew,Chivas USA,3,0,H,1.44,4.9,7.8,1.5,5.1,8.0,1.43,4.28,7.07,Eastern,Eastern
+926,USA,MLS,2014,2014-09-07,21:45,Portland Timbers,San Jose Earthquakes,3,3,D,1.7,4.05,5.29,1.75,4.05,5.5,1.68,3.69,4.77,Western,Western
+927,USA,MLS,2014,2014-09-08,00:00,New England Revolution,Chicago Fire,2,1,H,2.03,3.36,4.24,2.11,3.6,4.33,1.95,3.34,3.85,Eastern,Eastern
+928,USA,MLS,2014,2014-09-11,00:30,CF Montreal,Los Angeles Galaxy,2,2,D,5.5,4.39,1.62,5.75,4.52,1.67,5.12,4.08,1.58,Eastern,Western
+929,USA,MLS,2014,2014-09-11,01:00,New York Red Bulls,DC United,1,0,H,1.78,4.01,4.72,1.8,4.2,5.0,1.7,3.77,4.53,Eastern,Eastern
+930,USA,MLS,2014,2014-09-11,03:00,Vancouver Whitecaps,San Jose Earthquakes,2,0,H,1.99,3.57,4.12,2.01,3.66,4.5,1.89,3.42,3.94,Western,Western
+931,USA,MLS,2014,2014-09-13,03:30,Chivas USA,Sporting Kansas City,0,4,A,5.31,3.87,1.73,5.4,4.0,1.76,4.88,3.6,1.69,Eastern,Eastern
+932,USA,MLS,2014,2014-09-13,03:30,Seattle Sounders,Real Salt Lake,3,2,H,2.04,3.32,4.01,2.08,3.85,5.2,1.89,3.46,3.94,Western,Western
+933,USA,MLS,2014,2014-09-13,20:00,Philadelphia Union,New York Red Bulls,2,2,D,2.47,3.52,2.97,2.48,3.52,3.13,2.32,3.27,2.94,Eastern,Eastern
+934,USA,MLS,2014,2014-09-14,00:30,New England Revolution,CF Montreal,2,1,H,1.58,4.63,5.67,1.58,4.75,6.5,1.53,4.06,5.77,Eastern,Eastern
+935,USA,MLS,2014,2014-09-14,01:30,Chicago Fire,Toronto FC,1,1,D,2.29,3.54,3.22,2.3,3.54,3.45,2.17,3.27,3.23,Eastern,Eastern
+936,USA,MLS,2014,2014-09-14,01:30,FC Dallas,Vancouver Whitecaps,2,1,H,1.71,4.0,5.25,1.94,4.0,5.25,1.77,3.55,4.41,Western,Western
+937,USA,MLS,2014,2014-09-14,01:30,Houston Dynamo,Columbus Crew,2,2,D,2.04,3.78,3.69,2.14,3.78,3.75,2.03,3.38,3.48,Eastern,Eastern
+938,USA,MLS,2014,2014-09-14,02:00,Colorado Rapids,Portland Timbers,2,2,D,2.29,3.76,3.1,2.31,3.78,3.2,2.23,3.41,3.02,Western,Western
+939,USA,MLS,2014,2014-09-14,20:00,San Jose Earthquakes,Los Angeles Galaxy,1,1,D,3.94,3.89,1.94,4.5,3.89,1.95,3.94,3.55,1.84,Western,Western
+940,USA,MLS,2014,2014-09-20,03:00,Real Salt Lake,Colorado Rapids,5,1,H,1.77,3.91,4.9,1.77,4.4,5.5,1.69,3.78,4.59,Western,Western
+941,USA,MLS,2014,2014-09-20,22:00,Portland Timbers,Vancouver Whitecaps,3,0,H,2.19,3.45,3.57,2.21,3.75,3.75,2.06,3.35,3.41,Western,Western
+942,USA,MLS,2014,2014-09-21,00:00,Philadelphia Union,Houston Dynamo,0,0,D,1.96,3.8,3.96,2.02,3.8,4.05,1.94,3.45,3.71,Eastern,Eastern
+943,USA,MLS,2014,2014-09-21,00:30,Columbus Crew,New England Revolution,1,0,H,2.01,3.62,3.98,2.05,3.63,4.2,1.98,3.36,3.64,Eastern,Eastern
+944,USA,MLS,2014,2014-09-21,00:30,CF Montreal,San Jose Earthquakes,2,0,H,2.34,3.61,3.11,2.38,3.61,3.35,2.24,3.32,3.06,Eastern,Western
+945,USA,MLS,2014,2014-09-21,00:30,New York Red Bulls,Seattle Sounders,4,1,H,2.16,3.57,3.56,2.25,3.63,3.6,2.14,3.33,3.25,Eastern,Western
+946,USA,MLS,2014,2014-09-21,01:30,Chicago Fire,DC United,3,3,D,2.04,3.56,3.93,2.12,3.56,3.93,2.02,3.34,3.58,Eastern,Eastern
+947,USA,MLS,2014,2014-09-21,03:30,Los Angeles Galaxy,FC Dallas,2,1,H,1.34,5.51,10.47,1.5,5.51,10.47,1.36,4.8,7.75,Western,Western
+948,USA,MLS,2014,2014-09-21,20:00,Toronto FC,Chivas USA,3,0,H,1.42,4.73,9.09,1.45,5.1,10.0,1.38,4.5,7.99,Eastern,Eastern
+949,USA,MLS,2014,2014-09-25,02:00,FC Dallas,Seattle Sounders,3,1,H,2.64,3.48,2.79,2.64,3.6,3.0,2.42,3.35,2.74,Western,Western
+950,USA,MLS,2014,2014-09-27,01:00,Sporting Kansas City,New England Revolution,2,3,A,1.71,3.86,5.46,1.8,3.95,5.46,1.73,3.6,4.58,Eastern,Eastern
+951,USA,MLS,2014,2014-09-27,18:00,Toronto FC,Portland Timbers,3,2,H,2.25,3.6,3.3,2.25,3.75,3.7,2.08,3.41,3.31,Eastern,Western
+952,USA,MLS,2014,2014-09-27,20:00,DC United,Philadelphia Union,1,0,H,2.66,3.35,2.85,2.66,3.45,3.4,2.37,3.27,2.9,Eastern,Eastern
+953,USA,MLS,2014,2014-09-27,21:00,Seattle Sounders,Chivas USA,4,2,H,1.27,6.33,12.5,1.29,6.33,14.08,1.23,5.66,11.43,Western,Eastern
+954,USA,MLS,2014,2014-09-28,00:00,Vancouver Whitecaps,Real Salt Lake,2,1,H,2.02,3.69,3.87,2.3,3.7,3.87,2.02,3.4,3.52,Western,Western
+955,USA,MLS,2014,2014-09-28,00:30,Columbus Crew,CF Montreal,2,0,H,1.52,4.72,6.37,1.62,4.8,6.5,1.51,4.15,5.87,Eastern,Eastern
+956,USA,MLS,2014,2014-09-28,02:00,Colorado Rapids,San Jose Earthquakes,1,1,D,1.82,3.88,4.59,1.9,3.88,4.8,1.8,3.59,4.19,Western,Western
+957,USA,MLS,2014,2014-09-28,20:00,Houston Dynamo,Chicago Fire,2,0,H,2.05,3.7,3.74,2.11,3.75,4.42,1.89,3.51,3.85,Eastern,Eastern
+958,USA,MLS,2014,2014-09-29,01:30,Los Angeles Galaxy,New York Red Bulls,4,0,H,1.52,4.91,6.09,1.55,4.91,8.0,1.45,4.29,6.71,Western,Eastern
+959,USA,MLS,2014,2014-10-03,01:00,Philadelphia Union,Chicago Fire,1,1,D,1.66,4.1,5.58,1.7,4.4,6.1,1.62,3.83,5.12,Eastern,Eastern
+960,USA,MLS,2014,2014-10-04,01:00,DC United,Sporting Kansas City,0,0,D,2.83,3.34,2.69,2.83,3.54,2.88,2.64,3.22,2.59,Eastern,Eastern
+961,USA,MLS,2014,2014-10-04,23:00,New York Red Bulls,Houston Dynamo,1,0,H,1.77,4.17,4.54,1.78,4.25,5.3,1.67,3.8,4.67,Eastern,Eastern
+962,USA,MLS,2014,2014-10-05,00:00,Vancouver Whitecaps,FC Dallas,2,0,H,1.92,3.66,4.35,2.0,3.66,4.5,1.91,3.43,3.88,Western,Western
+963,USA,MLS,2014,2014-10-05,00:30,New England Revolution,Columbus Crew,2,1,H,2.04,3.56,3.95,2.07,3.59,4.05,2.01,3.41,3.53,Eastern,Eastern
+964,USA,MLS,2014,2014-10-05,03:30,Los Angeles Galaxy,Toronto FC,3,0,H,1.41,4.97,8.52,1.41,5.5,9.1,1.35,4.8,7.99,Western,Eastern
+965,USA,MLS,2014,2014-10-05,04:00,San Jose Earthquakes,Portland Timbers,1,2,A,2.36,3.5,3.16,2.48,3.51,3.16,2.34,3.3,2.9,Western,Western
+966,USA,MLS,2014,2014-10-05,20:00,Colorado Rapids,Seattle Sounders,1,4,A,3.05,3.78,2.32,3.4,3.78,2.4,3.03,3.38,2.23,Western,Western
+967,USA,MLS,2014,2014-10-05,22:00,Chicago Fire,CF Montreal,0,0,D,1.78,3.72,5.09,1.9,3.8,5.09,1.78,3.55,4.33,Eastern,Eastern
+968,USA,MLS,2014,2014-10-06,00:00,Chivas USA,Real Salt Lake,1,0,H,5.91,4.13,1.62,6.5,4.28,1.73,5.55,3.93,1.56,Eastern,Western
+969,USA,MLS,2014,2014-10-09,00:30,Toronto FC,Houston Dynamo,0,1,A,1.68,4.27,5.16,1.73,4.27,5.75,1.63,3.88,4.87,Eastern,Eastern
+970,USA,MLS,2014,2014-10-09,03:30,Portland Timbers,San Jose Earthquakes,3,0,H,1.46,5.06,7.0,1.6,5.06,7.0,1.48,4.42,5.86,Western,Western
+971,USA,MLS,2014,2014-10-11,01:30,Sporting Kansas City,Chicago Fire,2,0,H,1.59,4.31,6.1,1.59,4.4,7.5,1.51,4.07,5.99,Eastern,Eastern
+972,USA,MLS,2014,2014-10-11,03:00,Seattle Sounders,Vancouver Whitecaps,0,1,A,1.66,4.24,5.4,1.68,4.3,5.5,1.63,3.93,4.91,Western,Western
+973,USA,MLS,2014,2014-10-11,21:00,CF Montreal,New England Revolution,2,2,D,3.14,3.69,2.3,3.6,3.8,2.3,3.16,3.43,2.15,Eastern,Eastern
+974,USA,MLS,2014,2014-10-12,00:00,New York Red Bulls,Toronto FC,3,1,H,2.14,3.76,3.39,2.17,4.1,4.45,1.97,3.56,3.58,Eastern,Eastern
+975,USA,MLS,2014,2014-10-12,00:00,Philadelphia Union,Columbus Crew,2,3,A,2.03,3.6,3.92,2.05,3.75,3.95,2.0,3.4,3.55,Eastern,Eastern
+976,USA,MLS,2014,2014-10-12,02:30,Real Salt Lake,San Jose Earthquakes,2,0,H,1.48,4.51,7.94,1.56,4.52,9.0,1.46,4.15,6.93,Western,Western
+977,USA,MLS,2014,2014-10-12,03:30,Chivas USA,Colorado Rapids,2,1,H,2.83,3.31,2.7,3.1,3.4,2.77,2.85,3.21,2.43,Eastern,Western
+978,USA,MLS,2014,2014-10-12,20:00,Houston Dynamo,DC United,1,3,A,2.15,3.61,3.54,2.15,3.65,4.0,1.99,3.41,3.55,Eastern,Eastern
+979,USA,MLS,2014,2014-10-13,00:00,FC Dallas,Los Angeles Galaxy,2,1,H,2.75,3.52,2.64,3.25,3.6,2.64,2.85,3.37,2.36,Western,Western
+980,USA,MLS,2014,2014-10-17,01:00,Houston Dynamo,New England Revolution,1,2,A,2.44,3.67,2.94,2.55,3.75,3.0,2.37,3.4,2.8,Eastern,Eastern
+981,USA,MLS,2014,2014-10-18,03:00,Portland Timbers,Real Salt Lake,0,0,D,2.05,3.88,3.58,2.09,4.0,3.85,1.96,3.55,3.56,Western,Western
+982,USA,MLS,2014,2014-10-18,19:00,Toronto FC,CF Montreal,1,1,D,1.72,3.8,5.5,1.76,4.0,5.5,1.66,3.68,4.98,Eastern,Eastern
+983,USA,MLS,2014,2014-10-18,20:00,Colorado Rapids,FC Dallas,0,1,A,2.99,3.54,2.45,3.2,3.54,2.7,2.79,3.3,2.43,Western,Western
+984,USA,MLS,2014,2014-10-19,00:00,DC United,Chicago Fire,2,1,H,1.7,3.9,5.57,1.8,3.9,5.57,1.7,3.6,4.87,Eastern,Eastern
+985,USA,MLS,2014,2014-10-19,00:00,Philadelphia Union,Sporting Kansas City,2,1,H,2.74,3.24,2.83,2.78,3.35,2.87,2.58,3.17,2.69,Eastern,Eastern
+986,USA,MLS,2014,2014-10-19,03:30,San Jose Earthquakes,Vancouver Whitecaps,0,0,D,3.95,3.56,2.04,4.0,3.56,2.2,3.55,3.32,2.04,Western,Western
+987,USA,MLS,2014,2014-10-19,20:00,New York Red Bulls,Columbus Crew,1,3,A,1.96,3.9,3.85,1.96,4.02,4.33,1.87,3.57,3.86,Eastern,Eastern
+988,USA,MLS,2014,2014-10-20,01:30,Los Angeles Galaxy,Seattle Sounders,2,2,D,1.68,4.1,5.32,1.7,4.2,6.15,1.63,3.8,5.08,Western,Western
+989,USA,MLS,2014,2014-10-23,02:30,Real Salt Lake,Chivas USA,2,0,H,1.33,5.65,10.62,1.36,5.65,11.14,1.31,5.01,9.32,Western,Eastern
+990,USA,MLS,2014,2014-10-25,01:00,Chicago Fire,Houston Dynamo,2,1,H,2.01,3.62,4.0,2.1,3.65,4.0,1.99,3.42,3.58,Eastern,Eastern
+991,USA,MLS,2014,2014-10-25,19:30,Seattle Sounders,Los Angeles Galaxy,2,0,H,2.18,3.66,3.4,2.38,3.66,3.44,2.18,3.37,3.12,Western,Western
+992,USA,MLS,2014,2014-10-25,21:00,CF Montreal,DC United,1,1,D,2.62,3.61,2.73,2.87,3.61,2.73,2.66,3.31,2.51,Eastern,Eastern
+993,USA,MLS,2014,2014-10-26,00:30,FC Dallas,Portland Timbers,0,2,A,1.89,3.81,4.16,2.35,3.82,4.33,1.91,3.5,3.8,Western,Western
+994,USA,MLS,2014,2014-10-26,00:30,New England Revolution,Toronto FC,1,0,H,1.77,3.77,5.12,1.84,3.9,5.12,1.73,3.61,4.56,Eastern,Eastern
+995,USA,MLS,2014,2014-10-26,02:00,Vancouver Whitecaps,Colorado Rapids,1,0,H,1.44,4.88,7.93,1.45,4.9,8.0,1.41,4.42,7.24,Western,Western
+996,USA,MLS,2014,2014-10-26,20:00,Columbus Crew,Philadelphia Union,2,1,H,1.54,4.52,6.5,1.57,4.55,6.7,1.51,4.06,5.99,Eastern,Eastern
+997,USA,MLS,2014,2014-10-26,20:30,Chivas USA,San Jose Earthquakes,1,0,H,2.94,3.39,2.56,3.0,3.39,2.6,2.77,3.22,2.48,Eastern,Western
+998,USA,MLS,2014,2014-10-27,00:30,Sporting Kansas City,New York Red Bulls,0,2,A,1.92,3.59,4.44,2.0,3.75,4.44,1.89,3.44,3.9,Eastern,Eastern
+999,USA,MLS,2014,2014-10-30,01:00,FC Dallas,Vancouver Whitecaps,2,1,H,1.93,3.5,4.49,2.0,3.51,4.54,1.91,3.32,4.01,Western,Western
+1000,USA,MLS,2014,2014-10-31,00:00,New York Red Bulls,Sporting Kansas City,2,1,H,1.98,3.68,4.02,2.03,3.7,4.4,1.9,3.47,3.89,Eastern,Eastern
+1001,USA,MLS,2014,2014-11-01,20:00,Columbus Crew,New England Revolution,2,4,A,2.02,3.48,4.08,2.06,3.5,4.1,2.0,3.33,3.68,Eastern,Eastern
+1002,USA,MLS,2014,2014-11-02,00:00,Real Salt Lake,Los Angeles Galaxy,0,0,D,3.0,3.51,2.46,3.08,3.51,2.7,2.83,3.26,2.42,Western,Western
+1003,USA,MLS,2014,2014-11-02,21:00,New York Red Bulls,DC United,2,0,H,1.89,3.62,4.53,2.1,3.62,4.53,1.91,3.41,3.9,Eastern,Eastern
+1004,USA,MLS,2014,2014-11-03,02:00,FC Dallas,Seattle Sounders,1,1,D,2.35,3.59,3.12,2.65,3.59,3.12,2.4,3.32,2.82,Western,Western
+1005,USA,MLS,2014,2014-11-08,19:30,DC United,New York Red Bulls,2,1,H,2.44,3.57,2.98,2.47,3.6,3.4,2.29,3.33,2.98,Eastern,Eastern
+1006,USA,MLS,2014,2014-11-09,22:00,New England Revolution,Columbus Crew,3,1,H,2.33,3.61,3.13,2.38,3.8,3.2,2.25,3.38,3.01,Eastern,Eastern
+1007,USA,MLS,2014,2014-11-10,00:30,Los Angeles Galaxy,Real Salt Lake,5,0,H,1.63,4.2,5.79,1.67,4.35,7.0,1.56,3.98,5.62,Western,Western
+1008,USA,MLS,2014,2014-11-11,03:30,Seattle Sounders,FC Dallas,0,0,D,1.61,4.29,5.79,1.64,4.45,6.0,1.59,3.93,5.3,Western,Western
+1009,USA,MLS,2014,2014-11-23,18:30,New York Red Bulls,New England Revolution,1,2,A,1.98,3.71,3.99,2.0,3.8,4.01,1.93,3.53,3.68,Eastern,Eastern
+1010,USA,MLS,2014,2014-11-23,22:00,Los Angeles Galaxy,Seattle Sounders,1,0,H,1.73,3.99,5.12,1.8,3.99,5.4,1.69,3.69,4.8,Western,Western
+1011,USA,MLS,2014,2014-11-29,20:00,New England Revolution,New York Red Bulls,2,2,D,2.09,3.56,3.74,2.13,3.75,4.0,2.01,3.43,3.56,Eastern,Eastern
+1012,USA,MLS,2014,2014-12-01,02:20,Seattle Sounders,Los Angeles Galaxy,2,1,H,2.42,3.6,3.0,2.5,3.6,3.2,2.32,3.32,2.92,Western,Western
+1013,USA,MLS,2014,2014-12-07,20:00,Los Angeles Galaxy,New England Revolution,1,1,D,1.5,4.7,6.81,1.6,4.8,6.81,1.49,4.24,5.99,Western,Eastern
+1014,USA,MLS,2015,2015-03-07,03:00,Los Angeles Galaxy,Chicago Fire,2,0,H,1.44,4.63,8.54,1.5,4.7,8.54,1.45,4.26,6.95,Western,Eastern
+1015,USA,MLS,2015,2015-03-07,20:00,DC United,CF Montreal,1,0,H,2.05,3.47,4.01,2.07,3.5,4.33,1.98,3.32,3.81,Eastern,Eastern
+1016,USA,MLS,2015,2015-03-07,21:00,Philadelphia Union,Colorado Rapids,0,0,D,1.83,3.64,4.85,2.0,3.64,4.85,1.86,3.41,4.21,Eastern,Western
+1017,USA,MLS,2015,2015-03-07,23:00,Vancouver Whitecaps,Toronto FC,1,3,A,2.13,3.5,3.69,2.18,3.55,3.8,2.07,3.32,3.5,Western,Eastern
+1018,USA,MLS,2015,2015-03-08,01:30,FC Dallas,San Jose Earthquakes,1,0,H,1.84,3.68,4.76,1.88,3.75,4.76,1.83,3.46,4.25,Western,Western
+1019,USA,MLS,2015,2015-03-08,01:30,Houston Dynamo,Columbus Crew,1,0,H,2.39,3.46,3.15,2.41,3.46,3.3,2.28,3.24,3.11,Western,Eastern
+1020,USA,MLS,2015,2015-03-08,03:30,Portland Timbers,Real Salt Lake,0,0,D,2.08,3.43,3.87,2.27,3.6,3.9,2.1,3.29,3.45,Western,Western
+1021,USA,MLS,2015,2015-03-08,21:00,Orlando City,New York City,1,1,D,2.1,3.45,3.83,2.16,3.45,4.0,2.05,3.27,3.6,Eastern,Eastern
+1022,USA,MLS,2015,2015-03-08,23:00,Sporting Kansas City,New York Red Bulls,1,1,D,2.11,3.53,3.73,2.16,3.55,3.8,2.04,3.33,3.58,Western,Eastern
+1023,USA,MLS,2015,2015-03-09,01:30,Seattle Sounders,New England Revolution,3,0,H,1.73,3.95,5.16,1.8,3.95,5.2,1.71,3.64,4.75,Western,Eastern
+1024,USA,MLS,2015,2015-03-13,23:00,Houston Dynamo,Orlando City,0,1,A,2.22,3.49,3.46,2.24,3.49,3.95,2.08,3.28,3.53,Western,Eastern
+1025,USA,MLS,2015,2015-03-14,22:00,Chicago Fire,Vancouver Whitecaps,0,1,A,2.48,3.33,3.1,2.52,3.4,3.3,2.34,3.19,3.04,Eastern,Western
+1026,USA,MLS,2015,2015-03-14,23:30,Columbus Crew,Toronto FC,2,0,H,2.22,3.58,3.4,2.3,3.6,3.5,2.13,3.4,3.25,Eastern,Eastern
+1027,USA,MLS,2015,2015-03-15,00:30,FC Dallas,Sporting Kansas City,3,1,H,2.15,3.48,3.66,2.3,3.48,3.66,2.13,3.27,3.37,Western,Western
+1028,USA,MLS,2015,2015-03-15,01:30,Real Salt Lake,Philadelphia Union,3,3,D,1.98,3.56,4.18,1.98,3.66,4.4,1.88,3.4,4.12,Western,Eastern
+1029,USA,MLS,2015,2015-03-15,02:00,Seattle Sounders,San Jose Earthquakes,2,3,A,1.49,4.54,7.57,1.52,4.54,8.0,1.46,4.11,7.01,Western,Western
+1030,USA,MLS,2015,2015-03-15,21:00,New York City,New England Revolution,2,0,H,2.23,3.5,3.43,2.26,3.5,3.65,2.15,3.28,3.34,Eastern,Eastern
+1031,USA,MLS,2015,2015-03-15,23:00,Portland Timbers,Los Angeles Galaxy,2,2,D,3.42,3.58,2.2,3.44,3.65,2.5,3.13,3.34,2.21,Western,Western
+1032,USA,MLS,2015,2015-03-21,19:00,New England Revolution,CF Montreal,0,0,D,1.84,3.72,4.71,1.85,3.72,5.0,1.78,3.54,4.42,Eastern,Eastern
+1033,USA,MLS,2015,2015-03-21,20:00,Colorado Rapids,New York City,0,0,D,2.44,3.44,3.09,2.53,3.44,3.09,2.36,3.27,2.92,Western,Eastern
+1034,USA,MLS,2015,2015-03-21,20:00,Philadelphia Union,FC Dallas,0,2,A,2.18,3.54,3.53,2.35,3.54,3.53,2.17,3.3,3.26,Eastern,Western
+1035,USA,MLS,2015,2015-03-21,23:30,Orlando City,Vancouver Whitecaps,0,1,A,2.25,3.37,3.5,2.27,3.5,3.8,2.17,3.22,3.34,Eastern,Western
+1036,USA,MLS,2015,2015-03-22,00:30,Sporting Kansas City,Portland Timbers,0,0,D,2.15,3.44,3.71,2.2,3.44,3.9,2.08,3.29,3.49,Western,Western
+1037,USA,MLS,2015,2015-03-22,02:30,Los Angeles Galaxy,Houston Dynamo,1,1,D,1.34,5.47,10.51,1.4,5.51,11.0,1.34,4.82,8.75,Western,Western
+1038,USA,MLS,2015,2015-03-22,21:00,New York Red Bulls,DC United,2,0,H,1.81,3.77,4.84,1.9,3.77,5.0,1.81,3.5,4.27,Eastern,Eastern
+1039,USA,MLS,2015,2015-03-22,23:00,San Jose Earthquakes,Chicago Fire,2,1,H,2.05,3.55,3.9,2.12,3.55,4.0,2.03,3.33,3.59,Western,Eastern
+1040,USA,MLS,2015,2015-03-28,19:00,New England Revolution,San Jose Earthquakes,2,1,H,1.76,3.78,5.16,1.9,3.78,5.16,1.8,3.46,4.43,Eastern,Western
+1041,USA,MLS,2015,2015-03-28,20:00,CF Montreal,Orlando City,2,2,D,1.96,3.45,4.43,1.98,3.5,4.45,1.9,3.34,4.11,Eastern,Eastern
+1042,USA,MLS,2015,2015-03-28,23:00,DC United,Los Angeles Galaxy,1,0,H,2.81,3.36,2.7,3.0,3.36,2.7,2.78,3.2,2.5,Eastern,Western
+1043,USA,MLS,2015,2015-03-28,23:00,New York City,Sporting Kansas City,0,1,A,2.7,3.3,2.85,2.7,3.3,3.2,2.44,3.18,2.9,Eastern,Western
+1044,USA,MLS,2015,2015-03-28,23:30,Columbus Crew,New York Red Bulls,1,2,A,2.0,3.53,4.16,2.12,3.53,4.3,1.98,3.36,3.77,Eastern,Eastern
+1045,USA,MLS,2015,2015-03-29,00:00,Vancouver Whitecaps,Portland Timbers,2,1,H,2.32,3.4,3.33,2.38,3.45,3.6,2.22,3.26,3.2,Western,Western
+1046,USA,MLS,2015,2015-03-29,00:30,FC Dallas,Seattle Sounders,0,0,D,2.06,3.54,3.88,2.3,3.54,3.95,2.09,3.31,3.49,Western,Western
+1047,USA,MLS,2015,2015-03-29,00:30,Houston Dynamo,Colorado Rapids,0,0,D,2.13,3.41,3.8,2.15,3.5,3.85,2.05,3.3,3.59,Western,Western
+1048,USA,MLS,2015,2015-03-29,22:00,Chicago Fire,Philadelphia Union,1,0,H,2.64,3.41,2.83,2.7,3.45,2.92,2.53,3.23,2.74,Eastern,Eastern
+1049,USA,MLS,2015,2015-03-30,00:00,Real Salt Lake,Toronto FC,2,1,H,1.94,3.65,4.21,1.95,3.75,4.5,1.86,3.5,4.1,Western,Eastern
+1050,USA,MLS,2015,2015-04-04,00:00,Orlando City,DC United,0,1,A,2.12,3.5,3.74,2.16,3.5,3.95,2.06,3.32,3.5,Eastern,Eastern
+1051,USA,MLS,2015,2015-04-04,20:00,Chicago Fire,Toronto FC,3,2,H,2.78,3.37,2.67,2.79,3.4,2.8,2.6,3.21,2.66,Eastern,Eastern
+1052,USA,MLS,2015,2015-04-05,00:00,Colorado Rapids,New England Revolution,0,2,A,2.43,3.36,3.1,2.51,3.36,3.18,2.38,3.22,2.93,Western,Eastern
+1053,USA,MLS,2015,2015-04-05,03:00,Seattle Sounders,Houston Dynamo,1,0,H,1.5,4.23,8.19,1.57,4.8,8.19,1.47,4.1,6.87,Western,Western
+1054,USA,MLS,2015,2015-04-05,03:00,Vancouver Whitecaps,Los Angeles Galaxy,2,0,H,3.04,3.39,2.49,3.35,3.4,2.5,3.01,3.25,2.32,Western,Western
+1055,USA,MLS,2015,2015-04-05,03:30,Portland Timbers,FC Dallas,3,1,H,1.92,3.79,4.17,2.0,3.79,4.35,1.91,3.5,3.8,Western,Western
+1056,USA,MLS,2015,2015-04-05,22:00,San Jose Earthquakes,Real Salt Lake,0,1,A,2.43,3.46,3.07,2.6,3.48,3.07,2.44,3.24,2.85,Western,Western
+1057,USA,MLS,2015,2015-04-06,00:00,Sporting Kansas City,Philadelphia Union,3,2,H,1.85,3.73,4.62,1.88,3.9,5.0,1.79,3.51,4.37,Western,Eastern
+1058,USA,MLS,2015,2015-04-09,03:00,Vancouver Whitecaps,Columbus Crew,2,2,D,1.93,3.63,4.36,2.08,3.64,4.45,1.94,3.38,3.81,Western,Eastern
+1059,USA,MLS,2015,2015-04-11,00:00,FC Dallas,Colorado Rapids,0,4,A,1.97,3.59,4.17,1.98,3.8,5.5,1.84,3.51,4.19,Western,Western
+1060,USA,MLS,2015,2015-04-11,20:00,New England Revolution,Columbus Crew,0,0,D,1.98,3.67,4.06,2.03,3.67,4.3,1.92,3.45,3.83,Eastern,Eastern
+1061,USA,MLS,2015,2015-04-11,21:00,Philadelphia Union,New York City,2,1,H,2.17,3.52,3.57,2.19,3.52,3.74,2.09,3.27,3.48,Eastern,Eastern
+1062,USA,MLS,2015,2015-04-12,00:00,DC United,New York Red Bulls,2,2,D,2.62,3.55,2.76,2.62,3.56,3.1,2.43,3.31,2.79,Eastern,Eastern
+1063,USA,MLS,2015,2015-04-12,01:30,Houston Dynamo,CF Montreal,3,0,H,2.04,3.5,3.97,2.15,3.6,4.05,2.02,3.28,3.68,Western,Eastern
+1064,USA,MLS,2015,2015-04-12,01:30,Sporting Kansas City,Real Salt Lake,0,0,D,1.95,3.59,4.29,2.02,3.62,4.33,1.94,3.38,3.87,Western,Western
+1065,USA,MLS,2015,2015-04-12,03:30,San Jose Earthquakes,Vancouver Whitecaps,1,0,H,3.05,3.34,2.52,3.13,3.35,2.8,2.81,3.17,2.52,Western,Western
+1066,USA,MLS,2015,2015-04-12,22:00,Portland Timbers,Orlando City,0,2,A,1.82,3.73,4.83,1.83,3.8,5.0,1.77,3.52,4.49,Western,Eastern
+1067,USA,MLS,2015,2015-04-13,00:00,Los Angeles Galaxy,Seattle Sounders,1,0,H,1.7,3.82,5.7,1.75,3.95,5.7,1.68,3.61,5.08,Western,Western
+1068,USA,MLS,2015,2015-04-17,00:00,New York City,Philadelphia Union,1,1,D,2.14,3.56,3.62,2.2,3.56,3.65,2.13,3.31,3.33,Eastern,Eastern
+1069,USA,MLS,2015,2015-04-18,00:00,New York Red Bulls,San Jose Earthquakes,2,0,H,1.71,3.87,5.43,1.75,3.92,5.7,1.68,3.63,5.01,Eastern,Western
+1070,USA,MLS,2015,2015-04-19,00:00,DC United,Houston Dynamo,1,1,D,2.32,3.42,3.32,2.32,3.45,3.6,2.2,3.24,3.23,Eastern,Western
+1071,USA,MLS,2015,2015-04-19,00:30,Columbus Crew,Orlando City,3,0,H,1.96,3.6,4.22,2.05,3.69,4.23,1.92,3.41,3.85,Eastern,Eastern
+1072,USA,MLS,2015,2015-04-19,01:30,FC Dallas,Toronto FC,3,2,H,1.95,3.6,4.25,2.0,3.66,4.3,1.92,3.4,3.9,Western,Eastern
+1073,USA,MLS,2015,2015-04-19,02:00,Colorado Rapids,Seattle Sounders,1,3,A,2.71,3.43,2.74,2.74,3.43,2.85,2.55,3.22,2.71,Western,Western
+1074,USA,MLS,2015,2015-04-19,02:30,Real Salt Lake,Vancouver Whitecaps,0,1,A,2.25,3.41,3.46,2.25,3.45,3.67,2.13,3.27,3.37,Western,Western
+1075,USA,MLS,2015,2015-04-19,03:30,Los Angeles Galaxy,Sporting Kansas City,2,1,H,1.98,3.57,4.17,2.0,3.7,5.3,1.85,3.48,4.18,Western,Western
+1076,USA,MLS,2015,2015-04-19,22:00,Philadelphia Union,New England Revolution,1,2,A,2.28,3.4,3.44,2.4,3.55,3.44,2.21,3.29,3.18,Eastern,Eastern
+1077,USA,MLS,2015,2015-04-20,00:00,New York City,Portland Timbers,0,1,A,2.72,3.38,2.76,2.72,3.38,3.15,2.51,3.22,2.77,Eastern,Western
+1078,USA,MLS,2015,2015-04-25,01:00,Chicago Fire,New York City,1,0,H,2.19,3.35,3.73,2.21,3.4,3.74,2.14,3.22,3.41,Eastern,Eastern
+1079,USA,MLS,2015,2015-04-25,03:00,Colorado Rapids,FC Dallas,1,1,D,2.35,3.52,3.15,2.43,3.52,3.26,2.3,3.28,3.01,Western,Western
+1080,USA,MLS,2015,2015-04-26,00:30,Columbus Crew,Philadelphia Union,4,1,H,1.82,3.83,4.67,1.85,3.85,4.77,1.79,3.58,4.3,Eastern,Eastern
+1081,USA,MLS,2015,2015-04-26,00:30,New England Revolution,Real Salt Lake,4,0,H,1.79,3.75,4.96,2.0,3.76,4.96,1.83,3.51,4.22,Eastern,Western
+1082,USA,MLS,2015,2015-04-26,01:30,Houston Dynamo,Sporting Kansas City,4,4,D,2.89,3.15,2.77,2.89,3.3,3.0,2.64,3.09,2.72,Western,Western
+1083,USA,MLS,2015,2015-04-26,03:30,Vancouver Whitecaps,DC United,1,2,A,1.67,4.04,5.65,1.75,4.16,5.87,1.66,3.69,5.11,Western,Eastern
+1084,USA,MLS,2015,2015-04-26,22:00,New York Red Bulls,Los Angeles Galaxy,1,1,D,2.24,3.51,3.41,2.4,3.59,3.41,2.21,3.3,3.16,Eastern,Western
+1085,USA,MLS,2015,2015-04-27,00:00,Orlando City,Toronto FC,0,2,A,2.12,3.5,3.7,2.21,3.51,3.7,2.11,3.3,3.39,Eastern,Eastern
+1086,USA,MLS,2015,2015-04-27,02:30,Seattle Sounders,Portland Timbers,1,0,H,2.23,3.63,3.34,2.25,3.63,4.6,2.03,3.42,3.53,Western,Western
+1087,USA,MLS,2015,2015-04-30,00:30,New York Red Bulls,Colorado Rapids,1,1,D,1.65,4.29,5.4,1.67,4.3,6.2,1.61,3.84,5.18,Eastern,Western
+1088,USA,MLS,2015,2015-05-02,01:00,Houston Dynamo,FC Dallas,1,4,A,2.53,3.33,3.03,2.62,3.38,3.2,2.44,3.2,2.86,Western,Western
+1089,USA,MLS,2015,2015-05-02,03:00,Real Salt Lake,San Jose Earthquakes,1,1,D,1.9,3.55,4.6,1.92,3.6,5.1,1.83,3.38,4.41,Western,Western
+1090,USA,MLS,2015,2015-05-02,21:00,Philadelphia Union,Toronto FC,0,1,A,2.42,3.56,3.02,2.42,3.56,3.25,2.26,3.31,3.06,Eastern,Eastern
+1091,USA,MLS,2015,2015-05-03,00:00,DC United,Columbus Crew,2,0,H,3.15,3.4,2.42,3.15,3.43,2.78,2.85,3.25,2.43,Eastern,Eastern
+1092,USA,MLS,2015,2015-05-03,00:30,New England Revolution,New York Red Bulls,2,1,H,2.06,3.49,3.93,2.17,3.5,4.1,2.02,3.33,3.61,Eastern,Eastern
+1093,USA,MLS,2015,2015-05-03,03:30,Los Angeles Galaxy,Colorado Rapids,1,1,D,1.54,4.4,6.69,1.55,4.45,7.7,1.48,4.12,6.55,Western,Western
+1094,USA,MLS,2015,2015-05-03,03:30,Portland Timbers,Vancouver Whitecaps,0,0,D,2.05,3.46,4.03,2.2,3.46,4.25,2.05,3.27,3.63,Western,Western
+1095,USA,MLS,2015,2015-05-03,22:00,Sporting Kansas City,Chicago Fire,1,0,H,1.75,3.9,5.11,1.78,4.1,6.0,1.66,3.74,5.03,Western,Eastern
+1096,USA,MLS,2015,2015-05-04,00:00,New York City,Seattle Sounders,1,3,A,3.69,3.35,2.2,3.85,3.4,2.44,3.33,3.22,2.18,Eastern,Western
+1097,USA,MLS,2015,2015-05-06,01:30,Houston Dynamo,San Jose Earthquakes,0,1,A,2.03,3.54,4.02,2.1,3.54,4.03,2.0,3.31,3.69,Western,Western
+1098,USA,MLS,2015,2015-05-07,02:30,Real Salt Lake,Los Angeles Galaxy,0,0,D,2.99,3.36,2.55,3.3,3.36,2.58,2.97,3.18,2.39,Western,Western
+1099,USA,MLS,2015,2015-05-09,01:00,Orlando City,New England Revolution,2,2,D,2.4,3.36,3.21,2.59,3.42,3.21,2.38,3.22,2.93,Eastern,Eastern
+1100,USA,MLS,2015,2015-05-09,03:00,Colorado Rapids,San Jose Earthquakes,1,1,D,2.01,3.46,4.2,2.05,3.5,4.5,1.93,3.29,4.0,Western,Western
+1101,USA,MLS,2015,2015-05-09,20:00,Chicago Fire,Real Salt Lake,1,2,A,1.85,3.71,4.66,2.15,3.71,4.75,1.84,3.46,4.21,Eastern,Western
+1102,USA,MLS,2015,2015-05-09,21:00,CF Montreal,Portland Timbers,1,2,A,2.7,3.35,2.79,2.77,3.35,2.87,2.59,3.2,2.67,Eastern,Western
+1103,USA,MLS,2015,2015-05-10,00:00,DC United,Sporting Kansas City,1,1,D,2.55,3.37,2.98,2.6,3.4,3.02,2.45,3.21,2.82,Eastern,Western
+1104,USA,MLS,2015,2015-05-10,00:00,Vancouver Whitecaps,Philadelphia Union,3,0,H,1.6,4.22,6.16,1.7,4.22,6.16,1.6,3.8,5.46,Western,Eastern
+1105,USA,MLS,2015,2015-05-10,00:30,Columbus Crew,Seattle Sounders,3,2,H,2.27,3.53,3.31,2.38,3.53,3.45,2.2,3.34,3.13,Eastern,Western
+1106,USA,MLS,2015,2015-05-10,01:30,FC Dallas,Los Angeles Galaxy,2,1,H,2.5,3.44,2.99,2.53,3.44,3.05,2.37,3.25,2.92,Western,Western
+1107,USA,MLS,2015,2015-05-10,22:00,Toronto FC,Houston Dynamo,1,2,A,1.78,3.9,4.84,1.8,3.95,5.0,1.74,3.61,4.51,Eastern,Western
+1108,USA,MLS,2015,2015-05-11,00:00,New York Red Bulls,New York City,2,1,H,1.64,4.05,5.93,1.67,4.09,6.2,1.6,3.75,5.53,Eastern,Eastern
+1109,USA,MLS,2015,2015-05-14,01:00,DC United,Orlando City,2,1,H,2.1,3.35,3.97,2.12,3.52,4.15,2.05,3.27,3.6,Eastern,Eastern
+1110,USA,MLS,2015,2015-05-16,00:00,New York City,Chicago Fire,2,2,D,2.36,3.54,3.15,2.37,3.54,3.3,2.24,3.33,3.07,Eastern,Eastern
+1111,USA,MLS,2015,2015-05-16,02:00,FC Dallas,New York Red Bulls,0,0,D,2.45,3.47,3.05,2.59,3.47,3.38,2.37,3.3,2.89,Western,Eastern
+1112,USA,MLS,2015,2015-05-16,21:00,CF Montreal,Real Salt Lake,4,1,H,2.05,3.63,3.86,2.35,3.63,4.0,2.1,3.33,3.42,Eastern,Western
+1113,USA,MLS,2015,2015-05-17,00:00,Vancouver Whitecaps,Seattle Sounders,0,2,A,2.23,3.56,3.36,2.33,3.56,3.36,2.23,3.28,3.13,Western,Western
+1114,USA,MLS,2015,2015-05-17,00:30,New England Revolution,Toronto FC,1,1,D,1.8,3.95,4.63,1.85,3.95,5.0,1.78,3.57,4.36,Eastern,Eastern
+1115,USA,MLS,2015,2015-05-17,01:30,Houston Dynamo,Portland Timbers,3,1,H,2.76,3.34,2.76,2.76,3.45,2.8,2.58,3.22,2.66,Western,Western
+1116,USA,MLS,2015,2015-05-17,03:30,San Jose Earthquakes,Columbus Crew,2,0,H,2.99,3.26,2.61,2.99,3.32,2.75,2.74,3.18,2.55,Western,Eastern
+1117,USA,MLS,2015,2015-05-17,22:00,Orlando City,Los Angeles Galaxy,4,0,H,2.84,3.31,2.7,2.86,3.4,2.8,2.69,3.19,2.58,Eastern,Western
+1118,USA,MLS,2015,2015-05-18,00:00,Philadelphia Union,DC United,1,0,H,2.31,3.45,3.3,2.62,3.5,3.3,2.32,3.29,2.98,Eastern,Eastern
+1119,USA,MLS,2015,2015-05-21,01:00,Sporting Kansas City,New England Revolution,4,2,H,1.91,3.68,4.33,2.2,3.75,4.5,1.9,3.46,3.92,Western,Eastern
+1120,USA,MLS,2015,2015-05-23,01:00,Columbus Crew,Chicago Fire,2,2,D,2.06,3.73,3.65,2.06,3.92,4.4,1.94,3.59,3.63,Eastern,Eastern
+1121,USA,MLS,2015,2015-05-23,03:30,Los Angeles Galaxy,Houston Dynamo,1,0,H,1.9,3.72,4.33,1.92,3.85,5.0,1.79,3.54,4.35,Western,Western
+1122,USA,MLS,2015,2015-05-23,22:00,Toronto FC,Portland Timbers,1,0,H,2.3,3.53,3.26,2.3,3.53,3.44,2.21,3.31,3.15,Eastern,Western
+1123,USA,MLS,2015,2015-05-24,00:30,New England Revolution,DC United,1,1,D,1.82,3.64,5.0,1.85,3.68,5.12,1.78,3.49,4.49,Eastern,Eastern
+1124,USA,MLS,2015,2015-05-24,01:00,CF Montreal,FC Dallas,2,1,H,2.35,3.49,3.2,2.35,3.49,3.32,2.25,3.28,3.11,Eastern,Western
+1125,USA,MLS,2015,2015-05-24,02:00,Colorado Rapids,Vancouver Whitecaps,1,0,H,2.28,3.41,3.39,2.4,3.42,3.41,2.25,3.25,3.13,Western,Western
+1126,USA,MLS,2015,2015-05-24,03:00,Real Salt Lake,New York City,2,0,H,1.93,3.55,4.45,1.97,3.55,4.6,1.9,3.33,4.09,Western,Eastern
+1127,USA,MLS,2015,2015-05-24,03:00,Seattle Sounders,Sporting Kansas City,0,0,D,2.02,3.51,4.1,2.1,3.51,4.1,1.98,3.36,3.74,Western,Western
+1128,USA,MLS,2015,2015-05-24,22:00,New York Red Bulls,Philadelphia Union,0,2,A,1.54,4.64,6.19,1.65,4.64,7.0,1.53,4.05,5.89,Eastern,Eastern
+1129,USA,MLS,2015,2015-05-25,00:00,San Jose Earthquakes,Orlando City,1,1,D,2.37,3.32,3.26,2.38,3.45,3.4,2.25,3.22,3.17,Western,Eastern
+1130,USA,MLS,2015,2015-05-28,03:00,Seattle Sounders,Colorado Rapids,1,0,H,1.89,3.66,4.45,1.91,3.8,5.4,1.77,3.53,4.52,Western,Western
+1131,USA,MLS,2015,2015-05-28,03:30,Los Angeles Galaxy,Real Salt Lake,1,0,H,1.61,4.04,6.47,1.65,4.05,6.49,1.57,3.75,5.91,Western,Western
+1132,USA,MLS,2015,2015-05-28,03:30,Portland Timbers,DC United,1,0,H,1.52,4.45,7.11,1.73,4.45,7.11,1.57,3.95,5.65,Western,Eastern
+1133,USA,MLS,2015,2015-05-30,02:00,Sporting Kansas City,FC Dallas,4,0,H,2.09,3.47,3.9,2.15,3.48,3.92,2.0,3.33,3.67,Western,Western
+1134,USA,MLS,2015,2015-05-30,22:00,Toronto FC,San Jose Earthquakes,3,1,H,1.8,3.67,5.07,1.81,3.8,5.3,1.75,3.53,4.63,Eastern,Western
+1135,USA,MLS,2015,2015-05-30,23:00,Vancouver Whitecaps,Real Salt Lake,2,1,H,1.63,3.89,6.53,1.75,3.89,6.53,1.64,3.58,5.51,Western,Western
+1136,USA,MLS,2015,2015-05-31,00:00,DC United,Philadelphia Union,2,1,H,2.22,3.4,3.54,2.27,3.4,4.0,2.12,3.26,3.45,Eastern,Eastern
+1137,USA,MLS,2015,2015-05-31,00:00,New York City,Houston Dynamo,1,1,D,2.51,3.3,3.08,2.55,3.35,3.25,2.35,3.17,3.03,Eastern,Western
+1138,USA,MLS,2015,2015-05-31,00:30,Orlando City,Columbus Crew,2,2,D,2.28,3.5,3.33,2.3,3.5,3.45,2.21,3.3,3.16,Eastern,Eastern
+1139,USA,MLS,2015,2015-05-31,01:30,Chicago Fire,CF Montreal,3,0,H,1.96,3.66,4.11,2.01,3.66,4.2,1.93,3.43,3.81,Eastern,Eastern
+1140,USA,MLS,2015,2015-05-31,02:00,Colorado Rapids,Portland Timbers,1,2,A,2.21,3.45,3.52,2.21,3.45,3.7,2.15,3.26,3.34,Western,Western
+1141,USA,MLS,2015,2015-05-31,22:00,Seattle Sounders,New York Red Bulls,2,1,H,1.95,3.73,4.07,2.05,3.75,4.4,1.95,3.45,3.72,Western,Eastern
+1142,USA,MLS,2015,2015-06-01,00:00,New England Revolution,Los Angeles Galaxy,2,2,D,2.09,3.43,3.92,2.25,3.56,3.92,2.1,3.3,3.44,Eastern,Western
+1143,USA,MLS,2015,2015-06-04,00:00,DC United,Chicago Fire,3,1,H,2.93,3.3,2.63,2.94,3.4,3.1,2.63,3.21,2.66,Eastern,Eastern
+1144,USA,MLS,2015,2015-06-04,00:00,Philadelphia Union,Columbus Crew,3,0,H,2.31,3.69,3.12,2.5,3.69,3.14,2.36,3.34,2.87,Eastern,Eastern
+1145,USA,MLS,2015,2015-06-04,01:00,CF Montreal,Vancouver Whitecaps,2,1,H,2.61,3.44,2.85,2.65,3.45,2.88,2.5,3.26,2.72,Eastern,Western
+1146,USA,MLS,2015,2015-06-06,02:00,Houston Dynamo,New York Red Bulls,4,2,H,2.4,3.46,3.15,2.5,3.46,3.2,2.34,3.28,2.96,Western,Eastern
+1147,USA,MLS,2015,2015-06-07,00:00,DC United,Toronto FC,1,2,A,2.31,3.45,3.3,2.31,3.52,3.4,2.18,3.29,3.23,Eastern,Eastern
+1148,USA,MLS,2015,2015-06-07,00:00,Philadelphia Union,New York City,1,2,A,1.93,3.67,4.25,2.0,3.7,4.25,1.91,3.44,3.89,Eastern,Eastern
+1149,USA,MLS,2015,2015-06-07,00:30,Columbus Crew,CF Montreal,1,2,A,1.67,4.22,5.28,1.73,4.22,5.75,1.63,3.89,4.89,Eastern,Eastern
+1150,USA,MLS,2015,2015-06-07,01:30,Chicago Fire,Orlando City,2,3,A,2.25,3.49,3.43,2.25,3.5,4.0,2.08,3.34,3.45,Eastern,Eastern
+1151,USA,MLS,2015,2015-06-07,01:30,Sporting Kansas City,Seattle Sounders,1,0,H,2.0,3.44,4.22,2.15,3.5,4.22,2.0,3.31,3.72,Western,Western
+1152,USA,MLS,2015,2015-06-07,03:30,Los Angeles Galaxy,Vancouver Whitecaps,0,1,A,2.16,3.39,3.75,2.17,3.5,4.0,2.06,3.3,3.56,Western,Western
+1153,USA,MLS,2015,2015-06-07,03:30,Portland Timbers,New England Revolution,2,0,H,1.79,4.01,4.62,1.85,4.01,5.0,1.74,3.69,4.4,Western,Eastern
+1154,USA,MLS,2015,2015-06-07,22:00,Real Salt Lake,Colorado Rapids,0,0,D,2.64,3.31,2.9,2.64,3.31,3.1,2.44,3.16,2.9,Western,Western
+1155,USA,MLS,2015,2015-06-08,00:00,San Jose Earthquakes,FC Dallas,0,0,D,2.32,3.39,3.34,2.38,3.43,3.4,2.25,3.23,3.14,Western,Western
+1156,USA,MLS,2015,2015-06-14,00:00,New York City,CF Montreal,3,1,H,2.11,3.47,3.8,2.2,3.48,3.8,2.1,3.32,3.39,Eastern,Eastern
+1157,USA,MLS,2015,2015-06-14,00:30,Columbus Crew,Los Angeles Galaxy,1,1,D,2.03,3.7,3.82,2.06,3.76,4.05,1.97,3.48,3.61,Eastern,Western
+1158,USA,MLS,2015,2015-06-14,00:30,New England Revolution,Chicago Fire,2,0,H,1.95,3.77,4.1,1.97,3.8,4.35,1.88,3.48,3.98,Eastern,Eastern
+1159,USA,MLS,2015,2015-06-14,03:00,Seattle Sounders,FC Dallas,3,0,H,1.89,3.73,4.37,1.93,3.75,5.0,1.81,3.54,4.26,Western,Western
+1160,USA,MLS,2015,2015-06-15,00:00,Orlando City,DC United,1,0,H,1.85,3.76,4.54,1.91,3.88,4.63,1.81,3.54,4.21,Eastern,Eastern
+1161,USA,MLS,2015,2015-06-20,02:00,Colorado Rapids,FC Dallas,1,1,D,2.3,3.47,3.31,2.34,3.5,3.41,2.2,3.28,3.2,Western,Western
+1162,USA,MLS,2015,2015-06-20,21:00,Seattle Sounders,San Jose Earthquakes,0,2,A,1.9,3.38,4.89,2.0,3.54,4.9,1.86,3.27,4.37,Western,Western
+1163,USA,MLS,2015,2015-06-21,00:00,New York Red Bulls,Vancouver Whitecaps,1,2,A,2.11,3.64,3.62,2.12,3.66,3.8,2.03,3.41,3.49,Eastern,Western
+1164,USA,MLS,2015,2015-06-21,00:00,Toronto FC,New York City,0,2,A,1.83,3.86,4.56,1.86,3.86,5.0,1.76,3.62,4.42,Eastern,Eastern
+1165,USA,MLS,2015,2015-06-21,01:00,CF Montreal,Orlando City,2,0,H,2.44,3.48,3.06,2.5,3.5,3.1,2.34,3.24,2.96,Eastern,Eastern
+1166,USA,MLS,2015,2015-06-21,03:30,Los Angeles Galaxy,Philadelphia Union,5,1,H,1.57,4.3,6.35,1.6,4.3,6.71,1.53,3.88,6.21,Western,Eastern
+1167,USA,MLS,2015,2015-06-21,03:30,Portland Timbers,Houston Dynamo,2,0,H,1.57,4.19,6.63,1.7,4.19,6.79,1.57,3.87,5.78,Western,Western
+1168,USA,MLS,2015,2015-06-21,22:00,DC United,New England Revolution,2,1,H,2.41,3.47,3.1,2.5,3.47,3.2,2.34,3.27,2.95,Eastern,Eastern
+1169,USA,MLS,2015,2015-06-22,03:00,Real Salt Lake,Sporting Kansas City,2,1,H,3.33,3.31,2.36,3.35,3.31,2.6,3.04,3.1,2.39,Western,Western
+1170,USA,MLS,2015,2015-06-25,00:00,Philadelphia Union,Seattle Sounders,1,0,H,1.89,3.72,4.39,2.3,3.72,4.39,1.99,3.37,3.75,Eastern,Western
+1171,USA,MLS,2015,2015-06-25,00:30,Columbus Crew,New England Revolution,2,1,H,1.94,3.7,4.15,1.95,3.8,4.55,1.85,3.56,4.06,Eastern,Eastern
+1172,USA,MLS,2015,2015-06-25,00:30,New York Red Bulls,Real Salt Lake,1,0,H,1.56,4.27,6.75,1.65,4.35,7.5,1.53,3.97,6.15,Eastern,Western
+1173,USA,MLS,2015,2015-06-25,00:30,Orlando City,Colorado Rapids,2,0,H,2.04,3.6,3.88,2.07,3.6,4.3,1.99,3.35,3.75,Eastern,Western
+1174,USA,MLS,2015,2015-06-25,01:00,Toronto FC,CF Montreal,3,1,H,1.85,3.7,4.68,1.86,3.78,5.0,1.8,3.57,4.29,Eastern,Eastern
+1175,USA,MLS,2015,2015-06-25,01:30,Chicago Fire,DC United,0,1,A,1.79,3.8,4.89,1.95,3.8,4.89,1.82,3.54,4.24,Eastern,Eastern
+1176,USA,MLS,2015,2015-06-25,04:00,Los Angeles Galaxy,Portland Timbers,5,0,H,2.34,3.41,3.29,2.38,3.6,3.7,2.2,3.26,3.25,Western,Western
+1177,USA,MLS,2015,2015-06-27,02:00,FC Dallas,Houston Dynamo,2,0,H,1.82,3.9,4.55,1.85,3.92,5.3,1.76,3.64,4.45,Western,Western
+1178,USA,MLS,2015,2015-06-27,22:00,Toronto FC,DC United,0,0,D,1.88,3.75,4.4,1.91,3.75,4.65,1.83,3.49,4.19,Eastern,Eastern
+1179,USA,MLS,2015,2015-06-28,00:00,Philadelphia Union,CF Montreal,2,2,D,1.99,3.52,4.18,2.12,3.55,4.33,1.96,3.41,3.72,Eastern,Eastern
+1180,USA,MLS,2015,2015-06-28,00:30,New England Revolution,Vancouver Whitecaps,1,2,A,2.33,3.37,3.35,2.42,3.4,3.4,2.24,3.23,3.17,Eastern,Western
+1181,USA,MLS,2015,2015-06-28,01:30,Sporting Kansas City,Colorado Rapids,2,0,H,1.65,3.91,6.22,1.7,4.0,6.5,1.63,3.68,5.46,Western,Western
+1182,USA,MLS,2015,2015-06-28,03:00,Real Salt Lake,Columbus Crew,2,2,D,2.6,3.41,2.84,2.8,3.5,2.98,2.56,3.23,2.71,Western,Eastern
+1183,USA,MLS,2015,2015-06-28,03:30,San Jose Earthquakes,Los Angeles Galaxy,3,1,H,3.1,3.42,2.44,3.2,3.42,2.49,3.0,3.25,2.33,Western,Western
+1184,USA,MLS,2015,2015-06-28,22:00,New York City,New York Red Bulls,1,3,A,2.94,3.45,2.53,2.96,3.56,2.7,2.75,3.27,2.49,Eastern,Eastern
+1185,USA,MLS,2015,2015-06-29,00:00,Portland Timbers,Seattle Sounders,4,1,H,1.88,3.5,4.83,1.95,3.6,4.83,1.84,3.4,4.34,Western,Western
+1186,USA,MLS,2015,2015-07-04,02:00,Houston Dynamo,Chicago Fire,1,1,D,2.05,3.6,3.85,2.1,3.64,4.05,2.03,3.37,3.59,Western,Eastern
+1187,USA,MLS,2015,2015-07-04,04:00,Seattle Sounders,DC United,1,0,H,2.13,3.28,3.97,2.16,3.4,4.0,2.03,3.23,3.75,Western,Eastern
+1188,USA,MLS,2015,2015-07-05,00:30,Columbus Crew,New York Red Bulls,2,1,H,2.2,3.77,3.28,2.27,3.77,3.4,2.16,3.54,3.1,Eastern,Eastern
+1189,USA,MLS,2015,2015-07-05,01:00,CF Montreal,New York City,1,2,A,1.88,3.89,4.25,2.0,3.89,4.3,1.88,3.6,3.86,Eastern,Eastern
+1190,USA,MLS,2015,2015-07-05,02:00,Colorado Rapids,Vancouver Whitecaps,2,1,H,2.36,3.35,3.25,2.54,3.35,3.25,2.34,3.2,3.04,Western,Western
+1191,USA,MLS,2015,2015-07-05,02:00,FC Dallas,New England Revolution,3,0,H,1.9,3.7,4.29,1.95,3.75,4.55,1.85,3.51,4.1,Western,Eastern
+1192,USA,MLS,2015,2015-07-05,03:00,Real Salt Lake,Orlando City,1,1,D,2.47,3.45,2.99,2.56,3.45,3.0,2.4,3.26,2.89,Western,Eastern
+1193,USA,MLS,2015,2015-07-05,03:30,Los Angeles Galaxy,Toronto FC,4,0,H,1.58,4.3,6.25,1.67,4.3,6.3,1.58,3.96,5.47,Western,Eastern
+1194,USA,MLS,2015,2015-07-06,04:00,Portland Timbers,San Jose Earthquakes,1,0,H,1.61,4.15,6.13,1.61,4.3,6.8,1.54,3.97,5.89,Western,Western
+1195,USA,MLS,2015,2015-07-11,04:00,San Jose Earthquakes,Houston Dynamo,0,2,A,2.06,3.39,4.08,2.07,3.5,4.85,2.0,3.25,3.84,Western,Western
+1196,USA,MLS,2015,2015-07-12,00:00,New York Red Bulls,New England Revolution,4,1,H,1.85,3.78,4.52,1.85,3.85,4.85,1.79,3.63,4.29,Eastern,Eastern
+1197,USA,MLS,2015,2015-07-12,00:00,Philadelphia Union,Portland Timbers,3,0,H,2.22,3.62,3.35,2.5,3.62,3.37,2.23,3.34,3.11,Eastern,Western
+1198,USA,MLS,2015,2015-07-12,00:30,Orlando City,FC Dallas,0,2,A,2.49,3.32,3.12,2.6,3.4,3.12,2.42,3.2,2.92,Eastern,Western
+1199,USA,MLS,2015,2015-07-12,01:00,CF Montreal,Columbus Crew,3,0,H,2.5,3.65,2.85,2.5,3.65,3.0,2.38,3.43,2.8,Eastern,Eastern
+1200,USA,MLS,2015,2015-07-12,01:30,Chicago Fire,Seattle Sounders,1,0,H,1.99,3.65,4.01,2.01,3.65,4.25,1.94,3.39,3.87,Eastern,Western
+1201,USA,MLS,2015,2015-07-12,02:00,Colorado Rapids,Real Salt Lake,3,1,H,1.88,3.62,4.61,1.91,3.66,4.75,1.82,3.44,4.35,Western,Western
+1202,USA,MLS,2015,2015-07-12,20:00,New York City,Toronto FC,4,4,D,2.21,3.56,3.43,2.21,3.65,4.0,2.04,3.46,3.48,Eastern,Eastern
+1203,USA,MLS,2015,2015-07-13,02:00,Vancouver Whitecaps,Sporting Kansas City,0,1,A,2.13,3.43,3.79,2.13,3.49,4.3,2.03,3.3,3.63,Western,Western
+1204,USA,MLS,2015,2015-07-16,01:30,Chicago Fire,Columbus Crew,0,1,A,2.38,3.52,3.11,2.4,3.55,3.18,2.27,3.35,3.02,Eastern,Eastern
+1205,USA,MLS,2015,2015-07-18,04:00,Los Angeles Galaxy,San Jose Earthquakes,5,2,H,1.75,3.79,5.28,1.77,4.0,6.5,1.66,3.68,5.12,Western,Western
+1206,USA,MLS,2015,2015-07-18,21:00,Toronto FC,Philadelphia Union,2,1,H,1.96,3.83,3.94,2.0,3.83,4.3,1.92,3.52,3.76,Eastern,Eastern
+1207,USA,MLS,2015,2015-07-19,00:30,New England Revolution,New York City,1,0,H,2.01,3.85,3.73,2.18,3.85,3.73,2.02,3.52,3.41,Eastern,Eastern
+1208,USA,MLS,2015,2015-07-19,00:30,Orlando City,New York Red Bulls,0,2,A,2.49,3.56,2.92,2.6,3.56,2.92,2.44,3.33,2.75,Eastern,Eastern
+1209,USA,MLS,2015,2015-07-19,01:30,Sporting Kansas City,CF Montreal,2,1,H,1.85,3.8,4.47,1.87,3.9,5.75,1.73,3.69,4.59,Western,Eastern
+1210,USA,MLS,2015,2015-07-19,02:00,FC Dallas,DC United,2,1,H,1.7,3.85,5.58,1.75,3.86,5.75,1.67,3.63,5.15,Western,Eastern
+1211,USA,MLS,2015,2015-07-19,03:00,Real Salt Lake,Houston Dynamo,2,0,H,2.24,3.38,3.53,2.3,3.4,3.54,2.19,3.24,3.25,Western,Western
+1212,USA,MLS,2015,2015-07-19,03:00,Seattle Sounders,Colorado Rapids,0,1,A,2.31,3.33,3.42,2.31,3.5,4.0,2.05,3.28,3.6,Western,Western
+1213,USA,MLS,2015,2015-07-19,03:30,Portland Timbers,Vancouver Whitecaps,1,1,D,1.97,3.54,4.24,2.01,3.6,4.24,1.96,3.38,3.8,Western,Western
+1214,USA,MLS,2015,2015-07-19,22:00,Columbus Crew,Chicago Fire,3,1,H,1.64,4.14,5.74,1.85,4.14,6.0,1.64,3.84,4.99,Eastern,Eastern
+1215,USA,MLS,2015,2015-07-25,04:00,Real Salt Lake,Sporting Kansas City,2,1,H,2.56,3.38,2.95,2.8,3.38,3.0,2.54,3.19,2.75,Western,Western
+1216,USA,MLS,2015,2015-07-26,00:30,Columbus Crew,Toronto FC,3,3,D,1.92,3.94,4.02,1.93,3.94,4.4,1.84,3.65,3.95,Eastern,Eastern
+1217,USA,MLS,2015,2015-07-26,01:00,CF Montreal,Seattle Sounders,1,0,H,2.07,3.52,3.88,2.07,3.6,4.2,1.97,3.35,3.81,Eastern,Western
+1218,USA,MLS,2015,2015-07-26,01:30,Chicago Fire,New England Revolution,2,2,D,2.03,3.7,3.87,2.2,3.7,4.05,2.03,3.44,3.51,Eastern,Eastern
+1219,USA,MLS,2015,2015-07-26,02:00,FC Dallas,Portland Timbers,4,1,H,2.12,3.55,3.69,2.15,3.6,3.8,2.06,3.36,3.47,Western,Western
+1220,USA,MLS,2015,2015-07-26,02:00,Houston Dynamo,Los Angeles Galaxy,3,0,H,2.71,3.48,2.71,3.25,3.48,2.71,2.79,3.24,2.49,Western,Western
+1221,USA,MLS,2015,2015-07-26,19:30,New York City,Orlando City,5,3,H,2.31,3.43,3.33,2.31,3.6,3.5,2.2,3.32,3.19,Eastern,Eastern
+1222,USA,MLS,2015,2015-07-26,22:00,DC United,Philadelphia Union,3,2,H,2.02,3.64,3.93,2.11,3.7,4.15,1.97,3.41,3.7,Eastern,Eastern
+1223,USA,MLS,2015,2015-07-27,00:00,Vancouver Whitecaps,San Jose Earthquakes,3,1,H,1.87,3.59,4.71,1.89,3.78,5.5,1.74,3.55,4.76,Western,Western
+1224,USA,MLS,2015,2015-08-01,19:00,New York City,CF Montreal,2,3,A,1.93,3.78,4.14,2.0,3.91,4.2,1.91,3.59,3.76,Eastern,Eastern
+1225,USA,MLS,2015,2015-08-02,00:00,DC United,Real Salt Lake,6,4,H,1.97,3.66,4.09,1.98,3.66,4.45,1.91,3.44,3.91,Eastern,Western
+1226,USA,MLS,2015,2015-08-02,00:00,Philadelphia Union,New York Red Bulls,1,3,A,2.86,3.61,2.5,2.86,3.7,2.75,2.65,3.41,2.51,Eastern,Eastern
+1227,USA,MLS,2015,2015-08-02,00:30,New England Revolution,Toronto FC,3,1,H,2.12,3.7,3.54,2.12,3.8,3.85,2.0,3.49,3.51,Eastern,Eastern
+1228,USA,MLS,2015,2015-08-02,00:30,Orlando City,Columbus Crew,5,2,H,2.12,3.64,3.57,2.26,3.67,3.57,2.12,3.4,3.28,Eastern,Eastern
+1229,USA,MLS,2015,2015-08-02,01:30,Sporting Kansas City,Houston Dynamo,1,1,D,1.66,3.96,5.91,1.73,4.0,6.0,1.65,3.68,5.19,Western,Western
+1230,USA,MLS,2015,2015-08-02,02:00,Colorado Rapids,Los Angeles Galaxy,1,3,A,2.38,3.46,3.16,2.6,3.5,3.16,2.41,3.27,2.85,Western,Western
+1231,USA,MLS,2015,2015-08-02,03:00,Seattle Sounders,Vancouver Whitecaps,0,3,A,2.21,3.28,3.76,2.38,3.36,3.76,2.15,3.19,3.43,Western,Western
+1232,USA,MLS,2015,2015-08-02,22:00,San Jose Earthquakes,Portland Timbers,0,0,D,2.57,3.46,2.88,2.6,3.5,2.95,2.45,3.28,2.8,Western,Western
+1233,USA,MLS,2015,2015-08-03,00:00,Chicago Fire,FC Dallas,2,0,H,2.36,3.46,3.19,2.6,3.5,3.19,2.39,3.29,2.89,Eastern,Western
+1234,USA,MLS,2015,2015-08-06,01:00,CF Montreal,New York Red Bulls,1,1,D,2.89,3.59,2.5,2.94,3.6,2.78,2.62,3.4,2.55,Eastern,Eastern
+1235,USA,MLS,2015,2015-08-06,01:00,Toronto FC,Orlando City,4,1,H,1.97,3.73,3.99,2.2,3.8,4.15,1.95,3.55,3.63,Eastern,Eastern
+1236,USA,MLS,2015,2015-08-08,04:00,Portland Timbers,Chicago Fire,1,0,H,1.85,3.77,4.54,1.86,4.05,5.55,1.77,3.63,4.41,Western,Eastern
+1237,USA,MLS,2015,2015-08-08,21:00,Toronto FC,Sporting Kansas City,1,3,A,2.06,3.65,3.77,2.15,3.73,3.9,2.0,3.45,3.57,Eastern,Western
+1238,USA,MLS,2015,2015-08-09,00:30,Orlando City,Philadelphia Union,0,0,D,1.96,3.75,4.02,1.99,3.85,4.3,1.9,3.58,3.81,Eastern,Eastern
+1239,USA,MLS,2015,2015-08-09,01:00,CF Montreal,DC United,0,1,A,2.19,3.44,3.61,2.2,3.6,3.61,2.11,3.33,3.37,Eastern,Eastern
+1240,USA,MLS,2015,2015-08-09,02:00,Colorado Rapids,Columbus Crew,1,2,A,2.41,3.38,3.18,2.42,3.5,3.3,2.28,3.28,3.07,Western,Eastern
+1241,USA,MLS,2015,2015-08-09,02:00,Houston Dynamo,San Jose Earthquakes,2,1,H,1.94,3.59,4.31,2.0,3.6,4.7,1.9,3.4,4.0,Western,Western
+1242,USA,MLS,2015,2015-08-09,03:00,Vancouver Whitecaps,Real Salt Lake,4,0,H,1.46,4.68,8.01,1.7,4.7,8.01,1.49,4.22,6.3,Western,Western
+1243,USA,MLS,2015,2015-08-09,21:00,Los Angeles Galaxy,Seattle Sounders,3,1,H,1.49,4.54,7.47,1.57,4.65,7.72,1.47,4.21,6.65,Western,Western
+1244,USA,MLS,2015,2015-08-10,00:00,New York Red Bulls,New York City,2,0,H,1.56,4.57,5.97,1.73,4.95,5.97,1.57,4.25,5.13,Eastern,Eastern
+1245,USA,MLS,2015,2015-08-14,00:00,New York City,DC United,3,1,H,2.03,3.81,3.71,2.06,3.9,4.0,1.97,3.58,3.55,Eastern,Eastern
+1246,USA,MLS,2015,2015-08-15,04:00,San Jose Earthquakes,Colorado Rapids,1,0,H,2.15,3.51,3.65,2.17,3.51,3.86,2.09,3.3,3.46,Western,Western
+1247,USA,MLS,2015,2015-08-16,00:00,New York Red Bulls,Toronto FC,3,0,H,1.72,4.2,4.82,1.75,4.22,5.0,1.68,3.9,4.59,Eastern,Eastern
+1248,USA,MLS,2015,2015-08-16,00:30,New England Revolution,Houston Dynamo,2,0,H,1.75,3.82,5.17,1.9,3.88,5.17,1.75,3.6,4.61,Eastern,Western
+1249,USA,MLS,2015,2015-08-16,02:00,FC Dallas,Los Angeles Galaxy,1,2,A,2.6,3.53,2.81,2.73,3.6,3.1,2.47,3.35,2.75,Western,Western
+1250,USA,MLS,2015,2015-08-16,02:00,Sporting Kansas City,Vancouver Whitecaps,4,3,H,2.02,3.52,4.06,2.15,3.56,4.1,2.0,3.36,3.71,Western,Western
+1251,USA,MLS,2015,2015-08-16,03:00,Real Salt Lake,Portland Timbers,0,1,A,2.47,3.56,2.94,2.55,3.56,3.0,2.42,3.32,2.82,Western,Western
+1252,USA,MLS,2015,2015-08-16,22:00,Seattle Sounders,Orlando City,4,0,H,1.96,3.61,4.2,2.0,3.65,4.2,1.91,3.45,3.92,Western,Eastern
+1253,USA,MLS,2015,2015-08-17,00:00,Philadelphia Union,Chicago Fire,3,3,D,2.06,3.61,3.8,2.07,3.65,3.98,1.99,3.44,3.65,Eastern,Eastern
+1254,USA,MLS,2015,2015-08-20,00:30,Columbus Crew,New York City,2,2,D,1.83,4.16,4.17,1.88,4.27,4.2,1.8,3.94,3.85,Eastern,Eastern
+1255,USA,MLS,2015,2015-08-20,01:30,Sporting Kansas City,San Jose Earthquakes,0,5,A,1.76,3.9,4.99,1.76,4.15,6.3,1.64,3.77,5.15,Western,Western
+1256,USA,MLS,2015,2015-08-22,04:00,Portland Timbers,Houston Dynamo,2,2,D,1.76,4.05,4.75,1.76,4.1,5.9,1.68,3.78,4.81,Western,Western
+1257,USA,MLS,2015,2015-08-22,21:00,Toronto FC,Orlando City,5,0,H,1.78,3.99,4.68,1.83,4.1,5.0,1.74,3.72,4.42,Eastern,Eastern
+1258,USA,MLS,2015,2015-08-23,00:00,DC United,San Jose Earthquakes,0,2,A,2.81,3.4,2.67,2.81,3.6,3.7,2.44,3.28,2.86,Eastern,Western
+1259,USA,MLS,2015,2015-08-23,00:30,Columbus Crew,Sporting Kansas City,3,2,H,1.75,4.08,4.8,2.0,4.08,4.8,1.76,3.77,4.28,Eastern,Western
+1260,USA,MLS,2015,2015-08-23,01:00,CF Montreal,Philadelphia Union,0,1,A,2.08,3.64,3.65,2.1,3.7,3.96,2.01,3.46,3.55,Eastern,Eastern
+1261,USA,MLS,2015,2015-08-23,01:30,Chicago Fire,Colorado Rapids,0,1,A,2.08,3.61,3.66,2.12,3.61,3.76,2.02,3.41,3.57,Eastern,Western
+1262,USA,MLS,2015,2015-08-23,03:00,Real Salt Lake,Seattle Sounders,2,0,H,2.36,3.54,3.1,2.36,3.6,3.42,2.22,3.33,3.13,Western,Western
+1263,USA,MLS,2015,2015-08-23,03:00,Vancouver Whitecaps,FC Dallas,1,0,H,1.81,3.83,4.74,2.0,3.83,4.9,1.8,3.55,4.37,Western,Western
+1264,USA,MLS,2015,2015-08-23,20:00,Los Angeles Galaxy,New York City,5,1,H,1.47,4.98,6.9,1.53,4.98,6.9,1.47,4.57,5.97,Western,Eastern
+1265,USA,MLS,2015,2015-08-27,01:30,Chicago Fire,New York Red Bulls,3,2,H,2.75,3.58,2.62,2.8,3.7,2.65,2.66,3.38,2.51,Eastern,Eastern
+1266,USA,MLS,2015,2015-08-27,02:00,Colorado Rapids,Houston Dynamo,2,1,H,2.01,3.52,4.12,2.1,3.52,4.25,1.97,3.37,3.78,Western,Western
+1267,USA,MLS,2015,2015-08-29,04:00,San Jose Earthquakes,Los Angeles Galaxy,1,0,H,3.57,3.62,2.15,3.62,3.62,2.4,3.31,3.4,2.12,Western,Western
+1268,USA,MLS,2015,2015-08-29,21:00,New York City,Columbus Crew,1,2,A,2.34,3.81,2.99,2.35,4.0,3.15,2.21,3.64,2.94,Eastern,Eastern
+1269,USA,MLS,2015,2015-08-29,21:00,Toronto FC,CF Montreal,2,1,H,1.66,4.07,5.66,1.8,4.15,5.66,1.66,3.83,4.84,Eastern,Eastern
+1270,USA,MLS,2015,2015-08-30,00:00,Philadelphia Union,New England Revolution,0,1,A,2.12,3.56,3.67,2.15,3.75,3.67,2.06,3.47,3.39,Eastern,Eastern
+1271,USA,MLS,2015,2015-08-30,00:30,Orlando City,Chicago Fire,1,1,D,2.3,3.49,3.29,2.4,3.52,3.3,2.23,3.32,3.12,Eastern,Eastern
+1272,USA,MLS,2015,2015-08-30,02:00,Colorado Rapids,Sporting Kansas City,2,1,H,2.29,3.52,3.29,2.3,3.53,3.38,2.21,3.38,3.11,Western,Western
+1273,USA,MLS,2015,2015-08-30,02:00,FC Dallas,Real Salt Lake,2,0,H,1.83,3.8,4.68,1.84,4.0,5.5,1.73,3.67,4.61,Western,Western
+1274,USA,MLS,2015,2015-08-30,02:00,Houston Dynamo,Vancouver Whitecaps,2,0,H,2.12,3.5,3.73,2.55,3.5,3.73,2.19,3.3,3.26,Western,Western
+1275,USA,MLS,2015,2015-08-30,21:30,Seattle Sounders,Portland Timbers,2,1,H,2.02,3.54,4.02,2.15,3.58,4.05,2.0,3.39,3.65,Western,Western
+1276,USA,MLS,2015,2015-08-31,00:00,New York Red Bulls,DC United,3,0,H,1.56,4.49,6.14,1.6,4.49,6.5,1.54,4.14,5.69,Eastern,Eastern
+1277,USA,MLS,2015,2015-09-06,00:30,New England Revolution,Orlando City,3,0,H,1.5,4.45,7.4,1.53,4.75,7.7,1.47,4.21,6.64,Eastern,Eastern
+1278,USA,MLS,2015,2015-09-06,01:00,CF Montreal,Chicago Fire,4,3,H,2.09,3.65,3.67,2.13,3.65,3.85,2.02,3.43,3.52,Eastern,Eastern
+1279,USA,MLS,2015,2015-09-06,03:00,Seattle Sounders,Toronto FC,2,1,H,1.61,4.24,5.94,1.75,4.3,6.0,1.6,3.89,5.34,Western,Eastern
+1280,USA,MLS,2015,2015-09-06,03:30,San Jose Earthquakes,Philadelphia Union,1,2,A,1.9,3.7,4.37,1.92,3.7,4.6,1.86,3.47,4.08,Western,Eastern
+1281,USA,MLS,2015,2015-09-07,00:00,Columbus Crew,FC Dallas,0,3,A,2.14,3.59,3.59,2.2,3.78,3.7,2.08,3.46,3.33,Eastern,Western
+1282,USA,MLS,2015,2015-09-10,03:00,Vancouver Whitecaps,Colorado Rapids,2,0,H,1.69,3.88,5.62,1.75,4.0,5.75,1.67,3.72,5.06,Western,Western
+1283,USA,MLS,2015,2015-09-10,03:30,Portland Timbers,Sporting Kansas City,0,0,D,2.03,3.71,3.82,2.05,3.72,4.2,1.93,3.5,3.78,Western,Western
+1284,USA,MLS,2015,2015-09-12,00:00,New York Red Bulls,Chicago Fire,3,2,H,1.51,4.84,6.51,1.55,4.84,6.64,1.5,4.37,5.83,Eastern,Eastern
+1285,USA,MLS,2015,2015-09-13,00:00,Philadelphia Union,Columbus Crew,1,2,A,2.08,3.76,3.59,2.35,3.8,3.59,2.11,3.52,3.22,Eastern,Eastern
+1286,USA,MLS,2015,2015-09-13,01:30,FC Dallas,New York City,2,1,H,1.63,4.56,5.21,1.68,4.56,5.75,1.61,4.14,4.86,Western,Eastern
+1287,USA,MLS,2015,2015-09-13,01:30,Houston Dynamo,Real Salt Lake,1,3,A,1.79,3.76,4.96,1.83,3.78,5.0,1.77,3.53,4.59,Western,Western
+1288,USA,MLS,2015,2015-09-13,02:00,Colorado Rapids,DC United,1,1,D,1.78,3.76,5.07,1.97,3.85,5.08,1.8,3.53,4.42,Western,Eastern
+1289,USA,MLS,2015,2015-09-13,03:30,Los Angeles Galaxy,CF Montreal,0,0,D,1.56,4.45,6.33,1.56,5.0,8.5,1.47,4.4,6.44,Western,Eastern
+1290,USA,MLS,2015,2015-09-13,03:30,San Jose Earthquakes,Seattle Sounders,1,1,D,2.39,3.46,3.16,2.39,3.46,3.3,2.28,3.25,3.1,Western,Western
+1291,USA,MLS,2015,2015-09-13,22:00,Toronto FC,New England Revolution,1,3,A,2.32,3.68,3.1,2.34,3.7,3.2,2.23,3.44,3.04,Eastern,Eastern
+1292,USA,MLS,2015,2015-09-14,00:00,Orlando City,Sporting Kansas City,3,1,H,2.72,3.53,2.68,2.74,3.59,2.75,2.6,3.35,2.59,Eastern,Western
+1293,USA,MLS,2015,2015-09-17,00:30,New England Revolution,New York Red Bulls,2,1,H,2.59,3.53,2.81,2.61,3.72,3.0,2.45,3.42,2.71,Eastern,Eastern
+1294,USA,MLS,2015,2015-09-17,00:30,New York City,Toronto FC,2,0,H,2.58,3.92,2.61,2.58,4.0,3.0,2.42,3.69,2.6,Eastern,Eastern
+1295,USA,MLS,2015,2015-09-17,03:30,San Jose Earthquakes,CF Montreal,1,1,D,1.74,3.96,5.12,1.83,4.0,5.2,1.72,3.72,4.58,Western,Eastern
+1296,USA,MLS,2015,2015-09-19,00:00,Sporting Kansas City,FC Dallas,3,1,H,2.14,3.56,3.6,2.5,3.7,4.0,2.1,3.45,3.34,Western,Western
+1297,USA,MLS,2015,2015-09-19,19:00,Toronto FC,Colorado Rapids,3,1,H,1.77,3.84,4.99,1.8,3.95,5.5,1.73,3.63,4.7,Eastern,Western
+1298,USA,MLS,2015,2015-09-20,00:00,DC United,Columbus Crew,1,2,A,2.65,3.56,2.72,2.68,3.7,2.88,2.53,3.41,2.63,Eastern,Eastern
+1299,USA,MLS,2015,2015-09-20,00:00,New York City,San Jose Earthquakes,3,2,H,2.08,3.86,3.52,2.08,3.9,3.6,2.03,3.59,3.35,Eastern,Western
+1300,USA,MLS,2015,2015-09-20,00:00,Vancouver Whitecaps,Seattle Sounders,0,3,A,2.1,3.54,3.77,2.2,3.55,3.85,2.07,3.35,3.5,Western,Western
+1301,USA,MLS,2015,2015-09-20,01:00,CF Montreal,New England Revolution,3,0,H,2.4,3.52,3.09,2.42,3.65,3.1,2.32,3.35,2.94,Eastern,Eastern
+1302,USA,MLS,2015,2015-09-20,01:30,Chicago Fire,Orlando City,0,1,A,1.63,4.11,5.92,1.85,4.11,5.92,1.66,3.82,5.02,Eastern,Eastern
+1303,USA,MLS,2015,2015-09-20,02:30,Real Salt Lake,Los Angeles Galaxy,3,0,H,3.36,3.66,2.2,3.6,3.7,2.4,3.22,3.47,2.13,Western,Western
+1304,USA,MLS,2015,2015-09-20,22:00,Portland Timbers,New York Red Bulls,0,2,A,1.89,3.92,4.13,2.05,4.0,4.13,1.9,3.65,3.71,Western,Eastern
+1305,USA,MLS,2015,2015-09-21,00:00,Philadelphia Union,Houston Dynamo,2,0,H,1.75,4.0,4.93,1.92,4.1,5.0,1.74,3.74,4.4,Eastern,Western
+1306,USA,MLS,2015,2015-09-24,01:00,CF Montreal,Chicago Fire,2,1,H,1.61,4.45,5.65,1.67,4.45,5.75,1.59,4.08,5.19,Eastern,Eastern
+1307,USA,MLS,2015,2015-09-24,01:30,Houston Dynamo,Sporting Kansas City,1,0,H,2.37,3.38,3.27,2.51,3.6,3.27,2.36,3.32,2.93,Western,Western
+1308,USA,MLS,2015,2015-09-26,00:00,New York Red Bulls,Orlando City,2,5,A,1.33,5.77,10.06,1.4,5.8,10.5,1.32,5.28,8.67,Eastern,Eastern
+1309,USA,MLS,2015,2015-09-26,19:00,Toronto FC,Chicago Fire,3,2,H,1.59,4.42,5.85,1.61,4.6,6.5,1.54,4.15,5.61,Eastern,Eastern
+1310,USA,MLS,2015,2015-09-26,22:00,CF Montreal,DC United,2,0,H,1.76,3.93,4.91,1.81,3.95,5.0,1.75,3.68,4.44,Eastern,Eastern
+1311,USA,MLS,2015,2015-09-27,00:30,Columbus Crew,Portland Timbers,1,2,A,1.9,3.93,4.09,2.0,3.93,4.3,1.89,3.63,3.8,Eastern,Western
+1312,USA,MLS,2015,2015-09-27,00:30,New England Revolution,Philadelphia Union,1,1,D,1.47,4.69,7.74,1.5,4.75,7.76,1.44,4.33,6.94,Eastern,Eastern
+1313,USA,MLS,2015,2015-09-27,01:30,Houston Dynamo,Colorado Rapids,3,2,H,2.02,3.55,4.02,2.05,3.6,4.05,1.98,3.41,3.72,Western,Western
+1314,USA,MLS,2015,2015-09-27,03:00,Vancouver Whitecaps,New York City,1,2,A,1.68,4.44,4.94,1.68,4.6,5.7,1.6,4.13,5.07,Western,Eastern
+1315,USA,MLS,2015,2015-09-27,22:00,Sporting Kansas City,Seattle Sounders,1,1,D,3.66,3.63,2.1,3.67,3.64,2.6,3.34,3.43,2.11,Western,Western
+1316,USA,MLS,2015,2015-09-28,00:00,San Jose Earthquakes,Real Salt Lake,1,0,H,1.9,3.84,4.11,2.0,3.84,4.25,1.91,3.54,3.85,Western,Western
+1317,USA,MLS,2015,2015-09-28,02:30,Los Angeles Galaxy,FC Dallas,3,2,H,1.62,4.32,5.72,1.67,4.36,5.72,1.6,4.01,5.22,Western,Western
+1318,USA,MLS,2015,2015-10-03,00:00,DC United,New York City,2,1,H,2.39,3.67,3.0,2.5,3.7,3.0,2.38,3.5,2.76,Eastern,Eastern
+1319,USA,MLS,2015,2015-10-03,22:00,Toronto FC,Philadelphia Union,3,1,H,1.57,4.48,5.99,1.58,4.65,7.0,1.52,4.21,5.89,Eastern,Eastern
+1320,USA,MLS,2015,2015-10-04,00:00,New York Red Bulls,Columbus Crew,2,1,H,1.82,4.15,4.28,1.85,4.22,4.5,1.79,3.86,4.01,Eastern,Eastern
+1321,USA,MLS,2015,2015-10-04,00:30,Orlando City,CF Montreal,2,1,H,2.16,3.55,3.56,2.2,3.8,3.56,2.13,3.44,3.27,Eastern,Eastern
+1322,USA,MLS,2015,2015-10-04,01:30,Chicago Fire,New England Revolution,3,1,H,3.49,3.6,2.17,3.49,3.72,2.5,3.15,3.45,2.18,Eastern,Eastern
+1323,USA,MLS,2015,2015-10-04,03:30,Portland Timbers,Sporting Kansas City,0,1,A,1.57,4.26,6.57,1.7,4.3,7.0,1.53,4.0,6.15,Western,Western
+1324,USA,MLS,2015,2015-10-04,03:30,San Jose Earthquakes,Vancouver Whitecaps,1,1,D,2.28,3.45,3.37,2.4,3.45,3.4,2.23,3.28,3.17,Western,Western
+1325,USA,MLS,2015,2015-10-04,22:00,FC Dallas,Houston Dynamo,4,1,H,1.78,3.91,4.8,1.82,4.1,5.0,1.72,3.77,4.55,Western,Western
+1326,USA,MLS,2015,2015-10-05,00:00,Colorado Rapids,Real Salt Lake,1,2,A,2.2,3.62,3.41,2.21,3.68,3.7,2.13,3.39,3.29,Western,Western
+1327,USA,MLS,2015,2015-10-05,02:30,Seattle Sounders,Los Angeles Galaxy,1,1,D,2.6,3.5,2.82,2.62,3.65,3.1,2.43,3.34,2.79,Western,Western
+1328,USA,MLS,2015,2015-10-08,00:30,New York Red Bulls,CF Montreal,2,1,H,1.7,4.07,5.18,1.7,4.4,5.75,1.61,4.02,5.02,Eastern,Eastern
+1329,USA,MLS,2015,2015-10-08,03:00,Vancouver Whitecaps,FC Dallas,0,0,D,2.01,3.7,3.88,2.1,3.72,3.98,1.97,3.46,3.68,Western,Western
+1330,USA,MLS,2015,2015-10-10,23:00,Colorado Rapids,CF Montreal,0,1,A,2.85,3.54,2.56,2.91,3.56,2.8,2.7,3.3,2.54,Western,Eastern
+1331,USA,MLS,2015,2015-10-15,00:00,Toronto FC,New York Red Bulls,2,1,H,2.84,3.61,2.52,2.85,3.65,2.7,2.71,3.39,2.48,Eastern,Eastern
+1332,USA,MLS,2015,2015-10-15,02:00,FC Dallas,Vancouver Whitecaps,2,0,H,1.83,3.76,4.76,1.9,4.1,5.2,1.77,3.57,4.52,Western,Western
+1333,USA,MLS,2015,2015-10-15,02:30,Real Salt Lake,Portland Timbers,0,1,A,2.09,3.66,3.65,2.2,3.7,3.65,2.08,3.45,3.37,Western,Western
+1334,USA,MLS,2015,2015-10-17,00:00,Orlando City,New York City,2,1,H,1.72,4.33,4.72,2.0,4.33,4.75,1.81,3.93,3.94,Eastern,Eastern
+1335,USA,MLS,2015,2015-10-17,04:00,San Jose Earthquakes,Sporting Kansas City,1,0,H,2.18,3.54,3.52,2.22,3.56,3.52,2.15,3.33,3.3,Western,Western
+1336,USA,MLS,2015,2015-10-17,19:00,Toronto FC,Columbus Crew,0,2,A,2.2,3.84,3.23,2.25,3.92,3.3,2.12,3.6,3.14,Eastern,Eastern
+1337,USA,MLS,2015,2015-10-18,00:30,New England Revolution,CF Montreal,0,1,A,1.85,3.8,4.52,1.91,3.85,4.68,1.81,3.6,4.2,Eastern,Eastern
+1338,USA,MLS,2015,2015-10-18,02:30,Real Salt Lake,FC Dallas,0,1,A,2.65,3.84,2.58,2.75,3.84,2.65,2.61,3.44,2.54,Western,Western
+1339,USA,MLS,2015,2015-10-18,19:00,DC United,Chicago Fire,4,0,H,1.95,3.9,3.82,2.0,3.95,4.33,1.87,3.72,3.81,Eastern,Eastern
+1340,USA,MLS,2015,2015-10-18,20:00,New York Red Bulls,Philadelphia Union,4,1,H,1.41,5.22,7.95,1.46,5.22,8.3,1.42,4.63,6.9,Eastern,Eastern
+1341,USA,MLS,2015,2015-10-18,22:00,Houston Dynamo,Seattle Sounders,1,1,D,2.76,3.48,2.67,2.76,3.68,2.75,2.63,3.31,2.6,Western,Western
+1342,USA,MLS,2015,2015-10-19,00:00,Los Angeles Galaxy,Portland Timbers,2,5,A,1.64,4.18,5.66,1.69,4.4,5.83,1.6,3.99,5.32,Western,Western
+1343,USA,MLS,2015,2015-10-22,01:30,Sporting Kansas City,Colorado Rapids,0,2,A,1.42,4.62,8.98,1.45,4.96,9.4,1.39,4.51,8.02,Western,Western
+1344,USA,MLS,2015,2015-10-25,21:00,Columbus Crew,DC United,5,0,H,1.84,3.9,4.43,1.84,3.92,4.5,1.78,3.71,4.24,Eastern,Eastern
+1345,USA,MLS,2015,2015-10-25,21:00,CF Montreal,Toronto FC,2,1,H,2.2,3.72,3.31,2.2,3.75,3.6,2.1,3.52,3.25,Eastern,Eastern
+1346,USA,MLS,2015,2015-10-25,21:00,New York City,New England Revolution,1,3,A,2.83,3.84,2.43,2.95,3.84,2.6,2.76,3.52,2.38,Eastern,Eastern
+1347,USA,MLS,2015,2015-10-25,21:00,Philadelphia Union,Orlando City,1,0,H,2.16,3.99,3.22,2.25,3.99,3.3,2.14,3.65,3.07,Eastern,Eastern
+1348,USA,MLS,2015,2015-10-25,23:00,Chicago Fire,New York Red Bulls,1,2,A,4.52,4.16,1.78,4.8,4.21,1.9,4.24,3.88,1.75,Eastern,Eastern
+1349,USA,MLS,2015,2015-10-25,23:00,FC Dallas,San Jose Earthquakes,2,1,H,1.96,3.76,4.0,2.05,3.8,4.23,1.92,3.53,3.8,Western,Western
+1350,USA,MLS,2015,2015-10-25,23:00,Portland Timbers,Colorado Rapids,4,1,H,1.46,4.84,7.56,1.46,4.9,8.5,1.41,4.49,7.51,Western,Western
+1351,USA,MLS,2015,2015-10-25,23:00,Seattle Sounders,Real Salt Lake,3,1,H,1.43,4.99,7.93,1.45,4.99,8.58,1.4,4.53,7.71,Western,Western
+1352,USA,MLS,2015,2015-10-25,23:00,Sporting Kansas City,Los Angeles Galaxy,2,1,H,2.57,3.46,2.89,2.57,3.6,2.94,2.47,3.32,2.76,Western,Western
+1353,USA,MLS,2015,2015-10-25,23:00,Vancouver Whitecaps,Houston Dynamo,3,0,H,1.52,4.43,7.06,1.52,4.44,7.5,1.49,4.11,6.69,Western,Western
+1354,USA,MLS,2015,2015-10-28,23:30,DC United,New England Revolution,2,1,H,2.95,3.45,2.52,3.2,3.46,2.6,2.9,3.29,2.37,Eastern,Eastern
+1355,USA,MLS,2015,2015-10-29,02:00,Seattle Sounders,Los Angeles Galaxy,3,2,H,2.19,3.63,3.41,2.3,3.64,3.58,2.15,3.41,3.22,Western,Western
+1356,USA,MLS,2015,2015-10-29,23:00,CF Montreal,Toronto FC,3,0,H,2.17,3.62,3.45,2.25,3.69,3.65,2.11,3.46,3.27,Eastern,Eastern
+1357,USA,MLS,2015,2015-10-30,02:00,Portland Timbers,Sporting Kansas City,1,1,D,1.78,3.77,5.01,1.9,3.86,5.01,1.76,3.57,4.54,Western,Western
+1358,USA,MLS,2015,2015-11-01,20:00,DC United,New York Red Bulls,0,1,A,3.77,3.74,2.03,3.77,3.75,2.21,3.36,3.5,2.06,Eastern,Eastern
+1359,USA,MLS,2015,2015-11-01,22:00,Portland Timbers,Vancouver Whitecaps,0,0,D,2.09,3.41,3.87,2.15,3.48,3.87,2.08,3.26,3.55,Western,Western
+1360,USA,MLS,2015,2015-11-02,00:00,CF Montreal,Columbus Crew,2,1,H,2.13,3.81,3.4,2.13,3.81,3.6,2.07,3.52,3.31,Eastern,Eastern
+1361,USA,MLS,2015,2015-11-02,02:30,Seattle Sounders,FC Dallas,2,1,H,2.08,3.47,3.91,2.12,3.65,3.96,2.01,3.38,3.61,Western,Western
+1362,USA,MLS,2015,2015-11-08,20:00,New York Red Bulls,DC United,1,0,H,1.37,5.3,9.35,1.5,5.58,9.5,1.35,4.92,8.1,Eastern,Eastern
+1363,USA,MLS,2015,2015-11-08,22:00,Columbus Crew,CF Montreal,2,1,H,1.9,3.92,4.09,2.0,3.92,4.09,1.9,3.64,3.74,Eastern,Eastern
+1364,USA,MLS,2015,2015-11-09,00:30,FC Dallas,Seattle Sounders,2,1,H,1.75,3.96,5.03,2.0,4.1,5.13,1.72,3.75,4.59,Western,Western
+1365,USA,MLS,2015,2015-11-09,03:00,Vancouver Whitecaps,Portland Timbers,0,2,A,2.32,3.41,3.32,2.32,3.5,3.7,2.14,3.31,3.34,Western,Western
+1366,USA,MLS,2015,2015-11-22,22:00,Columbus Crew,New York Red Bulls,2,0,H,2.33,3.69,3.08,2.5,3.69,3.15,2.31,3.42,2.93,Eastern,Eastern
+1367,USA,MLS,2015,2015-11-23,00:30,Portland Timbers,FC Dallas,3,1,H,2.06,3.48,3.98,2.16,3.5,4.25,2.03,3.3,3.68,Western,Western
+1368,USA,MLS,2015,2015-11-29,22:00,FC Dallas,Portland Timbers,2,2,D,1.83,3.95,4.44,1.93,3.99,4.9,1.8,3.7,4.14,Western,Western
+1369,USA,MLS,2015,2015-11-30,00:30,New York Red Bulls,Columbus Crew,1,0,H,1.6,4.71,5.35,1.68,4.71,5.6,1.6,4.22,4.92,Eastern,Eastern
+1370,USA,MLS,2015,2015-12-06,21:00,Columbus Crew,Portland Timbers,1,2,A,2.07,3.54,3.83,2.11,3.56,3.9,2.05,3.37,3.58,Eastern,Western
