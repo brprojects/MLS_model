@@ -1,5 +1,9 @@
 # MLS Model
 
+## Introduction
+
+Using a dataset containing the results of MLS matches from the start of the 2012 season to the end of the 2015 seasons, this project makes predictions for matches in the 2016 MLS regular season for both the Eastern and Western Conferences.
+
 ## Editing data
 
 In *editing_data.py*:
