@@ -108,6 +108,6 @@ The results show that model B better predicted the number of goals scored, but m
 In *simulation.py*:
 Eastern and Western Conference tables are simulated for the 2016 season, resulting in tables such as the ones shown in the figures below.
 LA Galaxy simulation:
-Over 104 simulations LA Galaxy finished in the top two positions in the Western Conference 52.51% of the time.
+Over 10,000 simulations LA Galaxy finished in the top two positions in the Western Conference 52.51% of the time.
 
 ![simulation](./Other/photos/simulation.png)
