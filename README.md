@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Using a dataset containing the results of MLS matches from the start of the 2012 season to the end of the 2015 seasons, this project makes predictions for matches in the 2016 MLS regular season for both the Eastern and Western Conferences.
+This project utilizes data from Major League Soccer (MLS) matches spanning multiple seasons to make predictions for the 2016 MLS regular season. The project covers various aspects such as data cleaning, preprocessing and analyzing the dataset, building and evaluating predictive models for match outcomes, forecasting team performance, comparing different models, and simulating the league table. Poisson regression is used to model the number of goals scored by each team, which in turn determines the outcomes of each match.
 
 ## Editing data
 
