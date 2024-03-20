@@ -8,8 +8,7 @@ This project utilizes data from Major League Soccer (MLS) matches spanning multi
 
 In *editing_data.py*:
 
-Load the data downloaded from https://football-data.co.uk as *data.csv*, and after editing save it as *edited_data.csv*.
-
+Load the data downloaded from https://football-data.co.uk as *data.csv*, and after preprocessing and cleaning is saved as *edited_data.csv*.
 
 ## Descriptive Statistics
 
@@ -54,6 +53,37 @@ Model A is saved as *goals_model*.
 
 ![model_parameters_2](./Other/photos/model_parameters_2.png)
 
+**Accounting for seasonal patterns:**
+
+In *improved_model.py*:
+Model B, in which I included the seasonality of goals, where more goals are scored by the home team as the season progresses, yielded a model with a log-likelihood of -2088.6 and the parameters shown below. This results in a smaller likelihood than my previous model A (exp(-3937.2)) so the model including seasonality is better. This is achieved without overfitting the data.
+
+![model_parameters_improved](./Other/photos/model_parameters_improved.png)
+
+Model B is saved as *improved_goals_model*.
+
+## Forecasting
+
+In *forecasting2.py*:
+The scoring rates, lambda and mu, are calculated and used to find the probability of a home win, draw and an away win for each match. Data is saved as *data_mls_my_predictions2.csv*.
+
+In *expected_points_table.py*:
+
+![forecasting](./Other/photos/forecasting.png)
+
+The figure above shows the expected goals for and against and the expected points for each team in the 2016 season based on my model. In order to test my model, the resulting end-of-season predicted tables was compared with the actual results of the 2016 season. I calculated the root-mean-squared error (RMSE) between the model's results table and the actual table for goals for, against and points.
+
+![model_comparison](./Other/photos/model_comparison.png)
+
+## Simulation
+
+In *simulation.py*:
+Eastern and Western Conference tables are simulated for the 2016 season, resulting in tables such as the ones shown in the figures below.
+LA Galaxy simulation:
+Over 10,000 simulations LA Galaxy finished in the top two positions in the Western Conference 52.51% of the time.
+
+![simulation](./Other/photos/simulation.png)
+
 ## Model Extensions
 
 **Possible model improvements:**
@@ -76,38 +106,3 @@ be achieved by setting freq_weights=df[‘weights’] when fitting the model.
 indicate a better performance in the following games and season.
 - The context in which a game is in the season. For example, at the end of a season teams might
 care less about the result as it may have no impact on their position in the table, so as a result field a weaker team and so are more likely to lose. Similarly, teams might be forced to field a weaker team due to injuries or players on international duty.
-
-**Accounting for seasonal patterns:**
-
-In *improved_model.py*:
-Model B, in which I included the seasonality of goals, where more goals are scored by the home team as the season progresses, yielded a model with a log-likelihood of -2088.6 and the parameters shown below. This results in a smaller likelihood than my previous model A (exp(-3937.2)) so the model including seasonality is better. This is achieved without overfitting the data.
-
-![model_parameters_improved](./Other/photos/model_parameters_improved.png)
-
-Model B is saved as *improved_goals_model*.
-
-
-## Forecasting
-
-In *forecasting2.py*:
-The scoring rates, lambda and mu, are calculated as well as the probability of a home win, draw and an away win for each match. Data is saved as *data_mls_my_predictions2.csv*.
-
-In *expected_points_table.py*:
-
-![forecasting](./Other/photos/forecasting.png)
-
-The figure above shows the expected goals for and against and the expected points for each team in the 2016 season based on model B. In order to compare model B with model C, the resulting end- of-season predicted tables for both models were compared with a table that was created using the actual results of the 2016 season. I calculated the root-mean-squared error (RMSE) between the model tables and the actual table for goals for, against and points.
-
-![model_comparison](./Other/photos/model_comparison.png)
-
-The results show that model B better predicted the number of goals scored, but model C better predicted the points (win probabilities) and goals against each team. Since the league is decided on which team has more points, not goals, model C performs better.
-
-
-## Simulation
-
-In *simulation.py*:
-Eastern and Western Conference tables are simulated for the 2016 season, resulting in tables such as the ones shown in the figures below.
-LA Galaxy simulation:
-Over 10,000 simulations LA Galaxy finished in the top two positions in the Western Conference 52.51% of the time.
-
-![simulation](./Other/photos/simulation.png)
